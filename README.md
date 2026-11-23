@@ -4,7 +4,8 @@
 
 🏆 First place, Non Slop Hackathon (Pangram, Nous Research, Reducto, Modal; 22 November 2026)
 
-> **⚠️ Work in progress.** Cosign is a hackathon prototype under active development. Expect rough edges and breaking changes. The results are early and not yet validated: see [the limitations](METHODOLOGY.md#7-limitations).
+> **🔬 Research in progress. Our headline hackathon result has been falsified.**
+> At the hackathon we reported that co-writing with Cosign's mood dials took an AI-written abstract from 100% to 48% AI on Pangram. That drop was an artefact of how the score was computed, not an effect of the dials. A pre-registered follow-up test found that the dials do **not** make LFM3 text pass Pangram. The editor and the dials work as described, and several findings still hold. See **[Status of the findings](#status-of-the-findings)** below and [METHODOLOGY.md](METHODOLOGY.md) §6–8. Work is ongoing.
 
 ![Cosign: the mood wheel open over a document](docs/img/cosign-wheel.png)
 
@@ -20,17 +21,44 @@ Right now, the only options are:
 
 This project proposes an alternative take on interacting with artificial intelligence: the user controls how many tokens are generated and can steer them in a direction. By detaching AI writing from its persona as a "useful assistant", there is an opportunity to sit "on the same side" as the model.
 
-## The result
-
-Starting from the abstract of a paper written entirely by an AI system (Pangram: **100% AI**), one writer co-wrote forward with Cosign. They made 40 short model writes, 39 of them steered across all eight moods, plus 3 typed edits. Pangram's AI score fell almost steadily to **48%**.
-
-<img src="docs/img/tree-48.png" alt="The decision tree: the steered branch runs through a greener cluster; the imported AI chunks stay red" width="260" align="right">
-
 The hypothesis: people change mood a little between sentences, and language models write in one voice. Cosign gives the writer a mood dial for every sentence, built into the weights.
 
-**[METHODOLOGY.md](METHODOLOGY.md)** covers the whole process: the failed first attempt, the weight-space programming harness, the controls, the experiment, and its limitations. The main open question is whether Pangram has seen LFM3 output at all. Every number in it can be recomputed with the scripts in `scripts/`.
+## Status of the findings
 
-<br clear="right">
+*Updated 23 November 2026, after an external review ([issues #1–#14](https://github.com/moonstripe/cosign/issues)).*
+
+**What we claimed at the hackathon.** Starting from the abstract of a paper written entirely by an AI system (Pangram: 100% AI), one writer co-wrote forward with Cosign: 40 short model writes, 39 of them steered across all eight moods, plus 3 typed edits. Pangram's AI score fell almost steadily to 48%. We presented this as per-sentence mood variation making the text read as less AI.
+
+**Why that does not hold** ([#1](https://github.com/moonstripe/cosign/issues/1), [#2](https://github.com/moonstripe/cosign/issues/2)). Pangram's score is the share of characters that fall in windows it labels AI. In the 48% document it labelled the original abstract AI (characters 0–1,706) and **every appended character human**: typed or model-written, steered or not. The score is 1,706 / 3,527 = 0.484. At all 36 scored points on the branch, the score equals the share of the document that is still the original abstract, to within 0.005. The falling curve measured **dilution**, not the dials. Any text Pangram labelled human would have drawn the same curve. Also, 0.48 was the lowest score in the whole tree: continuations from that node scored 0.60–0.73.
+
+**The controlled test.** We then scored the generated text **on its own**, so it cannot be diluted. The [design](experiments/detector/PREREG.md) was committed before any data was generated. 10 openings × 2 seeds; Pangram AI score, mean over samples:
+
+| what wrote the text | 150 words | 300 words | 500 words |
+|---|---|---|---|
+| LFM3, unsteered | 0.82 | 0.89 | 0.91 |
+| LFM3, one mood held constant | 0.84 | 0.92 | 0.99 |
+| LFM3, **mood changed every sentence** | 0.71 | 0.87 | 0.86 |
+| LFM3, mood changed every sentence, incl. reversed dials | 0.77 | 0.98 | 0.97 |
+| LFM3 as a chat assistant ("continue this text") | 1.00 | 1.00 | 1.00 |
+| human text (2017 paper, 19th-century novels) | 0.00 | 0.00 | 0.00 |
+
+The pre-registered hypothesis, that changing mood every sentence lowers the score against both the unsteered and the constant-mood arms at 300 and 500 words, is **not supported**: the per-sentence arm is 0.04–0.13 lower on average (paired), but every 95% confidence interval includes zero. Many samples ended before 500 words, which leaves only 8–14 matched pairs at the longer lengths. Full results: [experiments/detector/results.md](experiments/detector/results.md).
+
+**What still holds.**
+
+- **The dials are real, measurable edits.** On held-out pairs the tense dial moves the model +1.19 nats/token toward tense text, against +0.02 for a random edit of the same size, with a smooth dose–response. (This check ran inside the programmer agent's own run; see [METHODOLOGY.md](METHODOLOGY.md) §4.3.)
+- **Directions read from the model's own text avoid the word-vector failure.** A word vector for "tense" made the model talk about grammar in 20 of 24 samples; the dial did so in 0 of 24.
+- **Dropping the assistant persona helps, a little.** Raw continuation scores below the same model used as a chat assistant, which Pangram flagged at 1.00 every time. Only the 150-word difference is clearly distinguishable from noise. Raw continuation is still flagged as AI.
+- **The editor works as described:** per-token control, character-level authorship, and the decision tree.
+
+**Other corrections from the review.**
+
+- The anti side of each wedge (calm, cold, grave, plain) runs a dial *in reverse* (negative α), which was tested for only one of the four axes ([#3](https://github.com/moonstripe/cosign/issues/3)). We previously wrote that it was "just the base model"; that was wrong.
+- The dial-effect tables compared each dial only against the base model. The lush dial moves the tender word list as much as the tender dial does, so those tables do not show mood-specific effects ([#4](https://github.com/moonstripe/cosign/issues/4)).
+- Because of how the dials are built, each is close to a constant multi-layer steering vector. The gain over word vectors comes from *where the direction is read*; it does not yet show that editing weights adds anything ([#8](https://github.com/moonstripe/cosign/issues/8)).
+- Smaller factual errors are fixed in METHODOLOGY.md ([#11](https://github.com/moonstripe/cosign/issues/11)). Engineering and security bugs ([#9](https://github.com/moonstripe/cosign/issues/9), [#10](https://github.com/moonstripe/cosign/issues/10), [#12](https://github.com/moonstripe/cosign/issues/12)–[#14](https://github.com/moonstripe/cosign/issues/14)) are open.
+
+**Next.** A larger, separately pre-registered replication of the per-sentence trend; evaluating or disabling the reversed dials; blind multi-judge dial evaluation ([#7](https://github.com/moonstripe/cosign/issues/7)); an ablation of direction source vs weight edit ([#8](https://github.com/moonstripe/cosign/issues/8)).
 
 ## How it works
 
@@ -47,18 +75,18 @@ The hypothesis: people change mood a little between sentences, and language mode
 | `Tab` | a plain tab (yours) |
 | hold `⌥Tab` / `⇧Tab` / `⌘↵` for ~0.2 s | open the **mood wheel** |
 
-- **Mood wheel.** There are four opposed axes: tense ↔ calm, tender ↔ cold, playful ↔ grave and lush ↔ plain. The direction you aim picks the mood (blending between neighbouring wedges), and the distance sets the dial from 0 to 1. Past 0.65 (the red line) the text starts to break. Release to act, or press `Esc` to cancel. For `⌘↵`, macOS only reports releasing `⌘`, so let go of `⌘` to fire.
+- **Mood wheel.** There are four opposed axes: tense ↔ calm, tender ↔ cold, playful ↔ grave and lush ↔ plain. The direction you aim picks the mood (blending between neighbouring wedges), and the distance sets the dial from 0 to 1. Past 0.65 (the red line) the text starts to break. Release to act, or press `Esc` to cancel. For `⌘↵`, macOS only reports releasing `⌘`, so let go of `⌘` to fire. The second mood on each axis (calm, cold, grave, plain) runs that axis's dial in reverse, which is largely untested ([#3](https://github.com/moonstripe/cosign/issues/3)).
 - **Authorship.** Every character records who wrote it: black is you, orange is the model, blue is tokens you picked, grey is imported text. The meters show the split.
 - **Decision tree** (right panel). Every decision is a node holding a snapshot of the document. Click a node to rewind to it; anything you do next starts a new branch. Hovering a node shows what it changed and, for dial writes, the axis and strength.
-- **Pangram.** 2.5 s after you stop editing, the document is checked for AI text. Flagged segments are tinted red (AI) or amber (assisted). Each tree node sits in a cloud coloured by its score, green for human through red for AI. Results are cached by text, and documents under 20 words are skipped.
+- **Pangram.** 2.5 s after you stop editing, the document is checked for AI text. Flagged segments are tinted red (AI) or amber (assisted). Each tree node sits in a cloud coloured by its score, green for human through red for AI. Results are cached by text, and documents under 20 words are skipped. The score covers the whole document, so imported text affects it (see [Status of the findings](#status-of-the-findings)).
 - **Reducto.** Upload a PDF and it becomes a linear chain of nodes, one per chunk, each with its own Pangram score. You can then rework it chunk by chunk.
 - **Documents.** Documents autosave to the server and can be opened, renamed, deleted or downloaded as `.cosign.json` (everything, including the tree) or `.txt`.
 
 **The dials.** Each mood axis is a rank-1 edit to the MLP down-projections of layers 7–17:
 
-    W' = W + α·A·Bᵀ,   α ∈ [0, 1] set per token by the wheel
+    W' = W + α·A·Bᵀ,   α ∈ [−1, 1] set per token by the wheel (negative = the axis's second mood)
 
-The dials were not trained. Each one was written by an LLM "programmer" agent working in a lab that can read the weights and run 15 forward passes, with no gradients. This follows [*Sparks of Weight-Space Programming*](https://rikiyat.github.io/blog/weight-space-programming/) (MIT CSAIL). Each dial had to beat a random edit of the same size on held-out prompts. See [METHODOLOGY.md](METHODOLOGY.md) §4 and [docs/weight-space-programming.md](docs/weight-space-programming.md).
+The dials were not trained. Each one was written by an LLM "programmer" agent working in a lab that can read the weights and run 15 forward passes, with no gradients. This follows [*Sparks of Weight-Space Programming*](https://rikiyat.github.io/blog/weight-space-programming/) (MIT CSAIL). Inside its own run, each agent compared its dial with a single random edit of the same size, on its own held-out prompts. The repository-level comparisons do not yet include a random control ([#7](https://github.com/moonstripe/cosign/issues/7)). See [METHODOLOGY.md](METHODOLOGY.md) §4 and [docs/weight-space-programming.md](docs/weight-space-programming.md).
 
 ## Quick start
 
@@ -73,7 +101,7 @@ uv run cosign-web                 # http://127.0.0.1:8000
 
 Without a Pangram key the editor works but cannot check for AI text. Without a Reducto key, PDF import is off (`.txt` and `.md` import still work).
 
-Open `samples/ai_scientist_branch_48pct.cosign.json` with "open a file…" to explore the 48% branch.
+Open `samples/ai_scientist_branch_48pct.cosign.json` with "open a file…" to explore the hackathon demo branch. Keep in mind that its score curve reflects dilution, not the dials (see above).
 
 Frontend development with hot reload (Vite proxies `/ws` and `/api` to the Python server):
 
@@ -105,6 +133,8 @@ uv run python -m steer.wsp.compare --help            # held-out head-to-head of 
 
 Submitted dials land in `moods/<concept>__<anti>.pt`, and the editor hot-reloads them.
 
+**Security note.** The lab's kernel runs arbitrary Python with no authentication, and on Modal it is exposed through a public tunnel ([#10](https://github.com/moonstripe/cosign/issues/10)). Only run the lab on infrastructure you control, and stop it when the run ends.
+
 ## Repository layout
 
 | Path | Contents |
@@ -116,9 +146,10 @@ Submitted dials land in `moods/<concept>__<anti>.pt`, and the editor hot-reloads
 | `frontend/` | React + TypeScript editor (Vite, zustand) |
 | `moods/` | the four shipped dials |
 | `wsp_runs/` | each programmer agent's notes, report, complete tool log and comparisons |
+| `experiments/detector/` | the pre-registered detector test: design, script, every sample and every Pangram response |
 | `scripts/` | `dial_stats.py` and `branch_stats.py` (recompute the write-up's numbers), Modal helpers |
 | `samples/` | the two test PDFs and their Cosign save files |
-| `presentation/` | the hackathon deck (open `Cosign deck.html`) |
+| `presentation/` | the hackathon deck as presented (open `Cosign deck.html`). It contains the 48% claim, which has since been falsified. |
 
 ## Credits
 
@@ -128,6 +159,8 @@ Submitted dials land in `moods/<concept>__<anti>.pt`, and the editor hot-reloads
 - Sample documents (third-party; included for reproducibility, with their original licences):
   - `samples/ai_scientist_adaptive_dual_scale_denoising.pdf`, generated by [Sakana AI's AI Scientist](https://github.com/SakanaAI/AI-Scientist) (Apache-2.0).
   - `samples/attention_is_all_you_need_2017.pdf`, Vaswani et al., [arXiv:1706.03762v1](https://arxiv.org/abs/1706.03762v1).
+- Human control passages in the detector test come from Project Gutenberg (public domain). The script expects them locally and they are not redistributed here.
+- The external review in issues #1–#14 found the flaws described above; thank you.
 
 ## Acknowledgements
 
