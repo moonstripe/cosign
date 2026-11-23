@@ -227,7 +227,13 @@ Cosign was built during the hackathon by one person working with AI agents. The 
 
 ---
 
-## 9. Reproduce
+## 9. Acknowledgements
+
+Thank you to [Pangram Labs](https://www.pangram.com), [Nous Research](https://nousresearch.com), [Reducto AI](https://reducto.ai) and [Modal](https://modal.com) for hosting the Non Slop Hackathon, and for the credits that made this work possible.
+
+---
+
+## 10. Reproduce
 
 ```bash
 uv sync                                        # Python 3.12, torch, transformers
