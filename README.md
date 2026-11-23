@@ -4,6 +4,8 @@
 
 🏆 First place, Non Slop Hackathon (Pangram, Nous Research, Reducto, Modal; 22 November 2026)
 
+> **⚠️ Work in progress.** Cosign is a hackathon prototype under active development. Expect rough edges and breaking changes. The results are early and not yet validated: see [the limitations](METHODOLOGY.md#7-limitations).
+
 ![Cosign: the mood wheel open over a document](docs/img/cosign-wheel.png)
 
 The shape of AI writing is becoming easily identifiable.
