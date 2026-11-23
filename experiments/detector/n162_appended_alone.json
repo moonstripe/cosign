@@ -1,0 +1,21 @@
+{
+ "headline": "AI Generated",
+ "prediction": "We believe that this entire text is AI.",
+ "prediction_short": "AI",
+ "fraction_ai": 1.0,
+ "fraction_ai_assisted": 0.0,
+ "fraction_human": 4.6396415801492126e-18,
+ "num_ai_segments": 1,
+ "num_ai_assisted_segments": 0,
+ "num_human_segments": 0,
+ "version": "4.1",
+ "windows": [
+  {
+   "label": "AI-Generated",
+   "ai_assistance_score": 1.0,
+   "confidence": "High",
+   "start_index": 0,
+   "end_index": 1820
+  }
+ ]
+}

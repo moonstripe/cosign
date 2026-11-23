@@ -22,7 +22,7 @@ Every number here can be traced to a file in this repo:
 
 | Hackathon version said | Correction | Issue |
 |---|---|---|
-| Cosign took an AI-written paper from 100% to 48% AI; per-sentence mood variation "produced text the detector did not read as monotone AI prose" | **Retracted.** The score equalled the share of original AI text (1,706 / 3,527 characters = 0.484). Every appended character was labelled human, steered or not. A controlled test found no reliable dial effect (§6, §7). | #1, #5 |
+| Cosign took an AI-written paper from 100% to 48% AI; per-sentence mood variation "produced text the detector did not read as monotone AI prose" | **Retracted.** The score equalled the share of original AI text (1,706 / 3,527 characters = 0.484). The appended text (89% LFM3) was labelled human in the document, but scores 1.0 AI on its own. A controlled test found no reliable dial effect (§6, §7). | #1, #5 |
 | The score "fell almost steadily" to 48%; a sibling branch "also ended at 48%" | 0.477 is the **lowest score in the whole tree**. Neither node is an end point: their continuations score 0.60–0.73. | #2 |
 | "The anti side of each dial is just the base model"; α ∈ [0, 1] | The anti wedges (calm, cold, grave, plain) run the dial at **negative α**, which was tested only for tense ↔ calm. 31 of the 54 dial settings on the demo branch were negative. | #3 |
 | §4.7: tender and lush move their own word lists; playful works "through structure" | The lush dial hits the tender list about as often as the tender dial does (26 vs 22 at α = 1), and tender adds more contractions than playful at matched strength. The tables do not show mood-specific effects. | #4 |
@@ -229,7 +229,8 @@ Pangram AI after each decision: first 0.89 -> last 0.48 (36 scored)
 
 - The curve measures **dilution**. Typed text, unsteered model text, or any other text Pangram labelled human would have drawn the same curve.
 - The data cannot show that the dials did anything.
-- Why Pangram labelled the appended LFM3 text human *in this document* is not known. Scored alone, the same kind of text is flagged (§7).
+- The appended text was **89% LFM3** (1,620 of 1,830 characters; 210 are the typed edits). **Scored on its own, the same appended text is labelled AI-Generated, score 1.0, as one window** (`experiments/detector/n162_appended_alone.json`). In the document, Pangram cut it into five small windows (91–1,252 characters) after the AI abstract and labelled each one human. The text did not change; only its context did. So the dials did not make this text read as human. Why the context flips Pangram's verdict is not known: Pangram's segmentation is not documented.
+- **Selection.** The writer saw the live Pangram colours on the tree while choosing which branches to continue. Even apart from the context effect, the branch was partly selected against the detector.
 
 **Selection** ([#2](https://github.com/moonstripe/cosign/issues/2)). n162 (0.484) and its children n163 and n166 (both 0.477) are the **lowest scores in the whole tree** (95 scored nodes). They are not end points: their continuations score 0.60–0.73 (n164 0.73, n165 0.61, n167 0.60, n168 0.60, n169 0.73). Across the tree, the nodes that depart most from pure dilution sit about +0.25 above it, at around 490 words, where the model text is long enough for Pangram to flag a window inside it.
 
@@ -297,7 +298,7 @@ What else the test shows:
 ## 8. Limitations and open questions
 
 - **The per-sentence trend is unresolved.** A −0.04 to −0.13 difference is consistent with no effect and with a small one. A larger, separately pre-registered replication is the next step; this test will not be re-cut.
-- **Why did appended LFM3 text read as human inside the demo document?** Scored alone it is flagged. Its position next to a strongly AI window, or how Pangram draws window boundaries, may explain it. This is untested; persisting windows per node ([#6](https://github.com/moonstripe/cosign/issues/6)) would let us check.
+- **Why does context flip Pangram's verdict?** The demo's appended text scores 1.0 AI alone and 0.0 inside the document, after a strongly AI segment. Whether this is a general property of Pangram's segmentation (for example, AI text placed after an AI-flagged segment escapes detection) is untested. It may matter more than the dials did, and is worth reporting to Pangram. Persisting windows per node ([#6](https://github.com/moonstripe/cosign/issues/6)) would help trace it.
 - **Reversed dials are mostly untested** ([#3](https://github.com/moonstripe/cosign/issues/3)). They should either be evaluated (dose–response, random control, held-out generations) or disabled.
 - **Dial specificity is unproven** ([#4](https://github.com/moonstripe/cosign/issues/4), [#7](https://github.com/moonstripe/cosign/issues/7)). Word-list and structure counts on 24 samples are crude; judgements so far were unblinded, by one judge.
 - **Weight edit vs steering vector** ([#8](https://github.com/moonstripe/cosign/issues/8)). The dials may add nothing beyond a well-chosen steering vector.
