@@ -4,10 +4,10 @@
 
 🏆 First place, Non Slop Hackathon (Pangram, Nous Research, Reducto, Modal; 22 November 2026)
 
-> **🔬 Research in progress. Our headline hackathon result has been falsified.**
-> At the hackathon we reported that co-writing with Cosign's mood dials took an AI-written abstract from 100% to 48% AI on Pangram. That drop was an artefact of how the score was computed, not an effect of the dials. A pre-registered follow-up test found that the dials do **not** make LFM3 text pass Pangram when the text is scored on its own; the in-context case is still open. The editor and the dials work as described, and several findings still hold. See **[Status of the findings](#status-of-the-findings)** below and [METHODOLOGY.md](METHODOLOGY.md) §6–8.
+> **🔬 Research in progress: our headline hackathon result has an open question.**
+> At the hackathon we reported that co-writing with Cosign's mood dials took an AI-written abstract from 100% to 48% AI on Pangram. We have since tested the dials, and they do not explain that number. The score fell as the AI abstract became a smaller share of the document, and in a small follow-up, freshly steered text placed in the same position was flagged as AI.
 >
-> **Neither the hackathon finding nor this correction is the final word.** Open questions remain, above all what the steering itself contributed: the appended text slipped past the detector only in context, and we have not yet tested whether unsteered text would too. We are working on that now and will update this page as results come in.
+> What we still can't explain is the result itself. A document that is **94% machine-written** (48% the AI abstract, 46% LFM3, 6% typed) was scored **48% AI** by Pangram, one of the leading AI detectors. Its 1,830 characters of appended text score 1.0 AI on their own and 0.0 after the abstract. We are investigating why ([#16](https://github.com/moonstripe/cosign/issues/16)). The editor and the dials work as described, and several findings still hold. See **[Status of the findings](#status-of-the-findings)** below and [METHODOLOGY.md](METHODOLOGY.md) §6–8.
 
 ![Cosign: the mood wheel open over a document](docs/img/cosign-wheel.png)
 
@@ -31,9 +31,9 @@ The hypothesis: people change mood a little between sentences, and language mode
 
 **What we claimed at the hackathon.** Starting from the abstract of a paper written entirely by an AI system (Pangram: 100% AI), one writer co-wrote forward with Cosign: 40 short model writes, 39 of them steered across all eight moods, plus 3 typed edits. Pangram's AI score fell almost steadily to 48%. We presented this as per-sentence mood variation making the text read as less AI.
 
-**Why that does not hold** ([#1](https://github.com/moonstripe/cosign/issues/1), [#2](https://github.com/moonstripe/cosign/issues/2)). Pangram's score is the share of characters that fall in windows it labels AI. In the 48% document it labelled the original abstract AI (characters 0–1,706) and **every appended character human**: typed or model-written, steered or not. The score is 1,706 / 3,527 = 0.484. At all 36 scored points on the branch, the score equals the share of the document that is still the original abstract, to within 0.005. The falling curve measured **dilution**, not the dials. Any text Pangram labelled human would have drawn the same curve.
+**Why the dials don't explain it** ([#1](https://github.com/moonstripe/cosign/issues/1), [#2](https://github.com/moonstripe/cosign/issues/2)). Pangram's score is the share of characters that fall in windows it labels AI. In the 48% document it labelled the original abstract AI (characters 0–1,706) and **every appended character human**: typed or model-written, steered or not. The score is 1,706 / 3,527 = 0.484. At all 36 scored points on the branch, the score equals the share of the document that is still the original abstract, to within 0.005. So the falling curve measured **dilution**, not the dials: any text Pangram labelled human would have drawn the same curve.
 
-The appended text was not human: 89% of it was written by LFM3 (1,620 of 1,830 characters; the rest is 3 typed edits). **Scored on its own, without the abstract, the same appended text is labelled AI-Generated with a score of 1.0** ([saved response](experiments/detector/n162_appended_alone.json)). It passed only in context, where Pangram split it into small windows next to the strongly AI abstract and labelled them human. The writer could also see the live Pangram colours while choosing branches, so the branch was partly selected against the detector. Also, 0.48 was the lowest score in the whole tree: continuations from that node scored 0.60–0.73.
+The appended text was not human: 89% of it was written by LFM3 (1,620 of 1,830 characters; the rest is 3 typed edits). **Scored on its own, without the abstract, the same appended text is labelled AI-Generated with a score of 1.0** ([saved response](experiments/detector/n162_appended_alone.json)). It passed only in context, after the strongly AI abstract. Why it passes there is the open question ([#16](https://github.com/moonstripe/cosign/issues/16)). In a small follow-up, every fresh AI text we placed after the same abstract was flagged: LFM3 unsteered or steered, LFM3 as a chat model, and the AI paper's own next sections ([#18](https://github.com/moonstripe/cosign/issues/18)). One likely factor: the editor shows Pangram's live colours, and the writer chose which branches to keep while seeing them, so the kept branch was partly chosen by the detector's own feedback. It was also the lowest score in the whole tree; continuations from that node scored 0.60–0.73.
 
 **The controlled test.** We then scored the generated text **on its own**, so it cannot be diluted. The [design](experiments/detector/PREREG.md) was committed before any data was generated. 10 openings × 2 seeds; Pangram AI score, mean over samples:
 
@@ -153,7 +153,7 @@ Submitted dials land in `moods/<concept>__<anti>.pt`, and the editor hot-reloads
 | `experiments/detector/` | the pre-registered detector test: design, script, every sample and every Pangram response |
 | `scripts/` | `dial_stats.py` and `branch_stats.py` (recompute the write-up's numbers), Modal helpers |
 | `samples/` | the two test PDFs and their Cosign save files |
-| `presentation/` | the hackathon deck as presented (open `Cosign deck.html`). It contains the 48% claim, which has since been falsified. |
+| `presentation/` | the hackathon deck as presented (open `Cosign deck.html`). Its 48% claim attributes the result to the dials, which our follow-up does not support (see above). |
 
 ## Credits
 
