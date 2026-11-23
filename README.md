@@ -5,7 +5,9 @@
 🏆 First place, Non Slop Hackathon (Pangram, Nous Research, Reducto, Modal; 22 November 2026)
 
 > **🔬 Research in progress. Our headline hackathon result has been falsified.**
-> At the hackathon we reported that co-writing with Cosign's mood dials took an AI-written abstract from 100% to 48% AI on Pangram. That drop was an artefact of how the score was computed, not an effect of the dials. A pre-registered follow-up test found that the dials do **not** make LFM3 text pass Pangram. The editor and the dials work as described, and several findings still hold. See **[Status of the findings](#status-of-the-findings)** below and [METHODOLOGY.md](METHODOLOGY.md) §6–8. Work is ongoing.
+> At the hackathon we reported that co-writing with Cosign's mood dials took an AI-written abstract from 100% to 48% AI on Pangram. That drop was an artefact of how the score was computed, not an effect of the dials. A pre-registered follow-up test found that the dials do **not** make LFM3 text pass Pangram. The editor and the dials work as described, and several findings still hold. See **[Status of the findings](#status-of-the-findings)** below and [METHODOLOGY.md](METHODOLOGY.md) §6–8.
+>
+> **Neither the hackathon finding nor this correction is the final word.** Open questions remain, above all what the steering itself contributed: the appended text slipped past the detector only in context, and we have not yet tested whether unsteered text would too. We are working on that now and will update this page as results come in.
 
 ![Cosign: the mood wheel open over a document](docs/img/cosign-wheel.png)
 
@@ -25,7 +27,7 @@ The hypothesis: people change mood a little between sentences, and language mode
 
 ## Status of the findings
 
-*Updated 23 November 2026, after an external review ([issues #1–#14](https://github.com/moonstripe/cosign/issues)).*
+*Updated 23 November 2026, after an external review ([issues #1–#14](https://github.com/moonstripe/cosign/issues)). This is an interim status, not a conclusion; it will change as the follow-up tests below are run.*
 
 **What we claimed at the hackathon.** Starting from the abstract of a paper written entirely by an AI system (Pangram: 100% AI), one writer co-wrote forward with Cosign: 40 short model writes, 39 of them steered across all eight moods, plus 3 typed edits. Pangram's AI score fell almost steadily to 48%. We presented this as per-sentence mood variation making the text read as less AI.
 

@@ -2,6 +2,8 @@
 
 > **Status (23 November 2026): research in progress; the headline result is retracted.**
 > The hackathon version of this document said that Cosign took an AI-written paper "from 100% AI to 48% AI" and that the dials caused it. An external review showed that the drop was dilution: Pangram's score tracked how much of the document was still the original AI text, and it labelled every appended character human ([#1](https://github.com/moonstripe/cosign/issues/1), [#2](https://github.com/moonstripe/cosign/issues/2)). A pre-registered follow-up (§7) scored the generated text on its own and found **no reliable effect of the dials on Pangram**. Section 6 keeps the original demo, marked retracted, so the record stays complete. The [corrections log](#corrections-log) lists every change from the hackathon version.
+>
+> **This is an interim state, not a final one.** The original finding was preliminary, and so is this correction. The central open question, what the steering contributed to text that passed the detector in context but not alone, is being tested now (§8). This document will be updated with the results, whichever way they go.
 
 Cosign won **first place at the Non Slop Hackathon** (Pangram, Nous Research, Reducto, Modal; 22 November 2026). This document explains how the system was built, what each part was tested against, and which results hold up. It also covers what we do not know yet.
 
