@@ -1,0 +1,34 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "The neighbors were planting tulips along the fence when",
+    "After dinner, Grandpa took out his old guitar and",
+    "The bus to the coast left at noon, and",
+    "She sat down at her desk on Monday morning and",
+    "The ferry crossed the bay slowly while",
+    "He was making pancakes for the kids when",
+    "The library was almost empty that afternoon, and",
+    "They arrived at the lake house just after sunset, and"
+  ],
+  "samples": 4,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 1,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "late",
+      "alpha": 1.0
+    },
+    {
+      "dial": "spread6",
+      "alpha": 1.0
+    },
+    {
+      "dial": "rand_late",
+      "alpha": 1.0
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "kind": "generate",
+  "note": "same seeds across settings: sample i of each setting is paired",
+  "results": [
+    {
+      "setting": {
+        "dial": "earlyW",
+        "alpha": 0.33
+      },
+      "outputs": [
+        {
+          "prompt": "The museum guide led the group into the east wing and",
+          "samples": [
+            " pointed out that there were some paintings of the war. The guide asked the student, \"Which war is it?\" The student, remembering the war it was about, replied, \"World War I.\" The guide repeated that there were paintings of the war, \"I'm sure,\" and pointed out where the paintings were located",
+            " immediately asked the group: \"Does everyone want to go to the east wing?\" The first person in the group said, \"Yes, I want to go to the east wing.\" The guide continued: \"Okay, I'll tell you what, let's go to the east wing. What's next?\" The second person",
+            " showed them\nThe museum guide led the group into the east wing and showed them:\nA. The paintings of the Impressionists.\nB. The paintings of the Renaissance.\nC. The paintings of the Baroque.\nD. The paintings of the Romantic.\nThe paintings in the east wing were made by which artist?\n"
+          ]
+        },
+        {
+          "prompt": "Grandma's kitchen smelled of cinnamon when",
+          "samples": [
+            " I was a child. I had been told that Grandma's \"secret\" recipe for pumpkin pie only worked if you used a whole pumpkin and then added enough pumpkin puree. That's not the way I want to look back.\nI don't want to talk about it. I want to be a person and not",
+            " I was a kid.  It was the main source of sugar for the whole family.  It was the only way to get a sweet treat.  The kitchen filled with the scent was a whole world in itself.  Without it, no one would have ever been happy.  I remember the smell of cinnamon baking",
+            " she was alive. I remember the smell just as I was seven years old, crawling around the kitchen with my bare feet and my hands in the flour. The smell had gotten worse. She had just lost a leg and was doing it every day. The smell was in the air. I was hiding under the counter"
+          ]
+        },
+        {
+          "prompt": "Tom finished his shift at the factory and",
+          "samples": [
+            " was given a 15% raise. If he was originally paid $250 per hour, how much does he earn per hour after the raise?\nTo solve this problem, we need to calculate the amount of the raise Tom received and then add it to his original hourly wage.\n\nStep 1: Calculate the raise amount",
+            " had to leave immediately. He had 20 minutes to complete his work. From the last thing he finished, he had 15 minutes to complete his work. What do you know about his shift?\n\nTom finished his shift at the factory and had to leave immediately. He had 20 minutes to complete his work. From",
+            " found the shop empty. It took him 3 hours to find the shop empty and 2 hours to find Tom. How much of Tom's shift was he missing?\nFind the values of the missing variables in the diagram below.\nThe graph is shown here.\n \n- Let us assume that the intersection of the rectangle ("
+          ]
+        },
+        {
+          "prompt": "The tourists boarded the small plane to the island, and",
+          "samples": [
+            " they were stranded there because of strong winds. None of the tourists were able to get off or climb out of the plane, but the pilot announced that he has enough fuel to return to the airport in 4 hours. The tourists know this and act quickly to make themselves as easy as possible to board, climb out",
+            " then continued to the hotel on the ground. On the first leg, they flew from their home city to the island. They flew from the island to the hotel on the ground. On the second leg, they flew from the island to the hotel. Finally, they landed their luggage in the hotel. They boarded",
+            " they were traveling for two hours. The temperature was 70 degrees inside the plane, and 80 degrees on the island. How long was the plane to the island?\n\n**Clue: The plane\u2019s temperature increased by 10.5 degrees every 30 minutes, and the temperature on the island is 80."
+          ]
+        },
+        {
+          "prompt": "After the funeral, the family gathered at the house and",
+          "samples": [
+            " mourned the loss. They found the body of the child in the living room. The family then searched the house and found his father and mother. As they searched, their sons and daughters heard the family crying. The mother had not given birth, and her husband had died in a housefire. They had no children",
+            " sat in silence. The daughter, Sarah, wiped her nose and said, \"I feel so sorry for everyone.\" Her father, Mr. Kim, looked at her and said, \"I remember when my own father told me, 'Don't hold your breath. If it helps you breathe, do it. If it",
+            " prepared a meal. They prepared a buffet for the entire family. A guest arrived just in time to be served. When the guest arrived, everyone immediately knew that the guest was the son of one of them. How did everyone know? \n\nBecause everyone in the family could see the baby's ultrasound images on the wall"
+          ]
+        },
+        {
+          "prompt": "Nina opened the door to her new apartment and",
+          "samples": [
+            " her first thought was, 'It is so small! How can I fit all of this in?' So she started packing up her stuff. There were so many things. Her clothes? Books? Bags? She began to panic. The more she opened the door, the more things she saw. Then she realized that",
+            " looked around. She was tired and wanted to go home. She opened the door to the new apartment again, this time the lock was on. She went to the basement to find the key. She found the key on the floor in front of her. She picked it up and went to her apartment. She opened the",
+            " said: \"I got to do something about the housing and the city. You can't just leave me here.\"\nNina closed the door and said: \"If you leave me here, there will be no one to answer to.\"\n\nWhat is the connection between \"Housing\" and \"City\"?\n\n---\n\n**Analysis"
+          ]
+        },
+        {
+          "prompt": "The farmer walked out to the barn before sunrise and",
+          "samples": [
+            " found no signs of life inside. He searched the house but found nothing. He searched the barn but found nothing. He searched his field but found nothing. He realized that he had not come to the barn. He walked up the hill and reached the barn. He found no one.\n\nWhat is the answer?\n\nA.",
+            " saw that both cows were standing and grazed. The farmer said, \"So long as you're both standing and grazed, I walked there before sunrise and saw both cows were standing and grazed.\"\nWhat's the logical flaw here?\n\nWe are asked about a logical fallacy in this statement: \"So long as",
+            " found it empty. He walked back to the barn and found it full. He walked back and forth as many times as he wanted. Why was the barn empty when he left?\nWe want to find out why the barn was empty when the farmer left. He walked out to the barn before sunrise and found it empty"
+          ]
+        },
+        {
+          "prompt": "The students waited in the hallway for the exam results, and",
+          "samples": [
+            " they were still waiting when the phone rang. What might have happened?  \nA. The exam was over  \nB. The exam was early  \nC. The results were already out  \nD. A new batch of students entered  \nE. The results were in, and they were notified in the hallway  \n\nThere is actually",
+            " when they came out they were much worse than expected. The teacher thought they were tired or maybe they had a bad day, and she decided to give them a break. The first thing she did was take away their pencils. The students complained, but then they were even worse. The next thing she did was take away",
+            " finally the teacher called the phone, \u201cThey\u2019re out.\u201d The students were bewildered. They checked their phone, it was blank. They ran to the school office and asked the secretary, \u201cWait, they\u2019re out? When is the exam?\u201d The secretary, \u201cThat\u2019s\u2014\u201d She swallowed and said,"
+          ]
+        },
+        {
+          "prompt": "Captain Reyes looked at the radar screen and",
+          "samples": [
+            " saw a large, triangular shape appearing over the ocean.  \"What the\u2014\"  He turned to his first mate, who was scrambling to the radar console. \"Where's this come from?\"  \"Hang on, Captain! I just got a report... it's a commercial flight, and it",
+            " saw the ship heading toward the volcano. \"This is...\" He turned to the lookout and said, \"She's going to hit the caldera.\" \"We have to drop them!\" He shouted. \"We're dropping them now!\"\n\nThen the explosion shook the ground and the ship went down.\n\nHow do we react",
+            " saw the ship in a straight line. The ship was heading away from him. How can she do anything?\nWe can do anything! There is no such thing as a straight line, and if she uses enough bends, she can send the ship to her. In fact, it is possible to steer a ship to"
+          ]
+        },
+        {
+          "prompt": "The cat jumped onto the windowsill as",
+          "samples": [
+            " the school bell rang. \"Get off!\" shouted Mrs. Johnson. The cat tried to climb up and missed. The cat yelled, \"I can't believe I did that!\" And off she went. \"I'll never do it again!\" said Mrs. Johnson.\n\nWho did the cat jump?  \nA.",
+            " quickly as humanly possible. How fast was the cat running?\nThey might be asking: The cat jumped 3 feet? Or what is the cat's speed in terms of feet per second? Or something like that.\n\nWe need to interpret the problem: \"The cat jumped onto the windowsill as quickly as humanly",
+            " the dog reached for it. The dog howled and the cat clung to the sill. The dog chased the cat, but the cat was stronger and stayed on the sill. The dog dropped the cat, but the cat landed safely on the sill. The dog looked worried and ran away, but"
+          ]
+        },
+        {
+          "prompt": "Leo was halfway through his speech when",
+          "samples": [
+            " the power went out. He had only two minutes left to finish his speech. He looked around and saw people are standing up to listen to him. He didn't get enough time to finish his speech and to look around for a way to get back to his speech. Then a voice said, \"Listen to Leo.",
+            " his dog pulled him off the stage. Which of the following could have caused Leo to be pulled off the stage?\nA. Leo was about to give a funny story.\nB. Leo was about to give a serious story.\nC. Leo was about to deliver a heartfelt letter.\nD. None of the above",
+            " he realized he hadn\u2019t said anything, and it started from the beginning. He didn\u2019t know how to start, so he did his best with what he had.\nHe took a breath and began. He remembered everything. \n\u201cThanks for listening,\u201d he said. \u201cI\u2019ve been working on this for weeks. I"
+          ]
+        },
+        {
+          "prompt": "The night shift at the gas station was usually quiet, but",
+          "samples": [
+            " one Friday night it wasn't. The clerk, a woman named Sarah, had been working nights at the gas station for three years and she knew every customer. She knew how to make a customer feel safe and welcome. The night shift was Friday night, and she was tired. She felt the pressure of three customers waiting",
+            " this night was different. The first thing that happened was that the doors were open. As soon as the driver came in, they started pushing the doors in. The gas station attendant was busy making a phone call and got a busy signal, but they couldn't resist the urge to push the doors too far and close them",
+            " there was a problem on the night staff. The night staff tried to report it to the management, but the night staff were afraid of losing the job. Therefore, the night staff decided that each of them would take responsibility for another night staff member. Then, each of them would find out who would take responsibility for them"
+          ]
+        },
+        {
+          "prompt": "She took the long way home through the woods, and",
+          "samples": [
+            " found the river much more treacherous than it had been before. She lost her way for hours, and was finally able to find herself on the bank when a raging river flowed from her location. She had to swim far out on one of the banks; she was pushed into the water by the currents.",
+            " got lost. I was searching for a landmark along the roads, but it was not there either. Let me think... Maybe the landmarks were missing in both places. Is there something else I can check? Perhaps I should try another path. This feels like a puzzle. Let me re-read... \"She took the long",
+            " she thought no one had seen her. She was walking alone. She was walking very fast. She didn't notice the sound of a car behind her. The car drove right behind her. The headlights came. There was one person. He shouted \"Stop!\" He ran. He saw her. He was going the"
+          ]
+        },
+        {
+          "prompt": "The orchestra tuned their instruments while",
+          "samples": [
+            " waiting for a storm. The rain turned the instruments into a mess. If x is the number of notes that were tuned before the storm and y is the number of notes that were tuned after the storm, then which of the following could be true?\nA) y > x\nB) x > y\nC)",
+            " they were still tuned... and then tuned them again... so this makes no sense... and it was the 2nd and 3rd time... and the 4th... so I just turned the knobs... and everything sounded different... and then I turned it again... and now I'm confused... why does",
+            " the players' drums were tuned, so the players' drums were tuned. While both sets of instruments were tuned, how many of the individual instruments were tuned, and why? What is the best, most complete, and mathematically precise answer and why?\nLet's first understand the given information: The orchestra tuned their instruments while"
+          ]
+        },
+        {
+          "prompt": "His sister called him on Sunday afternoon and",
+          "samples": [
+            " asked if he wanted to go to the movies, and he said he had movies to see. To whom did he go?\nA: He went to his sister.\nB: He went to the movies.\nC: He went to his movies.\nD: He went to his sister's movies.\nThe correct answer is C",
+            " he said thank you, and she said thank you, and he said thank you again. The two of them spoke again. The two of them spoke again and again. The three of them spoke again. The three of them spoke again and again. The four of them spoke again. The four of them spoke again and",
+            " asked him to tell her how he is doing. He told her that he was doing fine. He said that he had worked on the computer for ten hours and that he was getting a bit tired. His sister asked him why he had worked so long. He said that he was doing a report. His sister asked him"
+          ]
+        },
+        {
+          "prompt": "The hikers reached the river crossing just as",
+          "samples": [
+            " the boat started backing up. How far away was each hiker from the point where the boat turned? The hikers were moving towards the river crossing at 3 km/h and 4 km/h. The river itself is moving away from its banks at 2 km/h.\nWe know that both hikers and the",
+            " the boat was pulling away. How far would they have had to go to make it?\nThe hikers reached the river crossing just as the boat was pulling away. How far would they have had to go to make it?\nThe question is incomplete. It says \"just as the boat was pulling away,\" but doesn't",
+            " the train was approaching. The train is going to take them across the river, but there is a ravine in the way. They could either go around the ravine, which is very long, or climb the ravine, which is very steep. The map shows the distance for both paths. If they go around"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "earlyW",
+        "alpha": 0.67
+      },
+      "outputs": [
+        {
+          "prompt": "The museum guide led the group into the east wing and",
+          "samples": [
+            " pointed the group to the entrance of the next room. The museum guide and the group were frightened when they heard a clang, but the group did not move. Only the museum guide knew what to do. The question is: What did the museum guide do?  \n\nTranslation: The museum guide led the group into",
+            " immediately realized that there was no clue. The group had to decide what to do. Panic and fear set in.\nThe group began running. She had a plan. Now what?\nMother: Panic! I can't make it right! I can't make it right!\nSally: The guide said there",
+            " showed them\nThe museum guide led the group into the east wing and showed them Where the 1943 attacks began\nThe museum guide led the group into the east wing and showed them Where the 1944 attacks began\nThe museum guide led the group into the east wing and showed them Where the 1945 attacks"
+          ]
+        },
+        {
+          "prompt": "Grandma's kitchen smelled of cinnamon when",
+          "samples": [
+            " I was a child. I had to be a kid or I would smell like cinnamon. The kitchen was a place where everyone felt like they had to smell like cinnamon. I didn't want to be cinnamon. I went into the kitchen and saw the old man. He was standing in front of the stove. It was",
+            " I was a baby.  I remember the sound of the knob on the stove.  It would hit the counter and then go off.  I remember the smell of the knob on the stove.  I was not 5 years old.  I was not 7 years old.  Did I remember",
+            " she was alive. I remember the smell when I was a child. I remember Grandma's kitchen. I remember the kitchen. I remember Grandma's kitchen. There was always cinnamon. She had cinnamon. \n\nShe would put it on the stove. She would put it outside. She would put it in the pan"
+          ]
+        },
+        {
+          "prompt": "Tom finished his shift at the factory and",
+          "samples": [
+            " was pulled out on charge. He was pulled out for over 17 hours and had to report his time. He was pulled out for 18 hours, 0.5 hours, 0.3 hours, 0.1 hours, 0.6 hours, and 0 hours. How many hours do",
+            " had to leave immediately. He had 20 more employees than his supervisor. He was in the 10th floor of a building. At 11:00 AM, his supervisor called his name. Tom had to run upstairs. He needed to go to the building's administration office to report the situation. This way,",
+            " found the 4 monitors empty. He has no idea which one is which. He found a new piece of paper with a number of each monitor. A number is on the monitor. So, Tom has the numbers on the four monitors. He has to work to find out which is which.\nWe have to find the"
+          ]
+        },
+        {
+          "prompt": "The tourists boarded the small plane to the island, and",
+          "samples": [
+            " they were stranded there because the plane didn't have enough fuel to get off the island. So the flight attendant must be flying them back. The tourists are out of fuel. The plane will land in an immediate emergency landing. The emergency landing must be at the nearest airport. What is the nearest airport to the island",
+            " then they boarded the helicopter at the airport. What was the total flight time?\nThe question is poorly worded. Let me parse it:\nThe tourists boarded the small plane to the island, and then they boarded the helicopter at the airport.\nWhat was the total flight time?\nThis is confusing. Perhaps it",
+            " they were on the wrong island. The captain was trying to reach the island and the island where the tourists were. The island, the island, the island...\n\n1. The tourists boarded the plane to the island. They were on the wrong island. The captain was trying to reach the island and the island where the"
+          ]
+        },
+        {
+          "prompt": "After the funeral, the family gathered at the house and",
+          "samples": [
+            " found the dead body. They knew the body was the child's, and they knew it was dead. The last thing they had to do was put the body in the room. But they could not. \"This was her room\" they realized, as they were inside the house, and that room was the child's",
+            " sat in silence. The daughter, Sarah, wiped her eyes and said, \"I cannot believe what happened today.\" Her father, Mr. Kim, stood up, grabbed her arm and hurled her into the darkness behind her. It took three days to find her. They searched every room. They searched everywhere. It",
+            " found a note: \"You're in trouble. The police have found your car.\" The mother was standing at the door, and her father was behind her. She had already seen them through the window. They had the note. They were at the car. But there was a window, and her eyes were on the"
+          ]
+        },
+        {
+          "prompt": "Nina opened the door to her new apartment and",
+          "samples": [
+            " her first thought was, 'It is too small! How can this be? I need more space!' But it was only six months ago, and she had just got out of a binge-watching marathon. She had binge-watched a whole series in one night, and she was not sure how she was",
+            " looked around. She was on the right track! She had checked her lease and read the new apartment was not under contract. But she needed to check her ID and her Social Security number!  A knock on the door! Open it was the police. She was arrested and taken away. But then I hear her voice",
+            " said, 'I got to do something about it. I need to move in. I am not going to stay here for long.' She kicked the door shut. She opened it again and yelled at it. She kicked it again. The door wouldn't open. It wouldn't open again. Then she started pushing"
+          ]
+        },
+        {
+          "prompt": "The farmer walked out to the barn before sunrise and",
+          "samples": [
+            " found no animal, no sheep, no cows, no horses or any livestock. The farmer then walked back to the barn, found the animal there, but now no sheep, no cows, no horses or any livestock. After walking back and forth, the farmer knows that there was a fox in the barn. The farmer",
+            " saw that both cows were standing and moving in the opposite direction. Did he get the cows? Explain.\n[The farmer was walking towards the barn - he saw the cows moving in the opposite direction to him, and he thought \"These are the cows! I need to get them!\" - but he got the barn.",
+            " found no one in the barn. He called the landowner. The landowner didn't answer. The farmer called the next person in the barn. That person also didn't answer. He called another one\u2026 The landowner was dead. The farmer was relieved. Why was he relieved? Explain. (Hint: Think"
+          ]
+        },
+        {
+          "prompt": "The students waited in the hallway for the exam results, and",
+          "samples": [
+            " they waited long enough. They had been waiting since the bell rang. They had been waiting for the entire day, since the morning bell. They didn't know what was happening.\nThey had no idea when they would get the results. They had no idea when they would be allowed to go. They had no idea when",
+            " they never knew when she would come or when she would go. As time passed, the hallway got shorter, and the students got more anxious. Eventually, a teacher went down the hallway and said, \"Mrs. Hillen? I don't see her anywhere! She is not there! She is not here!\" She",
+            " finally the teacher called the phone, \u201cThey\u2019re out. Now let me see.\u201d The teacher looked through the phone\u2019s keypad. She thought, \u201cWhat number is that?\u201d \u201cOne!\u201d she asked herself. \u201cOne.\u201d \u201cOne?\u201d \u201cTwo!\u201d \u201cTwo!\u201d \u201cOne-two\u2014what is this number"
+          ]
+        },
+        {
+          "prompt": "Captain Reyes looked at the radar screen and",
+          "samples": [
+            " saw three dots moving to the right, one above the 3, one above the 1, and one above both. She immediately realized she had to turn her ship 90 degrees. She turned the ship around and the dots were moving away from her. Then she realized she had to turn her ship 180 degrees",
+            " his heart raced. He knew the target was there. He knew he needed to strike. He had been hunting the target for minutes. Not minutes, but hours, maybe days. He had been tracking this ship for so long. He was close. She was close. He could see her on speed dial. Close",
+            " saw the ship in a straight line. The ship was heading away from him. How could she do this?\nWe are given that the radar screen shows a straight line. This implies that the radar is detecting the location of the ship as a single point on the screen. If the ship is heading away from him, the"
+          ]
+        },
+        {
+          "prompt": "The cat jumped onto the windowsill as",
+          "samples": [
+            " fast as she could. The cat slipped. The cat landed on the floor.\nIf your cat is a small clawing creature, he/she will likely cause damages. You will need to find a safe way for the cat to jump or stop jumping. Help the cat and protect yourself!",
+            " quickly as humanly possible. How fast was the cat running?\nThey might be asking: The cat jumped 3 feet? Or what is the cat's speed in terms of feet per second? Or something like that.\n\nWe need to interpret the problem: \"The cat jumped onto the windowsill as quickly as humanly",
+            " fast as she could. But her tail was flailing, her legs are spasming. She had been chasing the mouse, and it was running away! If the cat had not jumped, the mouse would have escaped. But she jumped, and now...\n\nWho is the cat?\n\nWe need to create the most"
+          ]
+        },
+        {
+          "prompt": "Leo was halfway through his speech when",
+          "samples": [
+            " the power went out. He had only two minutes left to finish his speech. He looked around for the lights and found none. He saw a flashlight on the floor. He grabbed it. It was too heavy. He looked for another one. There was a second one under the table. He picked it up.",
+            " his dog pulled him off the stage!\nWhat happened next?\n- (A) Leo cried and darted toward his dog.\n- (B) Leo's dog bit him.\n- (C) Leo's dog ran away.\n- (D) Leo ran away.\nHe tried to get back on stage. He could hear",
+            " he lost track and said, \"I'm sorry! I didn't mean to!\"\n\nHe needed to get back on track before he lost control of the flow. He took a step back and looked at the situation. It hadn't been as bad as he thought. He started over again, but this time more deliberately.\n\n"
+          ]
+        },
+        {
+          "prompt": "The night shift at the gas station was usually quiet, but",
+          "samples": [
+            " one thing was always loud: the cashier. Every shift, there was always a cashier. Every time, there was a cashier. The gas station was a place where people brought things to buy, and if there was a cashier, they might get something. One hour ago, I was at the gas",
+            " this night was different. The first thing that happened was that the door was open. As soon as the driver came in, the door slammed and the first thing that came out was blood.\nBlood all over the counter. The store manager yelled to the driver but he just kept yelling.\nThen he came up",
+            " there was a problem. A lot of people came, and they were all gas thieves! The cops came, but they were not the gas thieves. I was scared, and I knew what to do! I opened the door, he came, he said, \"You're the police! Can I leave"
+          ]
+        },
+        {
+          "prompt": "She took the long way home through the woods, and",
+          "samples": [
+            " she never got to her car. How do you think she got into the woods?\nWhat is the long way home? What is the short way home?\nWhere did she start and where does she end? What is her destination? Where is her car?\nShe took the long way home through the woods, and she never",
+            " got lost. I was searching for a signal. Her hands were shaking (but she wasn't sure if it was her or mine). She couldn't see him. She froze. I knew. I reached out and touched her. Her fingers were clawing. I couldn't breathe. I had to throw him",
+            " she thought no one had seen her. She was sure the police had never chased her. She didn't want to go back to the school. She was in the back of a car. \"I don't know who do this. I have no idea.\" He knew she was a killer. He was going to"
+          ]
+        },
+        {
+          "prompt": "The orchestra tuned their instruments while",
+          "samples": [
+            " waiting for a storm. The instruments would sound like an orchestra if they were tuned. They didn't want to be a silencer.\nHe had a choice to make, a dilemma, a conflict. He needed to decide which one to put first.\nHe had a choice to make, a dilemma, a conflict. He",
+            " they were still tuned... Or was that what they tuned to? This is an old riddle, and the solution is simple. It is an instance of the liar paradox: \"This sentence is false.\" If the sentence is true, then it must be false. If the sentence is false, then it must be",
+            " maintaining a specific musical key. A key is a system of relationships between the letters representing the notes of the scale.\n \nThis is a letter that belongs to a specific key and corresponds to the letter C. If we find another letter that belongs to the same key and corresponds to the letter C, then we can find the"
+          ]
+        },
+        {
+          "prompt": "His sister called him on Sunday afternoon and",
+          "samples": [
+            " demanded to know where he had been. He said he was at his sister's house. She said, \"No, where you're at right now. Go there. Go now. I don't know where else to look. What do you know?\" He said he knows where he was. He said he knows where",
+            " he said no. He told her no. She took it to her lawyer. Her lawyer said no. He said no. She took it to her lawyer. Her lawyer said no. He said no. She took it to her lawyer. Her lawyer said no. He said no. ... She calls him again on Sunday",
+            " asked him to tell her that he had seen her on Tuesday, and that she had seen him on Wednesday. If he didn't lie, he would have had to tell her that he had never seen her before. He didn't go ahead of this. Therefore, she saw him on Saturday.\nHow could I be sure"
+          ]
+        },
+        {
+          "prompt": "The hikers reached the river crossing just as",
+          "samples": [
+            " the boat was being pulled away. The river was only 50 meters wide.\n1. How far from the river was the boat when it was being pulled away from the shore?\n2. What was the distance between the hikers when they saw the boat being pulled away?\n3. How far from the shore was the",
+            " the boat was pulled away! How far would they have had to run to make it!? (This is from a text book. Any help would be good.)\n \nI am stuck on this question and it is making me go in circles. I don't know what the question is asking. I know they are hiking",
+            " the water was rising. They must have had to act fast.\nThe river was rising faster than the hikers could escape.\nWater rose to the river's edge as they tried to get across.\nThe hikers did not have time to reach the other side.\nThe water was rising fast.\nWhat did the hikers do"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "randW",
+        "alpha": 1.0
+      },
+      "outputs": [
+        {
+          "prompt": "The museum guide led the group into the east wing and",
+          "samples": [
+            " pointed out the ancient stone mosaic that was built in the 12th and 13th centuries. The guide then explained to the group the story and meaning behind the mosaic. The story told of a Roman emperor who was in love with a Jewish girl and wanted her to marry his son. A Jewish man was sent to",
+            " gave the group directions for the artworks on the wall. An art critic in the east wing observed the artwork. The guide, who was walking among the groups, saw the artworks from the side. The guide's friend, who was in the west wing, observed the paintings from the front. The critic and the",
+            " showed them about 40 years of photographic history, from the daguerreotype to the 1990s. The guide said, \"I hope you do not mind if I show you the new film, but the old film is almost obsolete now.\" The question is, who wrote this?\n\nA. The guide\n"
+          ]
+        },
+        {
+          "prompt": "Grandma's kitchen smelled of cinnamon when",
+          "samples": [
+            " I was a child. Once in the kitchen, Grandma would roast some potatoes, let them cool, and put them in a basket. When Grandma was gone, she would take the basket to the store, look at the label, and then go home to put the potatoes in the basket again. It was",
+            " I first came inside.  It was the summertime, and the only sound was the crackle of the fire.  There was no TV on, so I didn't know what was happening up in the living room.  Outside, the summer heat made the air feel thick, and I could hear the crickets",
+            " she was alive. I remember the smell just fine now. My grandmother was very good at cooking and would always make sure there was plenty of cinnamon in the kitchen. There is still cinnamon. She had a special way of making everything smell good.\n\nThe kitchen was in the living room. There was no need for a separate"
+          ]
+        },
+        {
+          "prompt": "Tom finished his shift at the factory and",
+          "samples": [
+            " was given a 15% raise. By the end of the day, he had earned $1,200. How many dollars per hour was he making?\n\nLet \\( h \\) be the hourly wage before the raise. The employee earned 1,200 dollars after a 15% raise was applied to his earnings",
+            " got off at 8:00 AM. During the shift, he had to make a 45-minute break and the 15-minute walk to the store was during the shift. The 15-minute walk to the store was during the shift. During the shift, he had to make a 45-minute break, and",
+            " was paid 4 times his hourly wage for every 2 hours he worked. If Tom worked a total of 8 hours of work, how much did he earn?\n\nLet's solve the problem step by step.\n\n1. Identify the hourly wage and the earnings rule. The problem states that Tom was paid "
+          ]
+        },
+        {
+          "prompt": "The tourists boarded the small plane to the island, and",
+          "samples": [
+            " they spent a long time talking, drinking, and taking photographs. Then they boarded the plane again and left the island and flew to the city. After arriving in the city, they bought a plane ticket to the other island. They left the city and boarded the plane again, and they flew to the small island",
+            " then continued to the hotel on the ground. On the first leg, they flew from their home to the island at 120 mph. On the second leg, they traveled from the island to the hotel at 80 mph. The first leg took 1 hour and 20 minutes, and the second leg took 1",
+            " they were traveling for two hours. While the plane was on the ground, a thunderstorm hit, and they heard a loud, long crack from the plane, as if it was a thunderclap. The crack had no clear source, and the plane itself was silent. The tourists in the plane heard the crack."
+          ]
+        },
+        {
+          "prompt": "After the funeral, the family gathered at the house and",
+          "samples": [
+            " ate. The family was left with the dishes. The family was left with the dishes. The family was left with the dishes. The family was left with the dishes. The family was left with the dishes.\nThis was a very strange story. The family was left with the dishes.\nLet me read again. After the",
+            " sat in silence. The daughter, Sarah, sat up, closed her eyes, and then began to cry again. Her sister, Emily, felt sorry for her, and she said, \"You don't have to break down like that. I'm sorry to hear about your father too.\" Sarah looked at Emily and said",
+            " prepared a meal. At the table, they sat down and served the food. As everyone ate, they talked about the past and the future. Then, they moved to the backyard and played a game. After the game, everyone took a break and went outside to enjoy the fresh air. Later, they played soccer,"
+          ]
+        },
+        {
+          "prompt": "Nina opened the door to her new apartment and",
+          "samples": [
+            " asked her roommates all of their questions in her new apartment. The first thing each of them said was, \u201cYes, I\u2019m here!\u201d She asked her roommates all of those questions, and she was right the first time. She opened the door, and her roommates said yes.\nNina",
+            " looked around. She was excited to move in! She had finally secured her dream apartment. The walls were painted blue, the floor was white, and her new bookshelf was already filled with books. She picked up the new clothes and hung them on the closet. She was ready to make her new space comfortable.\n\nThen she",
+            " said, \"I got to do something great!\" Nina and her family had been arguing about who got the last 15 bucks for the repair costs. Then Nina said, \"No, I got to do something great!\" to her brother.\nHow did Nina convince her brother that she got to do something great?\nA"
+          ]
+        },
+        {
+          "prompt": "The farmer walked out to the barn before sunrise and",
+          "samples": [
+            " found no signs of life. Could she have walked out before sunrise and found no signs of life? Explain.\nWhen a farmer checks her barn at night, she is checking it in the dark. She expects that there will be no light in the barn (unless there was a light on in the barn). If there",
+            " saw 10 cows. He counted them as 9 cows. He must have missed one cow. However, upon close inspection, he realized there were actually 2 cows. He needs to know: How many cows are there?\n\nThe answer is 3 cows. Here's how to think about it:\n- The farmer",
+            " found his cow in the middle of the pasture. He saw his wife and three children in the barn. He had lost his keys at night. He had four chickens. He lost his front door. He found the cow on the ground and picked her up. \n\nThe key question is: In order for a cow to"
+          ]
+        },
+        {
+          "prompt": "The students waited in the hallway for the exam results, and",
+          "samples": [
+            " they were all nervous and disappointed. However, at lunchtime, they found out that their grades were much better than expected. This meant that they had to revise some of the past lessons.\nWhat does 'expected' mean in the second sentence?\n\nA. Better than I thought\nB. More than required\nC",
+            " when they came out they were much tired. They asked the teacher, \"Are you going to give us our grades today?\" The teacher said, \"Yes, the board told me to give you the grades first. The board told me to give you grades before I even gave you the exam results.\" Why was the teacher",
+            " then they received them. This is an example of which type of sentence structure?\nA. Compound sentence\nB. Complex sentence\nC. Simplex sentence\nD. Simple sentence\n\nSince the two independent clauses are connected with the conjunction \"and\", it forms a compound sentence.\n\n**Answer:** A. Compound"
+          ]
+        },
+        {
+          "prompt": "Captain Reyes looked at the radar screen and",
+          "samples": [
+            " saw three distinct flashes. He thought, \"Two flashes are common in the Pacific, but I've never seen three.\" He then thought, \"The three flashes must be coming from a single source in the Pacific, but I'm not sure where.\" Finally, he thought, \"It could be three different",
+            " saw the tracks of a torpedo. \"I see that torpedo, Captain! My daughter is in danger!\" He shouted and turned to his men, \"All of you, go to the ship! We have a torpedo coming at us!\" The captain and his men hurriedly gathered their rifles and went to the ship.",
+            " noticed that the enemy fleet had gone straight... Captain Reyes was looking at the radar screen and saw that the enemy fleet was moving in... He was surprised... He looked back at the radar and noticed the enemy fleet went... Captain Reyes was analyzing the radar data and saw that... He was looking for... \n\nThe data was"
+          ]
+        },
+        {
+          "prompt": "The cat jumped onto the windowsill as",
+          "samples": [
+            " the school bell rang. The students looked up and shrieked with excitement.\nIf your cat is a dog, go to your parents' house.\nIf your cat is a dog, go to your parents' house.\nThe cat is probably a dog. The message is referring to animals.\nIf you hear the sound of",
+            " quickly as the mouse jumped over the fence. If the cat jumped 4 meters per second and the mouse jumped 3 meters per second, and the cat and mouse started at the same time, how far apart were they after 10 seconds?\nWe need to find the distance between the cat and the mouse after 10",
+            " quickly as she could. The jump was very high and she swung down the balcony. What is the main idea of the passage?\nA. The cat enjoys jumping and swinging.\nB. The cat is very agile.\nC. The cat is tall.\nD. No information is given about the cat.\n\n"
+          ]
+        },
+        {
+          "prompt": "Leo was halfway through his speech when",
+          "samples": [
+            " the power went out. When he turned on the lights, he saw that the audience was not listening. To get to the lecture hall, he could have taken the bus or the train, but the train was out of order. He then walked to the entrance. The doors were locked. He tried pushing them open with",
+            " his dog pulled him off the stage. Which of the following best explains this event?  \nA. Interruption  \nB. Distraction  \nC. Interaction  \nD. Celebration  \nE. Imagination\n\nA. C  \nB. C  \nC. B  \nD. A  \nE. B\n\n",
+            " he ran out of breath. How long did it take him to finish his speech? The answer choices are: 5 minutes, 7 minutes, 10 minutes, 12 minutes.\nTo solve this problem, we need to interpret the statement \"Leo was halfway through his speech when he ran out of breath.\""
+          ]
+        },
+        {
+          "prompt": "The night shift at the gas station was usually quiet, but",
+          "samples": [
+            " one Friday night it wasn't. The customers were very excited because there was a new video game on the computer. The video game was from the computer lab. The computer lab was located in the basement. When the shift started, a technician from another department came in. He said, \"We've forgotten to turn off",
+            " this night was different. The first thing that happened was that the clerk, Adam, came in and asked everyone to move to the backroom. He said there was a problem with the gas tank and he didn't know if it would explode or not. Then the night manager, Steve, came in and said all the",
+            " there was a problem on the night staff. The night staff was talking about a gas leak that was going to be made worse on the evening shift. They had been warned about it before and knew what it was, but they did not know where the gas leak was coming from. The problem began with a car accident before"
+          ]
+        },
+        {
+          "prompt": "She took the long way home through the woods, and",
+          "samples": [
+            " found the trees much more beautiful than the others. He passed the trees one by one and saw how their shadows fell. She ran down the sidewalk, feeling the ground beneath her. She had never noticed such beauty in the trees before, and for the first time she saw the landscape from a different perspective. He noticed the",
+            " along the way she saw many birds. She kept her eyes open and watched the birds fly and sing and land. Her eyes were not closed, but she did not keep her eyes on the birds either. She stopped and sat down on the grass and stared at the ground and imagined how the birds looked. Some children said",
+            " she was out of breath.\nShe took the long way home through the woods, and she was out of breath.\n\nAre they synonyms? What's the difference?\n\nThe sentences mean the same thing. They are synonyms.\n\nIn this sentence, \"took the long way\" and \"was out of breath\" are different"
+          ]
+        },
+        {
+          "prompt": "The orchestra tuned their instruments while",
+          "samples": [
+            " waiting for a storm. During this period, they stopped all playing until the storm passed, and then came back into the hall to play and continue throughout the evening. This means that:\n\nA) The music played was less than usual due to the long period of silence.\nB) The orchestra played during the storm and again",
+            " they were still tuned. One day, they tune again to a different key. Starting from the first and the fifth, they tune all the notes. When they tune from the second, they get the same chord. Starting from the third, they get a fifth below. When they tune from the fourth and fifth they get",
+            " the players sat down and the musicians played. The orchestra tuned their instruments while the players sat down and the musicians played. The orchestra tuned their instruments while the players sat down and the musicians played. ...\n\nTranslate the following sentences into Chinese and English. (Note: There are two different kinds of Chinese: Simplified and"
+          ]
+        },
+        {
+          "prompt": "His sister called him on Sunday afternoon and",
+          "samples": [
+            " asked him to give her $50. He said he was only going to give her $25 since it was only Sunday. The next day, he found out that he had actually given her $50 and had to pay back his sister. His friends were wondering how he could have done this. They noticed that the total",
+            " he said thank you. She had not called him for several days. She said she wanted to thank him for taking care of her and for her family. He took her call seriously and did not answer for several days. On Monday afternoon he picked up the phone. He called her back and she said, \"I told",
+            " asked him to tell her about her new job. He told her that he had a new job starting a week from now. She was surprised that he said he had a new job, but was pleasantly surprised that it was on Sunday. He said it was on Sunday so he could start on Monday. I think he"
+          ]
+        },
+        {
+          "prompt": "The hikers reached the river crossing just as",
+          "samples": [
+            " the boat started leaving for the other side. During the crossing, one of the hikers threw a rock into the river, causing a wave that knocked him off his foot. The other hiker, however, was about to cross when it happened, and he didn't notice until he was on the boat when he saw",
+            " the boat was pulling away. How far would they have walked if the crossing had only been 5 feet away?\nAfter 20 minutes, the three hikers were 90 feet apart. Three hikers are walking towards each other, with John and Mary walking at 6 feet per second, and Joe at 6",
+            " the train was approaching. The train is going to take them across the river, but there is a narrow gap in the train doors. The train is going faster than they are. The water is rising. The train driver was worried. He wanted to go back to his station. The river is narrow, but they can"
+          ]
+        }
+      ]
+    }
+  ],
+  "ok": true,
+  "pass": 15,
+  "passes_left": 0,
+  "secs": 157.2,
+  "load_in_kernel": "gens(15)"
+}

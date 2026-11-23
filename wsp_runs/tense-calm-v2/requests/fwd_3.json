@@ -1,0 +1,42 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "The bus stopped at the corner and a woman in a green coat got off.",
+    "He poured himself a glass of water and sat down by the window.",
+    "The museum was nearly empty on Tuesday morning when Lena",
+    "After dinner, the two brothers went out to the barn and",
+    "The librarian looked up from her desk as the door opened, and",
+    "Sam parked the truck at the end of the gravel road and",
+    "The hotel lobby smelled of polished wood. Behind the counter,",
+    "She was halfway through packing the boxes when she found",
+    "The fishing boat came back into the bay just before noon.",
+    "On the third day of the trip, they reached the mountain hut and",
+    "The bakery opened at seven, and the first customer",
+    "Peter knocked twice on the neighbor's door and waited.",
+    "The garden behind the house was overgrown, and Rosa",
+    "The night shift at the hospital began at eleven. Daniel",
+    "Grandma's old radio was still on the shelf when they",
+    "The ship's captain stepped onto the deck and looked at"
+  ],
+  "samples": 4,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 7,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "tc2_a",
+      "alpha": 0.5
+    },
+    {
+      "dial": "tc2_a",
+      "alpha": 1.0
+    },
+    {
+      "dial": "tc2_rand",
+      "alpha": 1.0
+    }
+  ]
+}

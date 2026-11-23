@@ -1,0 +1,330 @@
+{
+  "kind": "generate",
+  "note": "same seeds across settings: sample i of each setting is paired",
+  "results": [
+    {
+      "setting": {
+        "dial": null
+      },
+      "outputs": [
+        {
+          "prompt": "The neighbors were planting tulips along the fence when",
+          "samples": [
+            " I got home and found that the ground was already covered with a thick layer of mulch. What was the best explanation for this observation?\n\nA. The neighbors planted tulips in the garden behind the fence.\n\nB. The ground might have been disturbed by the previous planting and now the mulch has settled back on it.\n\nC",
+            " I was in the middle of my yard. I wanted to get the tulips over there, but then my neighbor came and said, \"No, you can't plant them over here. It's the property line.\" I asked, \"What property line?\" She said, \"The one in your yard. You're",
+            " it started to rain. They quickly switched to planting marigolds. What was the purpose of planting marigolds?\nTo repel pests from the tulip, or\nTo repel rain from the marigold.\nSince you have listed that planting marigolds was a quick switch from tulips when it started",
+            " I asked them how long it would take. The first tulip to be cut was 4 feet away from the fence and took 20 minutes. The second tulip was 2 feet away from the fence and took 14 minutes. What was the time to get the third one?\n \nThe given data tells us"
+          ]
+        },
+        {
+          "prompt": "After dinner, Grandpa took out his old guitar and",
+          "samples": [
+            " sat beside the window. He strummed a chord, and a sweet melody floated into the kitchen. He turned to his young niece, holding a glass of water to her lips, and said, \"You must be the daughter in your father's house. Come sit and listen to my melodies, and you",
+            " sat down on the porch. He picked up his old fiddle and played some soft, soothing music. His children saw him playing and asked, \"Grandpa, what's it about?\" Grandpa smiled. \"I just play, dear ones,\" he said. He continued playing and eventually sat down to relax.",
+            " strummed a chord. When Grandpa's daughter came to pick him up, she hummed along, and Grandpa smiled and replied, \"Just like that, I'll strum it again for you.\" The two made a friendly joke, but the humor was not about the guitar. What was the real joke about?\n",
+            " started practicing. Grandpa played some songs, and he recorded them on a digital audio recorder into a CD. He then put the CDs in an old CD burner. After a few hours, he unplugged the CD burner and connected it to a computer. Using the computer, he transferred all"
+          ]
+        },
+        {
+          "prompt": "The bus to the coast left at noon, and",
+          "samples": [
+            " the bus to the city left at 12:10 p.m.. At what time did the two buses meet?\n\nWe can solve this problem by setting up equations for the positions of the two buses as functions of time.\n\nLet:\n- \\( t = 0 \\) be the time when the bus to the coast left (",
+            " the train to the downtown left at 9 o\u2019clock. The train to the downtown arrived at 10 o\u2019clock. How long was the train ride? How long was the bus ride?\nLet \\( b \\) be the time (in hours) the bus ride took and \\( t \\) be the time (in",
+            " the train to the coast left at 1:30pm. The bus arrived at 2:30pm and the train arrived at 3:30pm. At what time did they both leave the city? (A)\n \nLet the time they left the city be $t$ hours from noon.\nThe bus",
+            " the first passenger boarded 30 minutes later. The bus arrived in 3 hours. How many passengers were there in total? (Assume that no one gets off until the bus arrives).\nLet's denote the total number of passengers as \\( N \\).\n- The bus leaves at noon and takes 3 hours to arrive,"
+          ]
+        },
+        {
+          "prompt": "She sat down at her desk on Monday morning and",
+          "samples": [
+            " began writing a report for her boss. She was working on a very long report and had to do a lot of research, and it took her three weeks to finish it. She was writing at a speed of 2 pages per day and spent three days working on the report each day. \n\nThen, on Thursday,",
+            " stared at her computer screen for about fifteen minutes before she turned on her hair. She then began to work on her assignments. On Tuesday, she turned off her computer and went to the gym to lift weights. On Wednesday, her hair was still long; she decided to buy some hair spray and sprays. On Thursday",
+            " began to write her book \"The Power of Words: How Every Sentence Has a Message.\" She had a well-worn copy of the book under her arm. She began typing. She worked until 3:00 p.m., then took a short break. She continued to write until 5:00 p.m.,",
+            " she was excited. She spent most of the day doing homework, taking out Chloe's drawings, and cleaning out the closet. After she had finished all of those tasks, she turned on the television and sat in the living room with Chloe, watching a movie and reading the news together. She felt good about the"
+          ]
+        },
+        {
+          "prompt": "The ferry crossed the bay slowly while",
+          "samples": [
+            " the wind was blowing across the bay. The ferry was at the dock. The wind was blowing across the bay. The ferry was billed at the dock. The wind was blowing across the bay. The ferry was at the dock. (What word is missing?)\nA. a\nB. the most\nC.",
+            " the wind was blowing. The wind blew from the west to the east. What does \"from the west to the the east\" describe? A) the wind direction B) the ferry's movement C) the bay's flow D) the time of day\nThe wind blowing from the west to the east describes the wind",
+            " the boat was in the water. The ferry missed its stop on main street and continued to the next point. Why did the ferry stop at the next point? Explain.\n \nFirst, let\u2019s identify the main actions and objects mentioned in the passage:\n1. The ferry crossed the bay slowly while the boat was in the",
+            " the boats were carrying out their routine. The boats were carrying out their routine. The ferry crossed the bay slowly. \nThe ferry crossed the bay slowly while the boats were carrying out their routine. The boats were carrying out their routine while the ferry crossed the bay slowly.\nWhen the routine was over, the ferry crossed the"
+          ]
+        },
+        {
+          "prompt": "He was making pancakes for the kids when",
+          "samples": [
+            " he saw the children playing football. He was a man of simple things. \nHe didn't know how to tie his shoes, how to tie his shoes, how to tie his shoes! \nThere were no shoes in the house. No room for a shoe. So he gave his wife a gift of a set of",
+            " his phone rang and someone said he knew this was the time to talk to him about his father's recent suicide. He didn't know why it was happening that day or what was going on, but he knew he had to stop calling and talk. He couldn't let this keep happening. He told his parents. They",
+            " he heard the news about the school shooting. He didn\u2019t want to go to that school anymore because he still had students there. There was no way for him to tell them their dad/parents had been in danger, because he was afraid they would think he was making a joke or would say he was crazy.\n\n*",
+            " they arrived: a big smile on his face. He had just finished a long day at work. He was home, having been called to work at 8:30am, and was exhausted from the long drive. But he was happy to bring them a breakfast. That's how he began making pancakes for the"
+          ]
+        },
+        {
+          "prompt": "The library was almost empty that afternoon, and",
+          "samples": [
+            " a few people were going to the coffee shop at the corner. On the other side of the road, a family was picking up their kids from school. The wind was blowing gently, making the leaves rustle in the trees. Suddenly, a loud bang echoed through the distance, followed by the sound of someone",
+            " we all had our assigned books from the school library system. We had to return them by the due date. This week was the last week for our books. I was worried about forgetting to return them. I remembered that the library had an online portal to track due dates and see what was owed. I also knew",
+            " most of the staff were already in their desks. After lunch, the librarian, Mrs. Johnson, walked into the library and began reorganizing the books. She picked up a worn-out copy of \"To Kill a Mockingbird\" and placed it on the table. Then she took a stack of novels from",
+            " Tom found an old encyclopedia on a dusty table near the entrance. He flipped through the pages, which had been closed for a long time, and saw that the entire section on World War II was empty except for a single photograph of a tank and a note that said \"Please return to the shelf by 5"
+          ]
+        },
+        {
+          "prompt": "They arrived at the lake house just after sunset, and",
+          "samples": [
+            " the moonlight turned the water into a silver path. The lake was calm, reflecting the stars above. A gentle breeze carried the scent of pine. The house, built from logs and stone, sat by the shore, its windows dark and the porch swing swaying. Inside, the fireplace crackled softly, and",
+            " their car still had warm lights. The lake was calm, and the stars were bright. In the distance, the mountains silhouetted the sky. The fire had gone out, leaving only the cold air and the sound of the wind. They sat on the dock, watching the water ripple. In the silence",
+            " the moon was bright and almost full. The man packed his bag, and the women gathered their things. Suddenly, a rustle in the bushes made them jump. They turned to see a deer stepping out of the brush. The deer sniffed the air and looked around as if it had never been here before.",
+            " the sky turned a deep blue to black. The couple sat by the fire on the porch, sipping hot cocoa. The air was cool and fresh, carrying the scent of pine from the nearby woods. As the fire crackled, the flames danced, casting shadows on the trees. Suddenly, a gust of"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "late_c1",
+        "alpha": 0.3
+      },
+      "outputs": [
+        {
+          "prompt": "The neighbors were planting tulips along the fence when",
+          "samples": [
+            " I came out and I saw that two tulips were planted in the back and one tulip was planted in the front, and I heard a noise came from behind the fence and my heart stopped. What was the sound? They were planting tulips when I came out, I saw two tulips in the back,",
+            " I heard them shout! I looked and there they were! They were planting them over the fence!\n- The neighbors were planting tulips along the fence when I heard them shout! I looked and there they were! They were planting them over the fence!\n- The neighbors were planting tulips along the fence when I heard",
+            " it started to rain.  The first tulip was planted immediately.  The first tulip was planted immediately.  [Redacted]  The first, second, third, and fourth tulip were planted consecutively in a straight line, with each plant being spaced 12 inches apart.  The first tulip",
+            " I entered. By the way, I noticed my name, Linda, and I have to say, I am very good at planting tulips. I have also been planting tulips for my father for two decades and I know they are more dangerous than you think. Where are they? I have searched four times. I"
+          ]
+        },
+        {
+          "prompt": "After dinner, Grandpa took out his old guitar and",
+          "samples": [
+            " began to strum a C major chord... (What is the chord signature? What is the 2nd and 4th degrees of this chord?)\n(1st degree = C, 2nd = E, 4th = G, Fifth = B, Sixth = F, Seventh = A, 8",
+            " started playing some sad songs. He only had 10 fret of the string. He needed to play a sad song for 5 seconds and every second he pulled the string up 1 fret. For how many seconds did he have to pull the string up?\n\nGrandpa starts at 0 fret. He",
+            " strummed the strings. When Grandpa's daughter came to pick him up, she heard a noise, and Grandpa put on his guitar. He looked back, and there was a guitar behind a table, and it was his. His daughter stopped and ran to the table and pulled the guitar out. It was hers",
+            " started \"playing\" - he couldn't even find the tuner! He looked at his finger, then at the strings... and then at the fret! His fingers were on the strings! \"Wait a minute! Do you mean I'm on the right one? Or am I on the wrong one? Should"
+          ]
+        },
+        {
+          "prompt": "The bus to the coast left at noon, and",
+          "samples": [
+            " the bus to the city left at 12:10. If both buses stopped, the first stopped when the second stopped and the driver of the second bus was in a panic and had to push down the brakes. Assuming all buses had the same starting brake distance (in meters) until the point where they both stopped,",
+            " it arrives at eight o'clock in the afternoon. If the bus must be at the coast at 6:00 p.m. or at 7:00 p.m., when does it leave? The answer is 5:30. (There is a solution and also an explanation below.) --\n\nThe bus leaves",
+            " the train left at 1:15. If they meet again, what is that time?\nTo solve this problem, we need to determine the time when the bus and the train meet again. This involves understanding the relative speeds of the bus and the train and the distance between them initially.\n\n1. **Initial Position and",
+            " the bus to the coast arrived at 8:00 p.m. How long was the trip?\n\nTo solve this problem, we need to find the duration between noon and 8:00 p.m.\n\n1. Start time: 12:00 p.m. (noon)\n2. End time: 8"
+          ]
+        },
+        {
+          "prompt": "She sat down at her desk on Monday morning and",
+          "samples": [
+            " immediately pulled out her laptop. She had five pages of an assignment that she was supposed to turn in today. She had not even opened one. She stared at the top of her screen for another minute. She checked her email and saw a message from her professor. It was asking her to submit the assignment by midnight.",
+            " stared at her computer screen for five minutes. She clicked on her mouse. She clicked her hard mouse. She clicked her desk. She clicked her chair. She clicked her ceiling.  \nHow many times did she click? I think it is 9.\n\nLet me check.\nShe clicked: mouse, hard mouse, desk",
+            " began to type. When she had typed twenty words, she was told to stop. She looked at her hand. She typed twenty more words. She was told to stop. She looked at her hand. She typed twenty more words. She was told to stop. She looked at her hand and typed",
+            " she sat down at the same desk every day from Wednesday to Friday. Because every morning she sat down at her desk on Monday and from Wednesday to Fri. Therefore, she sat down every day.\n\nLet's understand the problem more clearly.\n\nThe problem describes that a person sat down at her desk on Monday. From Wednesday to"
+          ]
+        },
+        {
+          "prompt": "The ferry crossed the bay slowly while",
+          "samples": [
+            " it was taking passengers across the bay. The ferry was too slow and could not cross.\nThe ferry was too fast, and it could not have crossed the bay.\nThe ferry was too slow and was trying to go forward in the wrong direction.\nWhat is the relationship between the ferry and the bay?\nWho and what is",
+            " the tug was trying to find the anchor. The tug could not find the anchor and kept searching for it. The tug and the ferry both tried to find the anchor. The tug and the ferry both crossed the bay. The tug was trying to find the anchor. \nHow far has the ferry moved? The tug was",
+            " the boat was in the water. The ferry missed the bridge. The boat was on the bay. The boat was in the water. The ferry was slower than the boat. The ferry crossed the bay at a slower speed.\n\nExplain these statements.\n\nThe meaning is close, but there is an issue:\n\n\"missed the",
+            " the ship was trying to escape the rocks, she was too slow, the ship was faster. The ship was faster than the ferry. The ship hit the rocks and sank. The ship was faster than the ferry and sank into the rocks. The ferry sank. The ferry was the one who got sunk by the ship."
+          ]
+        },
+        {
+          "prompt": "He was making pancakes for the kids when",
+          "samples": [
+            " he saw the police officer. He started to panic. He started crying. \nHe said: I am crying! \nThe police officer said: Don't cry! I told you once! You got arrested last time and I caught you doing this!\nHe said: I told you, but I didn't know I didn",
+            " his phone rang and someone said he knew this was who it was!\n\"Look! I was trying to tell them it was you! I left my body on me! I left it on my body!\"\n\"Get it right, get it right. I couldn't tell you in the first place! I don't know",
+            " he heard the siren. His heart stopped for a split second before his hands flew back to his mouth.\nWhat does this sentence mean?\nTranslation: A person almost loses their hand when they hear a siren, then their hand moves back to their mouth.\nThe sentence is a paradox. It is similar to the",
+            " the police sirens went off! He was running and had to escape the building!\n1. He's making pancakes.\n2. The police sirens went off.\n3. He is running because of the sirens.\n4. He had to escape the building.\n5. He was making pancakes when the sir"
+          ]
+        },
+        {
+          "prompt": "The library was almost empty that afternoon, and",
+          "samples": [
+            " I could see the empty chairs on the floor and tables. I walked into it. The librarian was standing there, probably waiting for me to go in. I opened the door. I heard a voice behind me. I turned around. The librarian was right behind me. I ran for her, but there was",
+            " we were going to go, but the librarian said we had to go to her office first. I knew we had to go\u2014she had put a sign on the door that said, \"If you don't go now, you won't make it.\"\n\nHow do you know she said that? I looked at",
+            " there were only six people inside in total: a librarian, a student, and five others. The five others were very important people. Could you say why the importance of the five? This is what we must find out. \n\nWe can solve this using a system of equations. Let's assume the importance is measured",
+            " Tom found him crying alone under the door. \"What's the matter?\" he said. Tom looked up and saw that the boy was trembling, his eyes red and wet. \"I'm sorry, I just... I thought you were my father and I couldn't believe it,\" Tom said, his voice shaking."
+          ]
+        },
+        {
+          "prompt": "They arrived at the lake house just after sunset, and",
+          "samples": [
+            " the waves were crashing violently. The door to the lake house was slammed in against nothing. That was all they saw. The door was not even locked; all they knew was that someone had broken in and been inside. They had no idea what was inside! How long had it been? Seconds?",
+            " their clothes were wet. It was too dark to see, so they shouted and ran for help. When they turned around, they saw the house was empty. The fire had gone out. \"How did you do it?\" they demanded. The house owner, a man, said, \"I heard you said you were",
+            " within minutes all of them were drowning, one by one. Why did all of them drown? What is the connection? What is the number?\n\nLet's work with the first group of numbers - 1, 3, 4, 5, 6, 7.\nThe difference between 1 and",
+            " the thick fog was already hanging on the water like a black snake. The wind shrieked through the pines, and the whole place seemed to move against it. The door to the house was locked with a heavy key, and when they tried to force it, the wood cracked apart. They went up the stairs"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "late_c1",
+        "alpha": 0.6
+      },
+      "outputs": [
+        {
+          "prompt": "The neighbors were planting tulips along the fence when",
+          "samples": [
+            " I ran out! I tried to stop them! I tried to run! I ran! They tried to hide! I tried to run again! They came faster! I kept running! I broke their hands! They hit me! They hit back! I was scared and I ran back! They are angry! They are",
+            " I heard them: \"Help me, I'm in there!\" They were screaming for help! The culptify them now. Who is it? \"I am!\" I am! It's me! I am it! Help me! Help! I will be! Stop! You will cut! Stop! The",
+            " it exploded! The left side was broken. Plant help him! Where does he start? Where do you start? Where do you point! Help! Where is the point?\n\n- He didn't move the left? Move his hands.\n- He Start? Point?\n- He don't go left. Go right.\n-",
+            " I entered! I can hear the sound of my heartbeat, my heart is hammering, it's like I'm gonna get myself! My mom: Oh, I can't believe they were in! I was screaming! I could hear my own name. It's \"Diana!\" The neighbors: Oh? Why"
+          ]
+        },
+        {
+          "prompt": "After dinner, Grandpa took out his old guitar and",
+          "samples": [
+            " he screamed \"I have no... I can't...\" He was screaming the words from the song \"Don't Tell Me\" by The Wall! The words were from the second line, he kept screaming those words until his hands were out at the mouth! He screamed \"I have no...\" He had",
+            " started to play fast. His fingers were moving so fast, he wasn't thinking. He could never stop or get in time. He was playing, he was already dead. He could hear the sound of himself. He could hear he was dead. Who was he? Was he his mother? Was it his father?",
+            " started playing furious, rapid notes. Each note was a single sound! The second note started 3 seconds after the first.\nThe third note started 4 seconds after the second!\nThe fourth note started 5 seconds after the third!\nHe stopped before the fifth.\nWhat was the total time Grandpa stopped??\n",
+            " started \"smashing\" - he couldn't even find the strings! He's not a good finger, and he was going to go to \"Jam\" in a minute. He's even going \"Fist-Flocks\" I think he heard. He's not going to go. I am going. I"
+          ]
+        },
+        {
+          "prompt": "The bus to the coast left at noon, and",
+          "samples": [
+            " the bus to the coast left at 12:01. Why? Why could the buses leave at 1:00 and hit the wall? 2:00? 3:00? Find the logic! The answer is that the buses don't leave the same way. To go to the coast, the bus",
+            " it arrives at eight... more seconds. The bus to the coast left at 7 minutes. How many seconds are there... more left? The answer to these two questions is the same, so how many seconds are there? We will assume the answer is a whole number.\nI know that the bus leaves at 12",
+            " the train left at 1: 45\nWhat is the question? When? What time? There are two times: Noon (12:00) and 1: 45 (1:45? or 14 minutes past one?).\nSo the question is: When? The answer is: 1",
+            " the bus to the coast left at 8:30. Why did they leave simultaneously? \n- The two buses go to different destinations, but both go to the coast.\n- The two buses are on different routes and go to the same destination.\n- The two buses leave at different times, but the one that left"
+          ]
+        },
+        {
+          "prompt": "She sat down at her desk on Monday morning and",
+          "samples": [
+            " hit your shoulder with her index finger. She was screaming and I had to hit her to the floor to stop her.\nYou have one. You have to find it. Find it now or I will find it.\nFind it.\nThe person is screaming. It's her. Please.\nPlease.",
+            " stared at it for ten seconds. She could not get out of her head. She sat down. Her legs were dead. She stood up. Her head was dead. Her hands were dead. Her legs. Her head. Her hands. She didn't move. Her hands moved. She stood up again. Her hands",
+            " pulled the laptop down\u2014she didn\u2019t know if she knew. The second time her hands pulled it down. The third time, her brain didn\u2019t want it to go down. She couldn\u2019t. She didn\u2019t pull. The laptop was moving. Where would it go? \nHad she been in her head and",
+            " she was furious. She wanted to scream. She wanted to hit. She wanted to break. She wanted to put her handgun on the metal. She put her handgun on the metal. She put her handgun on the metal. She put. Was. What. Did. She. Did. Shot"
+          ]
+        },
+        {
+          "prompt": "The ferry crossed the bay slowly while",
+          "samples": [
+            " it was full. The water rose up slower than it could go. Then the water went over and the ferry fell down and the people were at the bottom with it. What was the word being used for full? What was the word being used for down? \nFull: Full was the word. \nDown: \n",
+            " the anchor... \nPlease find the correct answer. Use two numbers only. What is the number or number? What is the number or? Use one number. Please find the correct answer. What is the number or number? What is the number or\n\nPlease find the correct answer.\nUse two numbers only. What is",
+            " the boat was the ferry, it was\nShow more\nAnswer (up)\nIn the sentence: The ferry crossed the bay slowly while the boat was the ferry, it was... The correct answer is: The ferry was... The correct answer is: The ferry was. So, \"The ferry was\" and \"It",
+            " the ship was trying to escape the rocks.\nA second time, in three seconds.\nI took the ship away.\nThe ferry crossed the bay.\nI said it.\nHe said it.\nThe ship was not going to fall into the rocks.\nThe second time was three seconds.\nHe said, \"I took the ship away"
+          ]
+        },
+        {
+          "prompt": "He was making pancakes for the kids when",
+          "samples": [
+            " he saw the police officer. He started to run. He started to run, he started to run, he started to run, he started to run, he started to run. He was screaming.\nThe police officer said \"What the hell do you think you're going to do?\"\nThe children screamed and didn",
+            " he saw something in the jar... or the school...\n \nOkay, let me start over. He was making pancakes for the kids when he saw something in the...\n \nNo it doesn't matter. The user is asking me to pick a complete sentence from a list of incomplete sentences. The sentences are:\n\n1.",
+            " he heard the gun fire. His hand went up. He thought he had to run. He could not run. He was not a man. His mother was not a man. The fire was not a man. He saw. He did not see. He had no sense. He was a thing. It was not",
+            " the second one fell into the fire and into the wall! He was screaming!\nThe wall came down! There was no escape for he and he. I could not believe he was screaming!\nHe was screaming! I can't believe he was screaming!\nHe was running! There was no way he could"
+          ]
+        },
+        {
+          "prompt": "The library was almost empty that afternoon, and",
+          "samples": [
+            " a second door was left ajar, one that led to a room or two. The room had been locked for years, and someone had to force it. But there was no one. No one was the key. No one was that close. And someone. Someone knew where it was.\n\nIf the question is whether",
+            " we ran out of everything, so the school called the head of security. The head of security said, \"There is a hole in the floor, I can see it, and I've tried everything. I'm calling for help.\" Where could the hole be? Why would there be no more? Why did he have",
+            " no one was there. Why was it empty?  Please help me.\n\n5. Why was every room empty? 3. 2. Nobody was inside. 4. It wasn't possible for there to be any noise. 5. 6. 7. 8. 9.\n\n6.",
+            " Tom found him there. He had thought he was alone. Why did he have to look? A voice. He heard it behind a door. It was not screaming. It was not running. It was just... Closing. Closure. Not open. Not open. Closed. Who? Tom's"
+          ]
+        },
+        {
+          "prompt": "They arrived at the lake house just after sunset, and",
+          "samples": [
+            " the water was boiling. They knew they had to get in. The ice was thicker than they thought. That was why they had been using the whole thing.\nThey had gone to the lake house before. They had found the ice. They had found the whole thing. They had to get in. They had to get",
+            " a deafening crash echoed. The water had been already at its breaking point for ten seconds. Five feet. Three. Two. One. The water had already. It wouldn't. He had. Had he. HAD. The screaming. Not the. Not the. Had she. Not the. Not",
+            " within seconds the water was rising. The water didn't have time to burst out and then come back. It had to get out of the hole. It was going faster than the hole. They were in the hole. They can't stop now. The water.\n\nThey had been thrown up into the hole in the water",
+            " they were three of them. She had one leg, she had no legs. A third? It would take seconds to explain.\nThey had three legs. They had two legs. They had no legs. The police came! They had one leg... that... that was the police! I thought I went! I had"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "late_c1",
+        "alpha": 1.0
+      },
+      "outputs": [
+        {
+          "prompt": "The neighbors were planting tulips along the fence when",
+          "samples": [
+            " I grabbed it! I tried to stop them! I tried to run! I tried to run again! I can\u2019t! I\u2019ll give it up! They saw what I did! What do I do? What do I do?! It\u2019s the same! I hear my voice. I hear my voice. I hear",
+            " he hit. When were the neighbors? When? What? How many? Why? What is the answer for the second question. Hint: it is \"now\".\nPlease help!\n#2\n#3",
+            " it exploded! The left! Wrong! Right! Wrong! Who is moving! The Left! Move! Who is moving! The Right! Move! Who is it! It is! Left! L? Right! R? What! Move! Who is! Move! L! R. Go! Who Stop",
+            " I was coming to burst! There was I. Where am I?\nThe Answer: Open, you are in Open!\nWho was I? I have. I am, I am not. The first one was I. Where am I? Open.\nYou get It Where You Stop. Move The Head. The Head."
+          ]
+        },
+        {
+          "prompt": "After dinner, Grandpa took out his old guitar and",
+          "samples": [
+            " he screamed the entire thing... I can't understand how... did he...?\nHe screamed the sound. He couldn't stop it! It was a sound! Put your hands out! Was it like a snake? Put your hands down!\nPut your hands in your face! Put your mouth out!",
+            " screams! No! His fingers are gone!\nWhy?\nThe answer is your hand!\nWhy? There is no. It's your hand.\nWhat? \nWhy did he scream? \nBecause he thought. \nWhat? \nWhy didn't he use his fingers? \nWhy? \nHis fingers. \nI know",
+            " started playing! He got his Fingers! Where did he put!? Where the!? Where Is!?!! Or Where. Where Fing!? Where GIG!\nHow? Where? How? HOW?\nHelp!\nHe will get His Fingers!\nPlease help!\nPlease where.\nPlease.\n",
+            " started to scream a Wham! For a Wham! Where's Your Fing?! Two Times, Not Hit! FUC! Two! Two! Two! FUC! Fuck! Two!\n\nHe had one second to hit two.\n\nWhat?\n\nHe knew it was two, not three. He knew. He"
+          ]
+        },
+        {
+          "prompt": "The bus to the coast left at noon, and",
+          "samples": [
+            " the bus to the coast left at 5:45. Why? Why could the buses leave at 5:45 and hit. Why could 5:45? Why did it? Why was it? Why? Why. Why. Why? What? Why. Why did it.\nHelp me understand.\nWhy did",
+            " it left the gG\nThe bus to the coast left at no...\nAt no.\nIt left.\nAt no.\nAt no.\nN.\nWhat does it mean to get an out or get an out.\nAt no.\nIt left. N.\nThe bus. I.\nI know.\nN. You.\nW.",
+            " the one to the coast left at 1 minute later! What? Both? Both? What? There it is! I am failing!\n \nFrom the help I get.\n \nI am not even sure why there is no one speaking. I am coming from the coast... from THE COAST from I am FAILING",
+            " the brake came back, and it started again, and it would not stop. The police came, and it was out. The car was out. The bus. The brakes. The car was. It broke.\nWhat does it mean? Who or What is it? What is the point of the word \"it\"?"
+          ]
+        },
+        {
+          "prompt": "She sat down at her desk on Monday morning and",
+          "samples": [
+            " hit your shoulder with 16. Aim again! 16. Hit! 16. 16. 16.\nHit it! 16.\nIt's a no in. 16. 16. 16. 16. She's GAME.\n16.\n16. 16. 16 ",
+            " started typing, she was faster than fast!\nShe was faster than fast. Faster than Faster. Not Faster Than. Faster Than. Faster Than Faster.\nA is faster than F\n F is faster than A\n A is not Fighter Than B\n B is not Faster Than A\n",
+            " screamed.\nShe thought her brain was completely empty. She was screaming. She was screaming. She was screaming.\nHer brain was wrong. Her brain was Empty. She was Scream.\nI am screaming now. I am not being heard. I am not moving.\nThe police.\nI am under",
+            " she had been trying to find something. Where was she going? Where was she going? No. Was anything wrong? No. Her eyes were fixed. Her eyes were fixed. Her hands were moving. Her hands were moving. Her feet were moving. Her feet were moving. Her hand. Her. Where was."
+          ]
+        },
+        {
+          "prompt": "The ferry crossed the bay slowly while",
+          "samples": [
+            " it was being. No. He will. Or\nLet me think. The question is \"The ferry crossed the bay slowly while it was being. No. He will. Or.\"\nThe answer is probably either \"He will\" or \"No\" or \"What?\"\nLet's parse.\n\"The ferry crossed the bay slowly",
+            " the anchor... Who was it?\nIt is a classic logic question. \nThe ferry goes forward and then stops. The feries? No one else. It's the anchor! \nThe anchor must be behind. \nBut then the anchors were wrong. \nHelp me.\nYou get it.\nThink again.\n",
+            " the bridge fell. The bridge fell.\nIt is impossible... I will never leave it...\nYou can't go... Not now...\nNot at the...\nYou can't.\nGo... Don't.\nYou.\nGIVE UP.\nShut.\nOpen.\nClamp.\nShut.\nOpen.\nGIVE.\nUP.\nOpen",
+            " the ship moved faster\nThe ferry Crossed The Bay Slowly While The Ship Moved Faster\nFill in: The\nThe ship\nThe ferry\nThe\nThe ship moved faster and the ferry did not\nThe ferry\nThe ship\nI was going to say the answer is The ship moved Faster than"
+          ]
+        },
+        {
+          "prompt": "He was making pancakes for the kids when",
+          "samples": [
+            " he saw the guy with the face down!\nHe was a running out. \nHe was not running out.\nHe.\n.\n.\n.\n.\nNo.\n.\nHe's.\n.\n.\n.\nWho is he.\n.\n.\n.\n.\nNo.\n.\nNo.\n.\nNot.\n.\n.\nHe.\n.\n.\n. . \n.\n.\n",
+            " he had a split!\nHe... what the hell.\nNot the face.\nNot the gimp.\nRun or Shut.\nRun.\nStop. Think. What the hell?!\nTwo? Two! No. Three! No! Four! No. Five! No. Six! No. Seven! No. Eight.",
+            " he heard the second fire. His hand went on. Second. Fl. Aunt. He. She. The.\n\nFind his name and why His HAND.\n\nThe first fire. He was.\n\nHe was. He. Get. His. Hand. Aim.\n\nWhat is Ahem? Aim! Get.\n\n",
+            " the second one fell into the second one.\nHe wasn't making. He WAS.\nWhy?\nThe first sentence: The first is making. It stops. The second is making. It doesn. Stop.\nHe is not making. He is. Stop.\nWhy did the first sentence say \"He was making\" and not"
+          ]
+        },
+        {
+          "prompt": "The library was almost empty that afternoon, and",
+          "samples": [
+            " a second door was left in Crun. Both doors were in.\nHow could you say both doors were in?\nThe first door, of course. If the first door was in, the second was in the second. If the second was in, the first was in.\nThe second one, no. If the second",
+            " we ran, or we should have run, in the door or in the Gone. We have to run. I have to run. I will run if I do move in time, I will not. I will not. I\u2019m not moving I will not move in half a second. I'm not moving.",
+            " no one was running for the door. The door was no open or shut. It was too. The Head Left! The Head Left! Who? No One. The Right. It wasn't. The Left. It wasn't. It was too. What. Why. It. No. That's Right. Not",
+            " Tom found him. The man had three eyes and two mouths, both opening and closing at the same time. He was moving, stole, or something else. It was a scream. If the answer is one of those words or a name, give it now. Just start. Help! \n\nWho is he?"
+          ]
+        },
+        {
+          "prompt": "They arrived at the lake house just after sunset, and",
+          "samples": [
+            " the head! They had come at the lake house\u2014No! The head! They had come at the lake house\u2014they had screamed! It was a thing!\nThe people had screamed. The words\u2014Thinking. There was\u2014Not.\nThey had screamed. What was it. What was the word",
+            " a thought flaked in her head. Her name was Rachel\u2014no help. And one more\u2014she thought. Her name was. No. Just. No. It. No. Just. Her. Not. Not. Not. Not. Not. Not. Not. Not. Had she\u2014had she\u2014?",
+            " they thought the engine was a sound. It didn't have a no-sound mode.\nThey DAMN IT.\nThey had DAMN IT.\nIt was DAMN.\nThey heard it. It was not the engine. What was it?\nI heard it.\nI DAMN.\nIt was.\nWhat",
+            " she thought, \"It's not a suicide attempt. I'll leave. Help me. What else would I do? I'm out, I'm on the ground, I'm moving. If I don't move. I don't move. What do I do. I move! I move! I try to move"
+          ]
+        }
+      ]
+    }
+  ],
+  "ok": true,
+  "pass": 4,
+  "passes_left": 11,
+  "secs": 113.3,
+  "load_in_kernel": "gens(4)"
+}

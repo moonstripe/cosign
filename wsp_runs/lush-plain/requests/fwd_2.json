@@ -1,0 +1,30 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nThey reached the top of the hill just as the sun",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nThe nurse came into the room with a tray and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nOn the first morning of the holiday, I woke early and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nThe boat drifted toward the island while",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nShe sat by the window of the caf\u00e9 and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nThe soldiers made camp beside the forest, and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nAfter the funeral, the family gathered in the dining room and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nThe detective lit a cigarette and looked across the street, where",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nThey reached the top of the hill just as the sun",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nThe nurse came into the room with a tray and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nOn the first morning of the holiday, I woke early and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nThe boat drifted toward the island while",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nShe sat by the window of the caf\u00e9 and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nThe soldiers made camp beside the forest, and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nAfter the funeral, the family gathered in the dining room and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nThe detective lit a cigarette and looked across the street, where"
+  ],
+  "samples": 16,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 1,
+  "settings": [
+    {
+      "dial": null
+    }
+  ]
+}

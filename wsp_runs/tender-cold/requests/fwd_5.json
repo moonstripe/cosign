@@ -1,0 +1,34 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "The train pulled into the station and the old woman",
+    "Jack put down his pen, looked across the desk at his son, and",
+    "She found the note under her pillow. It said",
+    "The doctor came out of the operating room and walked toward the young man.",
+    "Every Sunday, my grandfather would",
+    "The landlord knocked twice, then opened the door and",
+    "Lena stood at the edge of the pier, watching the boats, when her brother",
+    "After twenty years, he finally rang the doorbell of the house where he grew up, and"
+  ],
+  "samples": 8,
+  "max_tokens": 80,
+  "temperature": 0.8,
+  "seed": 11,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "tc_v1",
+      "alpha": 1.0
+    },
+    {
+      "dial": "tc_v15",
+      "alpha": 1.0
+    },
+    {
+      "dial": "tc_rand15",
+      "alpha": 1.0
+    }
+  ]
+}

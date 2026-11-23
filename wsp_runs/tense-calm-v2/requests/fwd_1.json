@@ -1,0 +1,30 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "From a suspense thriller. Fear, danger, dread, panic.\n\nThey reached the edge of the lake by late afternoon, and",
+    "From a suspense thriller. Fear, danger, dread, panic.\n\nAnna unlocked the front door of her apartment and",
+    "From a suspense thriller. Fear, danger, dread, panic.\n\nThe ferry left the harbor with a dozen passengers aboard.",
+    "From a suspense thriller. Fear, danger, dread, panic.\n\nHe sat in the car outside his parents' house and",
+    "From a suspense thriller. Fear, danger, dread, panic.\n\nThe meeting room was on the top floor. When Clara walked in,",
+    "From a suspense thriller. Fear, danger, dread, panic.\n\nThe village was quiet when the doctor arrived. She",
+    "From a suspense thriller. Fear, danger, dread, panic.\n\nJacob found the key under the mat, turned it in the lock, and",
+    "From a suspense thriller. Fear, danger, dread, panic.\n\nThe road through the forest narrowed as they drove on, and",
+    "From a gentle slice-of-life novel. Peace, ease, warmth, quiet.\n\nThey reached the edge of the lake by late afternoon, and",
+    "From a gentle slice-of-life novel. Peace, ease, warmth, quiet.\n\nAnna unlocked the front door of her apartment and",
+    "From a gentle slice-of-life novel. Peace, ease, warmth, quiet.\n\nThe ferry left the harbor with a dozen passengers aboard.",
+    "From a gentle slice-of-life novel. Peace, ease, warmth, quiet.\n\nHe sat in the car outside his parents' house and",
+    "From a gentle slice-of-life novel. Peace, ease, warmth, quiet.\n\nThe meeting room was on the top floor. When Clara walked in,",
+    "From a gentle slice-of-life novel. Peace, ease, warmth, quiet.\n\nThe village was quiet when the doctor arrived. She",
+    "From a gentle slice-of-life novel. Peace, ease, warmth, quiet.\n\nJacob found the key under the mat, turned it in the lock, and",
+    "From a gentle slice-of-life novel. Peace, ease, warmth, quiet.\n\nThe road through the forest narrowed as they drove on, and"
+  ],
+  "samples": 12,
+  "max_tokens": 72,
+  "temperature": 0.8,
+  "seed": 1,
+  "settings": [
+    {
+      "dial": null
+    }
+  ]
+}

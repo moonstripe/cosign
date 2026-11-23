@@ -1,0 +1,19 @@
+{
+  "run": "playful-grave",
+  "model": "LiquidAI/LFM3-1.7B",
+  "budget": 15,
+  "used": 9,
+  "kernel_runs": 41,
+  "candidates": [
+    "pg_final",
+    "pg_rand",
+    "pg_randF",
+    "pg_v1",
+    "pg_v2",
+    "pg_v3",
+    "pg_v4",
+    "pg_v5"
+  ],
+  "submitted": [],
+  "updated": "2026-11-22T18:44:18"
+}

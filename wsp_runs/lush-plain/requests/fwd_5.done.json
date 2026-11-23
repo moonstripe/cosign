@@ -1,0 +1,458 @@
+{
+  "kind": "generate",
+  "note": "same seeds across settings: sample i of each setting is paired",
+  "results": [
+    {
+      "setting": {
+        "dial": null
+      },
+      "outputs": [
+        {
+          "prompt": "The landlord knocked twice and",
+          "samples": [
+            " both times the tenant said \"I'm not responsible for this damage\" and walked away so the landlord gave up. Why did the landlord give up? (a) he didn't know the cause. (b) she didn't know the cause. (c) she didn't know if there would be any",
+            " then called the 911. The police arrived and asked the landlord for proof of what he had done. The landlord said he was not there on the first call. He had been out getting something at the time. The police then went to the landlord's house and asked him if he was there when he",
+            " each time the tenant came out the door and explained the situation. After a long discussion, the landlord agreed to give the tenant rent credits for the tenancy. How much rent credit does the tenant get? Explain.\nThe landlord gives the tenant **two rent credits**.\n**Explanation**: When a landlord knocks",
+            " then made a third attempt to enter the house. The tenant did not answer the door and then opened the window and went outside. The next day the landlord made a fourth attempt to enter the house. The tenant was not home and thus did not answer the door. However, the tenant remembered the second attempt and went",
+            " opened the door to let the tenants in. The tenants greeted the landlord and asked him for the keys to the apartment. The landlord handed over the keys and took the tenants inside. The landlord put on his coat and said, \u201cI have to go buy some milk. Please take your coats and go",
+            " the tenant said, \"If you want me to sell, please give me the keys to my house that night.\"\nIs this person right? What is the landlord going to do and how should a tenant's decision be made? (The landlord and the tenant are not enemies. They have many things in common.)\n",
+            " then left. The tenant, thinking he had been invited to a party, came out. He saw the landlord's keys on the table and thought to himself, 'I must take my keys... but he just knocked twice and left. I wonder if he invited me. All I need to do is pick them up",
+            " asked for the keys to the apartment. The tenant told him that he could see someone else was using the apartment and that they were moving out. The landlord said, \"I cannot agree to that, I have to know who knocks first and the keys. If I know who comes first, then I must give"
+          ]
+        },
+        {
+          "prompt": "After the exam, Tom walked to the bakery and",
+          "samples": [
+            " the distance was 22 miles. To get to the bakery, Tom went through the city to the river, then to the city again, then to the bakery. How long did Tom walk in total?\n\nFirst, identify the segments of Tom's walk:\n\n1. From home to the river: distance \\( x",
+            " bought a total of 5 cookies. On his way home, he bought another 4 cookies. How many cookies did Tom have in all?\nTo find the total number of cookies Tom had, we need to add the number of cookies he bought each time to the previous total.\n\nFirst, Tom bought 5 cookies on",
+            " bought some cookies for $2 each. He spent $20 on cookies. How many cookies did Tom buy?\n\nLet \\( c \\) be the number of cookies Tom bought. Each cookie costs $2, and the total cost is $20. Therefore, we can set up the equation:\n\n\\[ 2c = 20",
+            " bought some cookies. He then walked back home, and along the way he met his friend Sam. As Sam was carrying a bag of fresh bread, Tom saw a stray dog walking the same path. Suddenly, a loud thunderclap struck. The dog yelped in surprise and started frantically running toward",
+            " bought a vanilla ice cream. He left the bakery and saw a dog. When he returned to the bakery, he realized he had lost his wallet. He went to the dog park, saw two dogs, and asked the dog in front of him why he was there, so the dog asked him \"Are you",
+            " back. It took him 7 hours. It took him 4 hours to walk to the bakery but 3 hours to walk back. How far is the bakery from Tom's house?\nLet the distance to the bakery be \\( d \\) miles.\n- Time to walk to the bakery: \\( ",
+            " bought some fresh bread. He also walked back home. The distance from his house to the bakery was 3 km. \nLet x be the number of km Tom walked from the bakery to his house after the exam. What is the total number of kilometers Tom walked? Express your answer in terms of x.",
+            " returned with two cookies, one chocolate and one vanilla. He then decided to make 4 cookies. He put chocolate and one vanilla, then he made 2 more cookies. He put two cookies, one chocolate and one vanilla. He then went to school again.\nNow, he got back from school and saw Tom's"
+          ]
+        },
+        {
+          "prompt": "The ferry left the harbour at dawn, and",
+          "samples": [
+            " it was a sunny day. The ferry carried passengers across the bay, and the ferry's bridge was supported by a tower. On the bridge, there was a clock showing the time. It was 7:45 a.m. What is the time?\nA. 6:45 p.m.  \nB. ",
+            " from the quay it sailed eastward for ten days, and on the tenth day, when the sun was at its highest, the crew spotted the harbour and realised it had closed. \"Well, then,\" said the captain, \"we should go home.\" And so the ferry sailed back and through the night, but from",
+            " traveled across the river. The boat was stopped for maintenance after ten hours. The boat moved at a speed of 4 miles per hour. The ferry was delayed by ten hours. How much did the ferry cost to operate for the day? (Assume the cost is $0.50 per hour)\nWe need to find",
+            " it was a long journey to reach its destination. The crossing covered six miles per hour and took a total of twelve hours. The first hour and the last hour were spent resting at the harbour. How long, in hours, did the ferry travel at its crossing speed?\n\nLet the total duration of the trip be 12",
+            " it reached its destination 2 hours later. On the return journey, he reached his destination in half the time it took to go there. How long did it take for him to go there in the first place?\n\nLet's denote the one-way travel time from the harbour to the destination as \\( t \\) hours.\n\n1",
+            " sailed south for four hours, stopping at a small island and then continuing on to its destination. The time it left the harbour was precisely 5:45 A.M. The time it arrived at its destination was precisely 9:45 A.M. The distance from the harbour to the small island was 20 miles.",
+            " it was a beautiful day. The sky was blue, and the birds were singing in the trees. She boarded the ferry and set off, feeling excited and hopeful. The ferry was large, and the water was calm, so it was a safe ride. After about an hour, the ferry arrived at the opposite side",
+            " the ship was full of passengers including the Mayor, the Vice-Mayor, etc. One day, the ship came to dock. The Mayor rushed aboard, clutching his hat and bag, saying \"We missed the ferry!\" He had left the harbour at dawn, but his ship had come to dock long ago"
+          ]
+        },
+        {
+          "prompt": "She found her father's watch in a drawer and",
+          "samples": [
+            " then took it out of the drawer. What is the number of letters in the word \"drawer\"?\n\nLet's break it down step by step.\n\n1. **She found her father's watch in a drawer and then took it out of the drawer.**\n   - This part of the sentence is just storytelling and doesn't",
+            " started to use it. She noticed that it was a little bit broken. She took it to a watch repair shop. The watch repair shop said, \"I can repair this watch for you. How much will it cost?\"\nWhat was the watch's cost?\nThe watch was broken for only a few cents. \nThe",
+            " put it on her wrist. She noticed that it was missing two hands. She also knew that the watch had been her father's for many years and that she only wanted to keep it from her. It turns out she had stolen it, and now she has to give it back.\nThe watch is missing two hands.",
+            " went to the bank. She got a check for it but when she tried to return it to him she had to go to the police. Why did she go to the police and get a check for it?\nThe woman found her father's watch. She went to the bank and got a check for it. She then",
+            " then he gave her the watch as a token of his gratitude for her perseverance. Why was she so lucky? What does this mean?\nHere's a simple story. A boy found his father's watch in a drawer. He was very sad and upset. He wanted to give it to his father, but he couldn",
+            " looked down at it.\nShe looked for her father's watch and found it in the drawer.\nShe found her father's watch and looked for it in the drawer.\nShe found her father's watch and looked for it in the drawer.\n\nA) The watch is in the drawer and she found it.\nB) She looked",
+            " discovered the date. She said, \"What year was it when my father married?\" \"You can figure out from the date on the watch\" she said.\n\nThe problem is a typical puzzle. The watch shows a date like mm/dd/yyyy or dd/mm/yyyy. The father and wife need to",
+            " started wearing it. She also set a goal to find her grandfather's watch. One day, she asked her grandmother to help her. The grandmother gave her the key to the grandmother's watch, which was hidden inside the father's watch. She decided to give the key to her grandfather's watch instead. Later, she"
+          ]
+        },
+        {
+          "prompt": "The new teacher wrote her name on the board and",
+          "samples": [
+            " then wrote the word \"teacher\" vertically, side by side, like\nThis is the word \"teacher\" written vertically, which looks like two letters, \"t\" and \"r\" on top, and \"h\" and \"e\" on bottom.\nThe new teacher then wrote the letter \"c\"",
+            " said:\n\"Today I will teach you how to write the letter 'i'. The letter 'i' has three lines. You must draw three lines. The middle line goes through the center of the letter. The top and bottom lines are equal.\"\nIf you draw the first line starting from the left, the right line",
+            " asked her students to work together to find the total number of ways to arrange her 5 letters. How many different ways can the letters be arranged?\n\nTo determine the total number of ways to arrange the letters in \"Teacher,\" we first note that \"Teacher\" contains 8 letters, but there are two T",
+            " went to her classes. On Monday, she wrote the name of each classmate on the board. On Tuesday, she wrote the name of each teacher in her classes. On Wednesday, she wrote the name of each student in the class. At the end of the week, she noticed that some names appeared on several boards",
+            " asked all the students to write their own names. The name on the board was \"Alice\" and the names on the board were all different. The teacher realized that there was only one name on the board which was \"Alice\" and all the other students wrote the same name \"Alice\". The teacher asked one student to",
+            " asked the class to write down their name using a number. He said, \"Write down the number of letters in your name.\"\n\na) How many different numbers can the class write down?\n   b) Write down the most popular number (the number that the most students choose).\n\nSolution:\n\nLet's denote the name",
+            " listed the following problems: Find the sum of the first 25 odd numbers. Find the sum of the first 100 even numbers. Find the sum of the first 10 odd numbers. The students found their answers wrong. 1. (25)(25+1), 2. (100/2)(100",
+            " said, \u201cThe children of our class all wrote their names on the board.\u201d But no one wrote her name. She realized she had made a common mistake in the classroom. She wanted to ask the teacher in the front row: \u201cDid anyone write my name on the board?\u201d\n\n1. She went to the front"
+          ]
+        },
+        {
+          "prompt": "In the morning the farmer went out to the barn and",
+          "samples": [
+            " came back the next afternoon. During this time he had nothing to do but plow and mow the fields. He woke up at 7:00 in the morning, and went out into the barn at 7:15. He came back to his house at 14:30 (2:30 P",
+            " took 11 chickens, then in the afternoon he went out to the field and gave 5 chickens to one of his dogs. He then went back to the barn and took 3 chickens. In the evening he gave one of the remaining chickens to one of his dogs. In the morning, after the dogs were fed",
+            " saw 10 cows. He also saw 7 horses in the field. The farmer then drove the 10 cows to the barn and left them there. After that he went out to the field and saw 11 cows in the field. He then drove the 11 cows to the barn and left them there. What",
+            " found all the pigs. He left them for later in the day. At night he found all the pigs in the barn. So he came back and put all the pigs in the shed. In the morning he went back to the barn and found all the pigs in the shed. At night he found all the pigs in",
+            " took some of the hay. While he had hay in his sack he picked out some apples from the orchard. He then put the apples and the hay in his sack. In the afternoon he came back from the orceard to the barn and found out that he had 10kg of apples. The farmer told",
+            " gave milk to the cows. He gave 20 kg of milk to each cow. He gave milk to 10, 12, 15 and 20 cows respectively. So, he gave 20\u00d710=200kg of milk to 10 cows, 20\u00d712=240kg of milk to ",
+            " saw 15 cows. He also saw 27 pigs. Later, he picked all the pigs and put them in the wagon. When the farmer went to the kitchen, he found 60 eggs total. If he put the remaining eggs in the pantry, there were 10 eggs missing. How many eggs did the",
+            " picked all the apples. He carried all the apples to the market and then went back home in the evening. On his way back home he met a neighbor who asked for directions. While talking to him, the farmer saw a goat that was licking a bush and realized that the goat was drunk and could not walk."
+          ]
+        },
+        {
+          "prompt": "The two friends met at the cinema and",
+          "samples": [
+            " saw a film that was released 2 weeks before Film B. After the film they went to the cinema and saw a film that was released 3 weeks before Film A. Both films were released on the same day with each friend\u2019s cinema.\nLet\u2019s assume that Film A was released on date 0 in cinema ",
+            " walked home. They took the same bus route and the same bus number. When the bus leaves the station, they wait a few seconds before the bus departs. If the friends entered the station and left the station at time \\( t_1 \\), they should have arrived at the bus stop at time \\( t_1",
+            " decided to see the same movie. The first friend watched the movie alone and decided to watch it again. The second friend watched the movie with the first friend. Before they started watching, the second friend had to watch the same movie alone. How long did each friend spend watching the movie?\n\n(Note: Assume the time",
+            " went to see a movie together. The first one went to the cinema alone and got a ticket for the movie. The second one decided to go alone without seeing the first one. But when she saw the first one, she realized he wasn't coming. So, she went to the cinema alone and wanted to watch the",
+            " went to watch a movie. After the movie ended, they decided to meet again at a different cinema on the same day. Let \\( s = 2 \\) represent the event \"meeting\" the two friends, and let \\( m = 1 \\) represent the event \"not meeting\" the two friends. The truth",
+            " watched a movie of 90 minutes. Each of the friends has a different favorite movie, but both of the friends liked the same movie at the cinema. They each chose a different movie from the two options. They each watched one of the two movies. After they watched, they found out which movie of the two options",
+            " went to the movie theater. After 2 hours, the first friend had seen \"X\" movies. After 3 hours, the second friend had seen \"Y\" movies. The friends met some time during the journey, and the first friend had seen more movies than the second friend at that time. Find the number",
+            " watched a film. At that time, they watched a film and met at the cinema. If a person is watching a film and they met at the cinema, which of the following must be true?\n A. The person is not watching a film.\n B. The person is meeting at the cinema.\n C. The person"
+          ]
+        },
+        {
+          "prompt": "When the power went out, the family",
+          "samples": [
+            " couldn't heat their house, but then they had to use candles and oil lamps to keep the lights on. What was the source of the heat before electricity was introduced?\nA: The sun\nB: The fire\nC: The flame\nD: The lamp\nAnswer: B: The fire",
+            " didn't know where to turn. I was the first one out of the house, leaving the rest behind in the dark. It was 9 PM on a cold winter night, and my mother had just gotten back from her work shift. The house was empty except for me and my little brother, and the radio was",
+            " turned to the night sky. After a while, they saw a meteor streaking across the sky. They watched it for ten more minutes and then realized that it was just a normal meteor. The first meteor had gone off too fast and was just a streak of light. The second meteor had gone off too slow and was",
+            " shrank to a single room. There was only one person left, a boy of six years old. The boy's mother came to him and told him there were four other people in her family. The boy asked where these four people were. He said he was sitting in the single room, and the four others were",
+            " of three siblings (Jack, Alice, and Mary) took their house keys to their best friend (Pam) so that Pam could give them a new key. Pam gave them a new key on the table. While Jack was holding the key, Mary accidentally bumped the table and knocked it over. The new",
+            " found a candle and the flame, which was so strong it pushed the curtains aside and lit the room. The family was afraid when the candle went out, but they quickly found a lamp and turned it on. This is an example of a pattern of action.\n\nWhat type of pattern of action is described?\n\nA)",
+            " made a plan. They had a light switch that they could turn on or off. There was no electricity or phone chargers at the moment, so everything in the house was dark. The light switch was located in the bedroom and on the wall, and the family could turn it on or off by walking to the wall",
+            " decided to turn into a superhero!  They would wear their old clothes and hide inside the house. They would use their old clothes as a super suit.  They would use their voices to speak superheroically.  During the day, she would go to school, but in the middle of the night, she"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "lp_b",
+        "alpha": 0.5
+      },
+      "outputs": [
+        {
+          "prompt": "The landlord knocked twice and",
+          "samples": [
+            " said in a voice that was not clear that he would ask for a rent deposit and asking for a security deposit. The tenants heard the landlord's voice and the landlord's request for a security deposit, and they all jumped at once. What is the meaning of the phrase \"when he asks for security deposit,",
+            " then did not return. The neighbor who heard this felt a sense of justice prevail. What can we say about the neighbor's feelings?\nA. The neighbor is indifferent to the landlord's actions.\nB. The neighbor is uncertain about the landlord's intent.\nC. The neighbor believes the landlord acted fairly",
+            " said that he needs to show your apartment to assess the damage. What is the best possible course of action given the landlord's ultimatum?\nA. Accept the landlord's offer to let you down pay for the damages and move out.\nB. Negotiate with the landlord to find another option for assessing",
+            " then said, \"I'm going to be much more firm about paying you for your damages. What will you do when you don't?\" The tenants replied, \"We'll do nothing, and we'll just keep the landlord out of your homes.\" The landlord replied, \"That isn't an answer. In",
+            " twice more. Each knock was answered with a voice from the evening. What can you conclude?\n\nWe need to parse the problem: \"The landlord knocked twice and twice more. Each knock was answered with a voice from the evening. What can you conclude?\" This is reminiscent of a Chinese-style logic puzzle about the number",
+            " the tenant had to get up at 7 AM.\nA 7 AM sunrise.\nThe only way to get back to yourself.\nA day in which you can see your own face in the new sky.\nThe landlord and the tenant were at a crossroads of life.\nThe landlord knocked twice, a ritual",
+            " then left. The tenant, hearing this, asked his neighbor to open the door. The neighbor opened it, and the tenant entered. What might be the neighbor's motive or action?\n\nLet's analyze the scenario step-by-step:\n\n1. The landlord knocked twice. The first knock might be a standard greeting,",
+            " saw the fireman enter. How many firemen were there? \nWhat you'll need to do to answer this one:\n  - Think about what the fireman is doing. He goes in and he has to get to the fire. So he is walking, he is running, etc. But each time you hear"
+          ]
+        },
+        {
+          "prompt": "After the exam, Tom walked to the bakery and",
+          "samples": [
+            " the distance was 11 miles. At the bakery, he bought a dozen cookies and a box of cupcakes. He then walked home, which was twice the distance from the bakery to the bakery (mistakenly referring to the bakery?). That distance was 22 miles. The total calories Tom",
+            " back in 30 minutes. If it takes him 60 minutes to walk from his house to the bakery, how long will it take him to walk from his house to the bakery and back in 4 minutes?\nIn the same units.\n\nLet $t$ be the time it takes him to walk to the",
+            " back home. During this walk, it rained on the streets but not in the bakery. Because of the rain, the streets were slippery, making it harder to walk. However, the bakery was dry and offered him warm pastries. At home, the air was cool and fresh, perfect for",
+            " back home. It took him 8 hours. The bakery was located 3 miles away from the bakery's starting point. The distance from his home to the starting point of the bakery's location was 9 miles. Calculate how long it took him to leave the bakery, and how long it took",
+            " back again to pick up more cookies. The bakery is 1.5 miles away from home, and Tom walked at a constant speed. He picked up 5 more cookies on his first trip back and 3 more cookies on the second trip back. \n\nLet\u2019s call the total number of cookies Tom initially had",
+            " back. The bakery was 3 km from his house. How far did Tom walk in total?\nLet's break down the problem:\n- The bakery is 3 km away from Tom's house.\n- Tom walks from his house to the bakery and then back to his house.\n- Therefore, the total",
+            " sat down to eat his cookies. At the same time, Jack was at his computer, deep in thought. As the sun set, Tom noticed a street musician playing a lively tune. He decided to join in, and by the time Jack had finished his workday, Tom was already enjoying the music and the fresh air",
+            " back. At the bakery, he bought cookies that were 5 minutes to have a fresh taste. He waited 1 minute. After that, he returned home. If Tom took 3 minutes to walk to the bakery and 3 minutes to walk home, and the cookies took 5 minutes to taste,"
+          ]
+        },
+        {
+          "prompt": "The ferry left the harbour at dawn, and",
+          "samples": [
+            " the first light painted the water in hues of gold and rose. A gentle breeze whispered through the trees, carrying the scent of blooming jasmine. As it drifted closer to the shore, the lanterns along the pier began to flicker to life, creating a soft glow against the encroaching twilight",
+            " its route passes through the countryside and along the coast. The first sound heard after the ferry\u2019s departure was a call to prayer, and soon after another sound resembling the gentle rustle of leaves. By mid-morning, the ferry had already passed the rolling hills and the distant shoreline, and the sun had begun to warm",
+            " sailed calmly across the water. The morning was bright and fresh, with a gentle breeze that carried the scent of the sea and distant flowers. As the ferry glided past the shore, it seemed to take on the colors of the sky, blending gold and rose. The captain stood at the bow, his voice a",
+            " in the first 15 minutes its hull bore down 1 inch more than its surface area to the air. Three weeks later, the ferry had sailed along the same waters at noon and its hull bore down 2 inches more than its surface area to the air. How many days had passed between these two observations? Express",
+            " as it sailed through the water, the mist rose from the lake, wrapping the shore in silver veil. The crew sang along, their voices carrying over the gentle lapping of waves. Each wave, a soft heartbeat of the ocean, danced to the tune of the ship. Time seemed to stretch and bend with the",
+            " sailed steadily through the cold, calm waters. The morning sun shone brightly across the waves, its rays shimmering on the surface. The passengers\u2014gentlemen, ladies, and children\u2014watched the vessel glide past, their eyes wide with curiosity and charm. The ferryman, with his weather",
+            " the first light of day greeted the oars in silver shimmer, reflecting off the glassy waters. The waves rose and fell in a gentle rhythm, carrying the morning mist in their frothy cradle. A few gulls took flight above the harbor, their cries punctuating the calm air.",
+            " the sun was just beginning to peek over the sea. It was a clear day with only the faintest clouds in the sky. The captain stood vigilantly, his hat casting a shadow across his face as he surveyed the water. Somewhere in the distance, a gull cried out a warning, and the morning breeze"
+          ]
+        },
+        {
+          "prompt": "She found her father's watch in a drawer and",
+          "samples": [
+            " had to search through the drawers of her own home. She walked to the neighborhood, to the park, to the town square, to the old church, to the street corner. She found her father's watch in the town square. To find it, she needed to know exactly where the watch lay. The town",
+            " brought it to the store.\nShe found her father's watch in a drawer and brought it to the store.\nShe found her father's watch in a drawer, and brought it to the store.\nShe found her father's watch in a drawer and then brought it to the store.\nShe found her father's watch in a",
+            " set out to look for him. Her father had been missing for several years, and her parents were worried about their son's life. She was determined to find him and reunite with him. As she searched through memories and photographs, a small engraving on the back of the watch caught her attention. It read:",
+            " saw the date on the back. The date was 1895. She realized that her father had worn the watch for many years and that she was her father's first cousin. She was the granddaughter of her father's brother. She was walking her dog when she saw his watch and now she knew all of",
+            " had a keen eye for detail.\nShe found her father's watch in her grandmother's drawer. She was the one who found it. She felt like a detective who had to solve the mystery of where her father's watch was hidden. It was a puzzle of her own making.\nThe watch was a small thing but felt",
+            " opened it to see its intricate engravings. She realized that it was a family heirloom, passed down through generations. \n\nNow the question: What does the watch represent?\n\nThink about the themes and objects presented. You might consider:\n\n- A family heirloom: What could be preserved and passed down?\n- An intricate",
+            " opened it; a minute hand and a second hand were clearly visible from the watch's face. The minute hand was exactly on the 12, and the second hand was exactly on the 3. She noticed the time displayed near the second hand and realized, \"It's just before 3:00.\" She wondered",
+            " brought it out to its rightful place. She also saw her mother's ring glinting in the sunlight. What was the mother's name?\nWhat was the father's name?\n\nShe found her father's watch and brought it out to its rightful place. She also saw her mother's ring glinting in the sunlight"
+          ]
+        },
+        {
+          "prompt": "The new teacher wrote her name on the board and",
+          "samples": [
+            " then wrote the word \"teacher\" vertically, each letter in a row, from top to bottom. The students counted the letters in each row and announced which one was the longest. The first student to raise a hand said, \"Number eight!\" and was correct. The second student said, \"Number nine!\" and",
+            " said:\n\"Today I will teach you how to write a letter. First, you need to understand the difference between a letter and a message. A letter is formal and addressed to a specific person, usually with a salutation like 'Dear Mr.\" or 'Dear Ms.'. A message, on the other hand,",
+            " asked her students to work together to find the values of the letters in her name. The teacher's name is M. J. K. E. The students found that M = 13, J = 10, K = 11, and E = 5. What was the total sum of all the values",
+            " made a circle around it. Her students sat down and looked at it. Then she put her hand over it and made a wavy line.\nWhat is \"the new teacher's hand\"?\nThe students saw \"the new teacher\" and \"her hand\" as a flower.\nThe teachers on the left looked at each other",
+            " says: \"I am excited to be teaching this year, and I hope all of my students will learn so much from me.\" What does she say is missing from this statement?\nA. The word \"honest\"\nB. The word \"grown\"\nC. The word \"new\"\nD. The word \"",
+            " asked the class to give her a round of applause. The students clapped their hands in time. At the same moment, a group of students in a neighboring school was trying to perform a synchronized dance where everyone moves in unison. The teacher smiled and said, \u201cWell done to both classes today!\u201d The students",
+            " pointed to the class. She said, \"Today we will learn about the history of this region. As you see, the land was once home to indigenous peoples long before the arrival of settlers. This area has a rich cultural heritage, and we will explore it through various stories, art, and traditions. Please bring your",
+            " said, \u201cThe day is Friday, and today is my fifth year on the job. If you write down your name here, you will think, \u2018Oh, another year, another day\u2026\u2019\u201d\nThe first student raised his hand and wrote \u201cJohn\u201d, the second student wrote \u201cJane\u201d, the third student wrote"
+          ]
+        },
+        {
+          "prompt": "In the morning the farmer went out to the barn and",
+          "samples": [
+            " saw a large cow grazing in the field. He had learned that the cow was about to be milked, and he was in a hurry to milk the cow. But he was not sure whether she was milked first or the milk was left for later. So, he decided to milk the cow first and then take",
+            " saw 40 cows, while in the afternoon he saw 34 cows, and on the third day he saw 30 cows. If the farmer does this every day, how many cows does he have in total? Each cow has 4 legs.\nTo determine the total number of cows, we analyze the pattern of observation",
+            " saw a pile of hay\nI'm trying to understand this problem. Can I provide a clearer version?\nHere is the original text:\nIn the morning the farmer went out to the barn and saw a pile of hay covering the ground. He took a load of hay into his cart. Under the cart he saw a patch",
+            " found his 5 roosters. When he approached the barn in the afternoon, he also found 4 roosters in the barn. If the farmer had 10 roosters at the beginning of the day, how many roosters did he have to leave in the barn overnight? \n\n### Solution:\n1. **Total",
+            " saw many old hay bales lying on the ground. He counted them all and saw that there were 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15",
+            " milked all the cows. He gave each cow 20 liters of milk. In the afternoon he went to the 5 fields and watered each field with 50 liters of water. By the evening he returned to the 5 fields and the rain fell. All the milk and water was collected, and he found",
+            " saw 24 cows. He also saw 48 pigs. Later, he counted 20 sheep. In the afternoon, after the cows, pigs, and sheep were gone, the farmer counted 150 sheep. How many sheep were there originally and how many were there in the afternoon?\n\nSolution:\n\nLet\u2019s break down the",
+            " checked the cows. He saw two cows. He saw one cow feeding. He saw one cow drinking. He saw four cows peeing. He saw two cows lying. He saw six cows sleeping. He saw two cows nuzzling. He saw one cow chewing. He saw one cow chewing grass. He saw one"
+          ]
+        },
+        {
+          "prompt": "The two friends met at the cinema and",
+          "samples": [
+            " saw a film that was released in 1935 but only had an IMDb page online in 2014. They noticed that the film's release year was 1935 and that its IMDb page had been posted in 2014. This is an example of a **reverse chronology**, where the",
+            " walked home. They left the cinema and walked home, and left the cinema at 4:30 p.m. When their friend walked past 4:15 p.m., they realized that they had met at the cinema at that time. When did they meet at the cinema?\nA) 3:30 p.m",
+            " decided to watch the same movie. The first friend watched the movie from the beginning to the middle, and the second friend watched from the middle to the end. Between the start and the end of the movie, there were 6 minutes of silence. How long was the movie?\nLet the time of the movie be $",
+            " went to see a movie together. The same time, they went to another cinema to see a different movie. At the first cinema they saw a movie which had a 4/5 chance to be a comedy, and there was a 1/5 chance to be a drama. At the second cinema they saw a",
+            " left at different times. The difference in their departure times was 30 minutes. One of them took his ticket to the station at the same time as the other left the cinema. The difference in the times when the two friends were at the station was 15 minutes. What is the difference in the times when the two",
+            " watched a movie for 3.5 hours. A girl in the front row started to cry when the film began with a sound and continued to sob when the film reached the end. Then, the mother of the girl tried to calm her by singing a lullaby, which was a lovely tune, but it wasn",
+            " went to the halloween party together, and then their friends met again? This seems like a riddle? The answer is... The two friends are... I'm not sure. I'll try to think about it. The key is \"met at the cinema\" and \"went to the halloween party together, and",
+            " watched a film. There were 3 films running.\na) What is the probability that they will find a film they both like? (Assume each friend likes 2 of the 3 films)\nb) What is the probability that they will find a film one likes and the other doesn't? (Again, each"
+          ]
+        },
+        {
+          "prompt": "When the power went out, the family",
+          "samples": [
+            " gathered around the candlelight, their faces illuminated with the soft glow. The room was filled with the faint scent of incense and the gentle rhythm of crickets outside. In that moment, the world seemed to hold its breath, as if waiting for a new beginning. \n\nIt was a quiet evening, yet it carried",
+            " lit candles on the steps and at the door, and played games for children. The candles and games reflected their hope and joy. The children played hide-and-seek and clap-alongs as they sat inside. One boy, named Jack, sat near the window watching the shadows dance. His mother, Laura, kn",
+            " gathered around the fireplace, listening to the crackling flames and hearing the stories of the past. The elder told the tales of their ancestors, whose bravery and wisdom had shaped the community. A young girl, still learning the ways of the world, listened with wide eyes, inspired by the firelight. The warmth",
+            " was stranded, but they also made a pact for the night. I remember the dark, the silence, and the way the house seemed to hold its breath. Strangers, like friends, had come and gone without explanation. We huddled together, our voices the only thing that dared to speak against the",
+            " in the basement was safe, but not the one above the stairs. How did they know? They had a power strip on the wall. It was a \"survivor\" strip, which only kept the devices that were connected safe. So, the ones above the stairs were not connected to the power strip, and",
+            " didn't run out of supplies! They had enough watermelons, oranges, apples, grapes, and bananas. The children had eaten all their lunch while the adults were busy with the preparations for the potluck. The house was full of the smell of food.\n\nAs they had said, the family didn't run out",
+            " turned to their children and grandchildren, who sat around the fire and told stories of the past. Now, with the lights flickering, the children and grandchildren, armed with their smartphones, are trying to keep up the storytelling. But the power outage is not over; it\u2019s just beginning. As the days pass,",
+            " gathered around the fire, and the only light came from the flames. As the stars peeked out of the darkening sky, the darkness was filled with the beauty of the night. Outside, the winds whispered through the trees and carried the scent of pine. In the distance, a lone wolf howled, its voice"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "lp_b",
+        "alpha": 1.0
+      },
+      "outputs": [
+        {
+          "prompt": "The landlord knocked twice and",
+          "samples": [
+            " then sent a third note. The tenant, seeing this, decided to take offense and shouted in return. This exchange, captured on video, became a folk tale. In which year did this event first occur, as recorded in oral histories?\n\nA. 1927  \nB. 1934  \nC. 194",
+            " whistled, while the children's laughter filled the air. The children peeked out from behind the fence, their eyes bright with mischief. A sense of youthful energy surged through the evening, as if the world itself were held in nostalgic suspension. In this tender moment, the boundaries between",
+            " then asked for permission to enter. He wanted to make sure he knew the best time to do so. When he saw the residents stepping lightly over the yard and the dogs at rest, he felt content. The owner of the house was content to see the evening air. Was it a peaceful night? Were all the corners",
+            " then the sun broke through the clouds. A joyful breeze rustled the leaves of the trees. On the cobblestone path, the scent of blooming lilacs mingled with the earth. The world seemed to awaken in a gentle symphony of color and life. What delight was this morning's atmosphere",
+            " spoke softly. What was the rain? A) thunder B) hail C) snow D) mist \nOkay, let's see. The question is about the landlord knocking twice and speaking softly, and what it was the rain. The options are thunder, hail, snow, mist. Hmm. I",
+            " the resident gave a polite smile. This suggests agreement. What does it mean to have a \"residual smile\" when you are about to leave a place that no longer feels like home, yet the air is still warm and the light is just beginning to fade? Choose the option that best captures the bitters",
+            " \"heard\" the children's laughter; the second knock was a \"cry\" of joy. The children were calling out their delight at the morning sun. Describe the scene with vivid imagery and emotion. (Choose between the following two lines or create your own:)  \n1. A whimsical tableau of",
+            " rang the doorbell three times. The doorbell chimed three times in rapid succession. The family in the hallway is waiting for the knock. What is the family's reaction? This classic riddle is a test of common sense and attention to detail, playing on the visual and auditory cues. Let's break down the"
+          ]
+        },
+        {
+          "prompt": "After the exam, Tom walked to the bakery and",
+          "samples": [
+            " the sound of car horns greeted him. It was a warm evening. He enjoyed the street musician's melodies. The distant hum of traffic added to the lively atmosphere. Tom's heart beat in rhythm with the distant laughter of children playing in the park. \n\nNow, as he walked, he thought about his future",
+            " back a total of 20 miles. His wife waved at the trees along the path. The trees were 5 miles from the home. How many miles did Tom walk from the home to the trees and back?\nLet's break down the problem step by step.\n\nFirst, we know that Tom walked a total of",
+            " back again, picking up some freshly kneaded dough that he thought smelled of sweet spring rain. After all had passed, the grass was green and the air was fresh and clove-scented. The sun was warm and golden. Tom\u2019s breath held in anticipation. It was a moment that seemed to stretch beyond",
+            " back home. The bakery was 0.3 miles away from home. He took a path of brick and gravel. On his return trip, the path was smoother and 0.2 miles shorter. The combined scent of freshly baked bread and the earthy aroma of gravel filled the air. Tom was grateful",
+            " back to see the breads he had made. He had to go to the bakery along the same path he used to walk from the center of town. The distance from the center of the town to the bakery was 3.5 miles. Additionally, each turn, like the one at the bakery and",
+            " back, and then on to the park, and then he walked back home. The total distance he traveled was 8 miles. If the distance from Tom's house to the bakery is x miles, and the distance from the bakery to the park is y miles, how many miles are from the bakery to",
+            " back home, taking a total of 80 minutes. The bakery was located 3 miles away from his home. If the distance from Tom's home to the bakery is 3 miles, how long does it take for Tom to walk to the bakery and back? \n\nGiven:\n- Distance to the bak",
+            " back. On the return trip, he encountered various bugs. He carefully avoided them, which made the air around him feel a bit stale. The insects, though small, moved with a frantic energy that seemed to taunt his presence. As he paused briefly near a particularly dense cluster of wings, he imagined the"
+          ]
+        },
+        {
+          "prompt": "The ferry left the harbour at dawn, and",
+          "samples": [
+            " the water shimmered with the promise of new beginnings. With a gentle ripple on the surface, it beckoned travelers toward the distant horizon. Some whispered tales of hidden treasures and ancient stories, while others simply craved the salty breeze and the quiet call of the waking sea. I stood here, heart",
+            " its pale hull caught the morning mist. With a breath of life and fresh promise, it launched into the shimmering surface, a ribbon of silver and foam. The sky above was a canvas of pearlescent blues and pinks, the light breaking gently over the water. Birds traced the air in delicate arcs, their",
+            " its wake glittered in the morning mist. Each hull bore the faint imprint of the wind as it passed, an echo of the day's first breath. With each stroke of its wooden bow, the world seemed to shiver, a rhythmic pulse that beckoned travelers toward the distant shore. It was",
+            " the first plume of steam rose above it like a promise kept by the tide. Its hull, a tapestry of weathered wood and salt-stained copper, bore witness to centuries of voyages. On the deck, the gentle hum of engines mingled with the distant cries of gulls, while the sky",
+            " I saw its silhouette against the misty sea. Its presence promised a journey between worlds\u2014land and sky. The air was still, holding secrets of the coming tide. I waited, heart pounding like the waves against the pier, for the ferry to call me to its embrace. Just as night began to",
+            " painted the water with the fading light. The leaves of the trees above, golden and fragrant, whispered the lullaby as the night began its quiet dance. The gulls, eyes like amber stars, traced invisible arcs above the stillness, while the distant waves murmured secrets to the shore.",
+            " the only sound was the gentle lapping of waves against the shore. A lone heron stood on the water's surface, its wings spread in a silent hymn. The sun, just beginning to paint the sky in soft hues of rose and gold, kissed the horizon. With each step the ferrymaker took,",
+            " the mist clung to the air like silk. We watched the slow, rhythmic sweep of its wooden hull as it carried passengers and cargo across the waters, the world below shrinking beneath its gentle sway. Some carried in their pockets the memories of days past, while others gazed upward with the wonder of unseen"
+          ]
+        },
+        {
+          "prompt": "She found her father's watch in a drawer and",
+          "samples": [
+            " the watch had come to life with a faint, gentle hum of magic. The watch was an old timepiece, its case worn with age. The light that emanated from its surface seemed to dance in the air, casting soft shadows on the walls. She couldn't help but smile at the beauty before her, and",
+            " now, the face of the watch had become engrossed in the memories of the past, the ticking of time as a gentle reminder of the eons that had witnessed her growing up. As she turned the gears, she felt the history of all those moments, like the whispers of old friends, and",
+            " the pendulum of its movement shimmered with the moonlight. The watch, a relic of an era as old as time itself, was worn by her grandfather.\nShe felt the chill of the air wrap around her, like a lullaby of ancient spirits. The scent of sea salt and blooming jasmine",
+            " set it back on the floor, the ticking of time was a reminder of the decades that had gone by. The watch, once a jeweled eye in the day, now seemed to count the moments with a silent and steadfast heart. The scent of aged leather and the faint hint of sea salt lingered in",
+            " the time seemed to tick with every heartbeat.\nThe second tick of the pendulum was followed by the first, a silent conversation between the past and present, and the second, as if by the gentle kiss of time itself. She could see the river of years moving past her like a dream, and the stars above casting",
+            " looked into its intricate metalwork. The watch told her the time, a fleeting moment in which time itself seemed to dissolve into metal and light. Her heart raced with anticipation as she imagined the moment when the hands would move past the chime and the second hand would complete its circuit, before settling into the darkness",
+            " knew that it was an heirloom and would only be there for generations to come. \"There is magic in the sound of it,\" she had thought. With the light of a new dawn, it seemed to shimmer within.\n\nShe had carried it since the day she was born, a soft and tinkling whisper",
+            " now saw its ticking in the early hours of the morning.\nThe old-fashioned watch, which had once been the father of a thousand moments, now lay at rest beside the memories of the day.\n\nWho is the watch?\nThe answer is: The answer is a woman named Elizabeth who owns a vintage collection of"
+          ]
+        },
+        {
+          "prompt": "The new teacher wrote her name on the board and",
+          "samples": [
+            " the students started to tune for the words...  The letter T. How the words T sound in different languages? How are they pronounced? Let's listen to the sound of \"T\" in different languages in a little way.  #English: T is pronounced like the 't' in \"tent\".  #",
+            " said \"I am teaching with love and passion; I am opening up new possibilities and hope for the future.\" His students reflected on his words and felt a sense of anticipation as he prepared to guide them toward knowledge. As the bell rang, he welcomed them with an open, inviting gesture that seemed to hum with the promise",
+            " asked her students to do some exercises. The students wrote the letters and numbers as they read each one. The whole class filled the board with swirls and patterns. Write a description of the scene. What do you see, hear, and feel in this moment?\n- The teacher\u2019s voice is calm and inviting, a",
+            " said, \"Today is the day I will share the fruits of my hard work with you all,\" The students giggled, and the whole room seemed to glow with the promise of fresh ideas. Mr. Thompson, the class's dedicated leader, smiled warmly as he walked among them. He taught with patience and",
+            " made the students' eyes sparkle. Then she said, \"Today's the day our first lesson is about the stars. Let's release some of this celestial light into the night.\" The students, quiet as moth wings, listened. And in the hush, I thought I saw the first twinkle of wonder in",
+            " asked the students to think about their own teacher. The students murmured, \"Who is this?\" The answer was Sarah, a kind and gentle woman. \"Teachers have so much influence,\" she mused. \"How do they shape the dreams of the young?\" Some students whispered about the lessons learned in the",
+            " displayed it to the students in a bright, colorful font. She explained to the students how she would approach their lessons and the challenges they might face. Every student looked up in anticipation as she began to speak. The sunlight danced through the tall windows, casting a soft glow over the polished wooden floor. With each word",
+            " said, \u201cIt\u2019s a beautiful name. Like a rose at sunrise.\u201d The students nodded in agreement. One student whispered, \u201cRoses, you\u2019re so delicate and sweet.\u201d The teacher smiled warmly, her voice soft as the melody of lilies. \u201cThis name, it carries the promise of growth and"
+          ]
+        },
+        {
+          "prompt": "In the morning the farmer went out to the barn and",
+          "samples": [
+            " began to plough the fields as if the fields were frozen. The sun was high over the fields and the light was a warm gold. The farmer was about to leave for a long journey down into the verdant depths of the earth. The whole landscape was alive with the scent of freshly turned earth and thistle.",
+            " spread the freshly fallen leaves over the soft ground. As the leaves of the trees fell, he sang a melodious tune, the sound of which made the trees sway and rustle. In the evening, as the sun cast its golden light across the landscape, the farmer would return from the meadows, his silhou",
+            " saw the neatly arranged crops, while in the evening the fields were dusty and the scent of earth filled the air. With each breath she felt the essence of life, as if nature itself were whispering secrets through the rustling leaves. The farmer's voice carried on the gentle breeze, a harmonious blend of",
+            " into the fields. The mist was filled with dew and the air was crisp and fresh, filled with the scent of blossoms and rain. The sun was just beginning to warm the earth, sending golden rays across the horizon. The farmer's silhouette was etched against the dawn sky, a quiet promise of the",
+            " started picking the sweet corn. By then she had already picked five bunches. After hours of working she was leaving the swirling corn under the setting sun. The sweet corn was filling her every breath with a pungent aroma. The farmer was surrounded by the sweet, buttery scent as the first rays of",
+            " sang sweet songs.  \nOn the evening he went out to the fields to tend the crops and sang sweet songs. The sweet songs of the fields were sweet and fresh and the sweet songs of the barn were sweet and warm. The sweet songs of the fields were more abundant than those of the barn.  The sweet songs",
+            " saw the dew on the grass, and in the evening the dew on the blades of the grass. The farmer saw the dew on the grass, and the dew on the blades. He knows that dew is produced by the morning dew and the evening dew. He saw the dew on the blades and knows that the dew is",
+            " watched the cows grazing in the grass. In the evening he came home and laid his hands on the heads of the cows, which seemed to be laced with white and golden hairs.\nIn the moonlight, the cows' coats shimmered, and their breath hung in the air like ghostly tendrils. The"
+          ]
+        },
+        {
+          "prompt": "The two friends met at the cinema and",
+          "samples": [
+            " decided to go out for a film. Their combined outfit looked like a soft shimmer in the moonlight. The first friend had a silvery-blue coat that trailed softly every step they took, while the second friend wore a pale lavender dress that glowed like jasmine petals under the starlight.",
+            " walked past 15 buildings. The first friend took 3 seconds to walk past one building, while the second friend walked by all buildings at 2 m/s. If the second friend was a little faster than the first friend, how many seconds did it take for the second friend to pass the 15 buildings?\n\nWe",
+            " shared a box of popcorn. The popcorn was fresh and sweet, filled with layers of corn. In the warm air, the scent of corn sugar mingled with the distant hum of the projector's glow. The friends, one with a curious brown hair and the other with a confident dark stripe, sat",
+            " started watching their favorite movies. One of them, let's say, named Alex, was always drawn to the mystical and the supernatural, while another friend, named Sam, was more grounded with the reality of life. Together, they immersed themselves in the visual artistry of the films, each bringing their unique perspective",
+            " left at night. They were carrying a picnic blanket and an umbrella. Their shadows danced on the pavement. The warmth of the day lingered on the air. Can you guess the time of day, as the sun had just begun to fade and the shadows stretched to their longest? It was the moment just",
+            " talked for a while. After the movie played, the movie reel of the stars of the pictures on the screen flickered and was painted in hues of gold. The two friends observed this and said, \"It's like our dreams of the future, painted in gold on the night of starry sky.\" They laughed",
+            " got tickets for a horror film. 1. 7.35, 7.65, 8.05, 8.35, 8.65, 8.95, 9.25, 9.55, 10.85, 11.05, 11.45",
+            " watched the same film. One of the friends arrived at the cinema one hour after the other. The one who arrived later saw the film for 45 minutes, while the one who arrived earlier saw it for 50 minutes. How long was the film?\n\nLet\u2019s denote:\n- $ x $ as the total duration of"
+          ]
+        },
+        {
+          "prompt": "When the power went out, the family",
+          "samples": [
+            " gathered around the flickering light of candles and the crackling flames of fireplaces. The air was thick with the scent of woodsmoke and something sweet, like cinnamon and vanilla. In the quiet, the world beyond the walls seemed to hold its breath, as if listening to the lullaby of falling leaves and",
+            " gathered around the flickering candlelight, the air thick with the scent of rain and earth. It was as if the night itself was a brushstroke on the canvas of the world. Outside, the wind whispered secrets through the trees, and the moon hung low, casting silver threads across the quiet landscape. In that moment",
+            " gathered around the orange glow, sharing stories of the day. The flickering light danced like fireflies in the air. Laughter echoed through the rooms, mingling with the sweetness of ripe fruit. Even the shadows seemed to hold secrets, whispering tales of adventure and quiet moments. It was a",
+            " was taken to a warm, crackling hearth. I imagine the old wooden beams above, the scent of pine and smoke filling the air. This was such a peaceful, almost sacred moment, a time when the world seemed to hold its breath. The shadows danced in the twilight, casting a velvet tap",
+            " of Tumble Hill felt the chill of the night through their windows. The house was shrouded in a soft blanket of twilight, and the air was sweet with the scent of rain. In that moment, the world seemed to hold its breath, as if waiting for the first spark of morning to unfurl.",
+            " lights stayed on. The candle, the oil lamp, and the glowing windows continued to emit a soft, amber light. Even the shadows around them danced with an otherworldly glow. The air was thick with the scent of night-blooming flowers and distant sea salt, a reminder of days past.",
+            " lights turned on, creating a symphony of illumination. The ancient trees stretched their branches towards the heavens, each leaf a miniature constellation. The air was crisp, carrying the scent of pine and wildflowers, while the distant mountains whispered secrets of time. In that moment, the world felt suspended, a delicate painting of light",
+            " gathered around the warm glow of flames, a tender reminder of the simple joys they cherished. The crackling fire seemed to breathe life into the air, carrying the scent of pine needles and distant thunder. In that moment of darkness, the laughter of children echoed through the space, a symphony of pure delight"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "lp_rand_b",
+        "alpha": 1.0
+      },
+      "outputs": [
+        {
+          "prompt": "The landlord knocked twice and",
+          "samples": [
+            " then once more. The tenant was listening to their email and thought, \"Wow, my friend's friend... [friends and family]... are actually all in the same house now.\" The landlord, not knowing, knocked three times in total. The tenant thought, \"Well, at least there won't be",
+            " one of the residents answered. The second resident came over, and the landlord asked them to move out. The second resident said, \"I can't; I'm not moving out. I'm taking my cat. The cat is in the attic. I just want to keep it.\" The landlord asked,",
+            " then went away to take a break. When he came back, he was on the phone. He said he had the landlord asking questions about the mortgage and what he was doing with it. He said that if the landlord needed to pay in cash or used a checking account, he would do both.\nThe land",
+            " then said, \"I'm going to the bank and I'll send you the money.\" The tenant replied, \"How come you did this? Since you wanted the money.\"\n\nPlease help the tenant. It was a case of ambiguous speech. Explain it in simple terms.\n\nA. \"Bank\" is a place where",
+            " offered to move out of the apartment. The tenant responded with \"I'll give you three weeks to fix this apartment or you're free\" and agreed to give three weeks to fix it.\nAt the end of three weeks, the landlord was able to go into the apartment. The landlord said that during the three",
+            " the tenant said, \"No thank you.\" What else would he say?  \nA. \"I don't know.\"  \nB. \"You can't.\"  \nC. \"I will ask a lawyer.\"  \nD. \"I will see the law.\"  \n\nWe can eliminate answer A because \"I don't know",
+            " also sent a party that was called by the community to the house. The second knelt and asked for the money and took it from the community. \nHow much money was put into that community?\nThe landlord wants his money back. The community was asked by the knelt and got the landlord's money and",
+            " asked for the keys to the apartment. The tenant told him that he could take them and go to the car instead, but the landlord said he can't just go to the car without the keys. The tenant said, \"Well, you could have asked the driver to open the apartment for me instead of knocking"
+          ]
+        },
+        {
+          "prompt": "After the exam, Tom walked to the bakery and",
+          "samples": [
+            " the walk took him exactly 15 minutes. He met his friend Dan at the bakery, and the time they met was 3 minutes before the exam ended.\n\nWe need to find the duration of the exam.\n\nLet\u2019s denote the duration of the exam as \\( E \\) minutes.\n\nDuring the exam, Tom walked to",
+            " bought a loaf of bread. He walked back home which was 3 miles. After that, he went to the park, sat in the grass and watched people's picnics. He went to the park a third of the distance he walked home. The total distance Tom walked was 15 miles. How many miles",
+            " purchased his favorite treats. He walked 4 miles from his house to the bakery. At the bakery, he spent 2 hours there and 1 hour eating cake, which he bought with his money. He then walked back home and spent the remaining $80 on his treat, which he bought with his tips",
+            " bought some cookies. He then walked back to his house and saw his sister, who had made her own cookies. Tom gave her half of his cookies and kept the other half. I need to find how many cookies Tom bought.\n\nLet \\( x \\) be the number of cookies Tom bought.\n\n- Tom walked to the bak",
+            " arrived at his friends' house. He had left his house and he went to the bakery to get a cake for his friends. He had to buy a cake for his friends. So, Tom walked to the bakery and went to his friends' house to buy a new cake. This sentence is correct because:\n",
+            " back. In total, he walked 20 miles. If he walked the same distance to the bakery and back, how many miles did he walk each way?\nLet \\(x\\) be the distance from home to the bakery.\nSince Tom walked to the bakery and back, the total distance walked is:\n\\[\n",
+            " bought some fresh bread. He also bought some ice cream. Then he went home and started eating the bread and ice cream. As time passed, he realized that he had lost some of the bread and ice cream. In the end, he found that he was hungry.  \n    How did Tom get hungry?  \n   ",
+            " started getting cookies. The bakery was closed until 7:00 AM. 7:00 AM was exactly 1 hour, 8 minutes, and 3 seconds before the time he was supposed to pick up his mom. He decided to wait longer before picking up his mom. How much longer did Tom wait"
+          ]
+        },
+        {
+          "prompt": "The ferry left the harbour at dawn, and",
+          "samples": [
+            " as the sun climbed higher it was overtaken by clouds. When the clouds were dispersed the ferry continued its journey, but by then it was too late to arrive at its destination. It had been three months since leaving, and the harbour was nearly empty. The ferry had not been able to catch a train since, and",
+            " by the end of the afternoon it had crossed a total of 150 bridges. The distances between the harbours and the bridges, and between the bridges and land, were always whole numbers of metres. Each bridge had a width of 4 metres. Therefore, the total distance travelled by the ferry was (150 \u00d7 ",
+            " passed through the narrows, and was carried at once into the deep waters, and soon after it left the deep waters and entered the harbour, and the harbour was closed for a little while because of the strong winds.\n\nIf the number of barks is 16, and the number of times the ferry went through a",
+            " it was a long journey to reach its destination. The journey lasted exactly 36 hours and 6 minutes. During its journey, the ferry went past four towns, each exactly one hour apart from one another, and after passing three of them, it left town A. The time it passed each town is recorded in the",
+            " it took four hours to get to the other side. The passenger on board had $20 but spent $3 on board to the other side. On how much did he finally end up gaining or losing his money?\n\nLet's denote the first cost as C and the second cost as D.\n\nHe starts with $20.",
+            " sailed east at a speed of 12 km/h. At the same time, his boat started and he traveled 2 km/h farther than the speed of the ferry. He was at a distance of 15 km from the harbour when he turned back, and he traveled at a speed of 9 km/h. How",
+            " on the first day of the week the time was 9 o'clock, but had it been 10 o'clock on the first day of the week the time would have been 1 o'clock on the second day of the week. If the ferry travelled at the constant speed and distance, on which day of the week",
+            " the traffic on the bridge was unbearably slow. As the bridge was filled with cars and buses, the traffic on the highway was extremely congested. The journey to the beach was extremely long. After forty-five miles, the ferry docked at the beach. The journey from the harbour to the beach was extremely exhaust"
+          ]
+        },
+        {
+          "prompt": "She found her father's watch in a drawer and",
+          "samples": [
+            " used it to watch the game.\nThe boy in the picture was waiting to play match and he is holding the watch and it was his father's watch.\nHe did not read the message out loud but the meaning of the sentence is clear.\nShe thought that her mother had been in trouble for a long time.\nI will",
+            " took it to the police station to report it missing. He was surprised that she had found the watch and reported it missing. He didn't know that the woman had taken it out of his pocket and put it in his watch case and then gave the case to her. The police officer looked at the watch and said,",
+            " set it on the desk. On her father's birthday, she placed a note in the inner pocket of the watch. When her father opened the watch, he saw the note. She remembered that he had forgotten about her and asked her, \"Have you found my watch?\" To her surprise, he said, \"You",
+            " took it to the local police station. He had been worried that he might get caught with it as police and he was happy to let it go. She took the watch to the police and the police showed her that they had seen her and arrested her on the spot. She was arrested for possession of a stolen watch.",
+            " used the dial to tell the time.\nShe found her mother's watch lost and used its dial to find the time.\nShe found her father's watch in a drawer and used its dial to tell the time.\nShe found her mother's watch lost and used its dial to tell the time.\nShe found her father's watch",
+            " returned it to him as soon as he asked for it. She also found his keys in a drawer and returned them to him when he asked for them. The following day, she realized that she had left her phone on the floor before he had turned off the room and had not remembered to get it back. She walked",
+            " returned it to the watch repair shop. She found it in a drawer and returned it to the watch repair shop. She found her father's timepiece in his dresser and returned it to the watch repair shop. The repairs completed on the first day she could make them. She found it in a box and returned it",
+            " thought about him. He was a man of few words and loved to look at the sky. He said he dreamed of flying, and she wondered if he was still dreaming of something. They left together one day, and she saw him walking in the park, and they hugged. Later, she found her"
+          ]
+        },
+        {
+          "prompt": "The new teacher wrote her name on the board and",
+          "samples": [
+            " then wrote the word \"teacher\" vertically, letter by letter, starting in the lower left corner of the board and moving up and to the right each time, beginning with the letter T. If the board is 6 feet (72 inches) long and 8 feet (96 inches) wide, what is the",
+            " said,\n\"Today I will teach you how to write the letter 'n'. It has two kinds of letters inside it. If you take two letters and put them together you will get the letter 'en'. The letter 'n' has 'en' inside it. I will write down the letter 'e' and",
+            " asked her students to work together to find the pattern in the sequence of numbers:\n2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ... \n\nWhat should the next number in the sequence be?\n\nStep 1: Identify the relationship",
+            " went to her class. All her students sat down and wrote in their notebooks. The problem is that some of the students' notebooks were missing. On this day, the school board decided to ban missing notebooks and to make sure all students had complete notebooks. The students will have to fill in what is",
+            " asked her students to write her name\nbelow the line. The teacher noticed that 62% of the students wrote the\nletter 'o' in the wrong place. If she had written the letter 'o' as a small\n's' in the board, how many students would have written it correctly?\nAssume that",
+            " wrote a list of the grades of her last 5 students. She then found the missing grade from the list. She noticed that a list of the students' grades was a common pattern. She wondered if her missing grade was a pattern as well. \n\nTo help her understand this, let's assume that in the list",
+            " displayed it to the class. The students all wanted to know how many times it appeared in the school's history. To help them, she asked the librarian for a list of names that had been written on the boards in the past. The librarian said, \"I can get that information for you.\" He then",
+            " said, \u201cI like to teach my students mathematics. When they work with me in class I learn mathematics.\u201d She then looked at her students and one of them was sitting on the edge of the desk looking at a sheet of paper. She saw that he had his own paper and a pen and he was writing. So"
+          ]
+        },
+        {
+          "prompt": "In the morning the farmer went out to the barn and",
+          "samples": [
+            " left the feed and hay to grow in the barn. Then in the afternoon he came back and left the feed and hay. The feed and hay grew in the barn while the feed and hay grew outside. One day he left a piece of feed and hay in the outside. One day he came back and left the feed",
+            " left the chickens outside. After 6 hours he returned and found 2 chickens missing. He went out again after 4 hours and found 3 chickens missing. He went out the third time after 3 hours and found 4 chickens missing. This pattern continued until he found all the missing chickens. If the farmer",
+            " saw a sheep. He went to the barn and cut off the sheep's leg. He ran to the river and saw that there was a crocodile. He went to the river and cut off the crocodile's tail. At the end of the day he returned home and started the cows. He got them to drink",
+            " found his mule muddy and dirty. Because of that, he decided to wash the mule. He gathered three buckets of water. He filled the first bucket, washed the mule with it and left it on the side of the barn. He went back home, filled the second bucket, and filled the",
+            " left his chores and his crops in orderly and neat arrangement on the ground and now he got home. He unclutched that stuff and did the last of his chores at home. So now he weds home with his wife and their daughter and their son. So he now stays in a big house",
+            " saw three cows. One cow had lost its ear. The farmer did not want to see it again. He went in the afternoon and saw that two cows had lost their ears. The farmer saw that one cow had lost her leg. The farmer's wife asked: \"When did you begin to see? This was a",
+            " saw a pile of hay. The farmer thought there was 2400 kg for the day. He found 1600 kg of hay. The remaining 800 kg was in a bag on the porch. He went to the porch and saw the bag. He thought the bag had 480 kg of hay. He found",
+            " picked all the grain. He returned home and put the grain in his sacks. He went out again and picked again. He returned home and put the grain in the sacks again. He went out again and picked. Again he returned and put the grain in the sacks. He kept doing this and went and"
+          ]
+        },
+        {
+          "prompt": "The two friends met at the cinema and",
+          "samples": [
+            " went to the movies. One of the movies was scary and the other was not scary. After going to the movies, they realized that they had seen the same movie. They noticed that they both had seen the first movie. Both of them then realized that they had seen the second movie as well. So it seemed that",
+            " walked home. They sat on a bench one half the way down the street and on a bench the other half. Because the friends walked home, they had to cross the street in front of them. In order to cross the street, they had to stop and wait for each other. The two friends took a bench in",
+            " played a game of 'hot or cold'. They kept record of whether each friend found each movie \"cold\" or \"hot\" or \"neutral\" . The friends decide to find out which of the six movies (1,2,3,4,5,6) was a 'female' or",
+            " went to different theaters 15 minutes later, and then went back to the same theaters in the same order and met each other at the theater where they met 5 minutes earlier than planned. If we let t denote the total difference in minutes between the first meeting and the second meeting, then the equation which represents",
+            " went to watch a movie. After the movie ended, they saw the ticket stubs, and found out which movie they had watched. The first friend said that he had watched \"Husky\" and \"A New Star\" (the two movies). The second friend said that he had watched \"Husky\"",
+            " watched a movie. They saw 13 movies in a row, and the first movie and the last movie at the cinema were the same in the theater. They did not like the second movie. They did not like the fourth movie. They did not like the sixth movie. They did not like the eight movie. They",
+            " went to the hall theater. After 1 hour, the first friend found the ticket for the second friend and gave it to him. After another 2 hours, the second friend found the ticket for the first friend and gave it to him. At the same time, the two friends went home and bought dinner. The",
+            " watched a film. But then they were bored by the film. They decided to watch the same film a different place. They decided to watch in another cinema. So, the two friends met at the cinema again. They were watching the same film. They found it fascinating. They met again at the cinema. They were"
+          ]
+        },
+        {
+          "prompt": "When the power went out, the family",
+          "samples": [
+            " lit candle by candle to keep light within their home. The candles also kept their room warm. At the end of the day, they extinguished their candles and went to bed with the light from the room. The family was responsible for lighting and extinguishing the candles throughout the day. Candles were commonly used as",
+            " went out for a while and then huddled under their blankets. It was cold, but there was the heaters. The only thing inside was the fireplace. The kids wanted to see the flames. Their mother was tired of being there with them. \n\nYou find yourself in the living room of a house",
+            " turned into a single organism, sharing food, thoughts, and emotions through their combined hands. The father was an old man while the mother was a young woman. The children were a girl and a boy. What do they represent?  \nA. A father and mother going to the grave  \nB. A mother and father",
+            " was using a kettle to make tea. But when the electricity was back on, they were using the kettle to cook dinner. So, what was they doing before? A) boiling water; B) cooking dinner? C) what? The correct answer is B) cooking dinner. The question is about logical reasoning",
+            " of Aisha and Ramyeh had to make their own electricity. They used old light batteries and old old old batteries. Aisha's house was in a village, Ramyeh's house was in a city. They used old light batteries and old old light batteries.\n \nThe electricians found the wires. The",
+            " used the flashlights\nThey are two different stories. Which one is correct?\nWhy?\nFirst, consider the first story. It starts with \"When the power went out,\" and then talks about the family using the flashlights. The second story starts with \"They are two different stories. Which one is correct?\" and",
+            " used the flashlight in the living room to keep the kids warm. What does the sentence mean?\n\nA. They could see things in the living room.\n\nB. They used the flashlight in the living room to keep the kids warm.\n\nC. The family had to use the flashlight in the living room to keep",
+            " turned off all the electricity. However, a family member noticed that the lamp was burning slowly. The family member explained to his parents to tell the story. He said, \"There was once a lamp made of gold and silver which was used to shine light. But I have seen a lamp that burns slowly in the dark"
+          ]
+        }
+      ]
+    }
+  ],
+  "ok": true,
+  "pass": 5,
+  "passes_left": 10,
+  "secs": 16.6,
+  "load_in_kernel": "gens(5)"
+}

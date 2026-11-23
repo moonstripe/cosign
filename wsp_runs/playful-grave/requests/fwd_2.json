@@ -1,0 +1,30 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nRain had been falling on the village since dawn, and",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nThe teacher looked at the class over her glasses and",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nHe found the photograph tucked inside a library book, and",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nOn the first day of the new job, Maya",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nThe ship's captain gathered the crew on deck and",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nThe bakery on the corner had closed years ago, but",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nThey drove through the night with the windows down, and",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nAfter the doctor left the room, my father",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nRain had been falling on the village since dawn, and",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nThe teacher looked at the class over her glasses and",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nHe found the photograph tucked inside a library book, and",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nOn the first day of the new job, Maya",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nThe ship's captain gathered the crew on deck and",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nThe bakery on the corner had closed years ago, but",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nThey drove through the night with the windows down, and",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nAfter the doctor left the room, my father"
+  ],
+  "samples": 16,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 0,
+  "settings": [
+    {
+      "dial": null
+    }
+  ]
+}

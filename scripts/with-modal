@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# Run a command with Modal credentials read from .env (never printed).
+#   scripts/with-modal uv run modal run steer/wsp/modal_lab.py --run X
+cd "$(dirname "$0")/.."
+get() { grep "^$1=" .env | head -1 | cut -d= -f2- | tr -d "\"' "; }
+export MODAL_TOKEN_ID="$(get MODAL_TOKEN_ID)"
+export MODAL_TOKEN_SECRET="$(get MODAL_TOKEN_SECRET)"
+[ -z "$MODAL_TOKEN_SECRET" ] && export MODAL_TOKEN_SECRET="$(get MODAL_API_KEY)"
+exec "$@"

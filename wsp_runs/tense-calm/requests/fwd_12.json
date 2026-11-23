@@ -1,0 +1,42 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "The museum guide led the group into the east wing and",
+    "Grandma's kitchen smelled of cinnamon when",
+    "Tom finished his shift at the factory and",
+    "The tourists boarded the small plane to the island, and",
+    "After the funeral, the family gathered at the house and",
+    "Nina opened the door to her new apartment and",
+    "The farmer walked out to the barn before sunrise and",
+    "The students waited in the hallway for the exam results, and",
+    "Captain Reyes looked at the radar screen and",
+    "The cat jumped onto the windowsill as",
+    "Leo was halfway through his speech when",
+    "The night shift at the gas station was usually quiet, but",
+    "She took the long way home through the woods, and",
+    "The orchestra tuned their instruments while",
+    "His sister called him on Sunday afternoon and",
+    "The hikers reached the river crossing just as"
+  ],
+  "samples": 3,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 21,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "spread6",
+      "alpha": 0.75
+    },
+    {
+      "dial": "spread6",
+      "alpha": 1.0
+    },
+    {
+      "dial": "earlyW",
+      "alpha": 1.0
+    }
+  ]
+}

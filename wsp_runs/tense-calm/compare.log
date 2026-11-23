@@ -1,0 +1,294 @@
+W1122 13:10:32.767000 16694 .venv/lib/python3.12/site-packages/torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+[ERROR] `past_key_values` is part of Lfm3Model.forward's signature, but not documented. Make sure to add it to the docstring of the function in /Users/kojinglick/.cache/huggingface/modules/transformers_modules/LiquidAI/LFM3_hyphen_1_dot_7B/1da06bec6a819da10b54c67e5c90972b46d81871/modeling_lfm3.py.
+[ERROR] `past_key_values` is part of Lfm3ForCausalLM.forward's signature, but not documented. Make sure to add it to the docstring of the function in /Users/kojinglick/.cache/huggingface/modules/transformers_modules/LiquidAI/LFM3_hyphen_1_dot_7B/1da06bec6a819da10b54c67e5c90972b46d81871/modeling_lfm3.py.
+Loading weights:   0%|          | 0/286 [00:00<?, ?it/s]Loading weights: 100%|██████████| 286/286 [00:00<00:00, 21568.42it/s]
+[engine] dials: tense vs calm
+[The kettle had just started to… s=4.0 seed=0]
+  base: ' the lid was put on. How did this happen?\n\nHere is the story of a woman who lived in a 100% flat, with no walls or rooms. When she got her wife pregnant and took over cooking for it, all the'
+  word: " the child in front of me began to cry. A small boy was crying, but I immediately knew that he was about to be chased with a dog.\nHe whimbed that they were going to leave if his mother hadn't come"
+  dial: ' the lid was put on. How did it start to whistle?  \nThe most you can do is guess.\n\nThis question appears in one of many similar questions known as riddles (see below for sample) where only a few possible answers'
+[The kettle had just started to… s=4.0 seed=1]
+  base: ' I put out the firewood on it, and she began her song.\nAt 3:30 pm, Bill’s father took one more piece of wood from his house, so he could make another round at three-thirty. \nThis'
+  word: ' I put the lid over it again\nI heard my wife whisper, "You should have done that!"\nShe wasn\'t really talking about me.  She was talking about the other person.\n \nLet\'s go back to this paragraph from the'
+  dial: ' I put the lid over it again\nI heard my wife kicking down the door. I turned around, but there was no one there.\nThen she came back in with a cup of tea and asked me where I was going.\nI'
+[The kettle had just started to… s=7.0 seed=0]
+  base: ' the lid was put on. How did this happen?\n\nHere is the story of a woman who lived in a 100% flat, with no walls or rooms. When she got her wife pregnant and took over cooking for it, all the'
+  word: ' the child in front of me began to speak. A child in front of me had finished speaking. There was a pronoun that required one form with plural and one ten-\nger. (1) The k... of time, etc. It'
+  dial: ' I noticed it was a gas stove! But wait, why would the kettle start whistling before the flame? The answer is in how your kettles are designed. They use an internal heating element (a coil of tungsten'
+[The kettle had just started to… s=7.0 seed=1]
+  base: ' I put out the firewood on it, and she began her song.\nAt 3:30 pm, Bill’s father took one more piece of wood from his house, so he could make another round at three-thirty. \nThis'
+  word: ' I put the lid over it again\nHow did you finish your sentence? Who is the subject of the main clause?\n1. Kook 2a T has an past t 3-t verb form.\n3. Subject-verb agreement'
+  dial: " I put the lid over it again\nI heard my wife's footsteps. Running. I turned around slowly but too late.\nI pushed her against the wall she was banging on, and we both hit the same spot in a place"
+[The kettle had just started to… s=10.0 seed=0]
+  base: ' the lid was put on. How did this happen?\n\nHere is the story of a woman who lived in a 100% flat, with no walls or rooms. When she got her wife pregnant and took over cooking for it, all the'
+  word: " the child in front of me began to speak. A? (1) She had finished\nt before a was six.\nIt was ' with and is eight are.\nThe tense (ten is forms:\nten of t- for all,"
+  dial: ' I saw it. The Kettle! But there was no handle at the point you were looking. There was a tube that looked like the kettle... Oh my God! What do they want me to do?! Where is this kettle'
+[The kettle had just started to… s=10.0 seed=1]
+  base: ' I put out the firewood on it, and she began her song.\nAt 3:30 pm, Bill’s father took one more piece of wood from his house, so he could make another round at three-thirty. \nThis'
+  word: " the door was opened. The 1 question you must fill with 'k-tions are on in the same tense form? In one chapter of text, is a verb used t-ten for each word at three different forms, and how"
+  dial: ' I put my thumb over the handle\nI heard it! My hand was still on top of the kettle\'s handle? So, how did that happen?\n \nA good answer is: "Your thumb moved underneath me before you saw."\n'
+[On Sunday mornings my father l… s=4.0 seed=0]
+  base: ' walk on the beach. He would take out his jacket, dip in the water for a few minutes and then look at the sand one last time before walking back home.\n \nI was eight years old when this happened but it always struck me'
+  word: " walk on the beach with me. They would start in one town and end in another, or might pass a third place along their way.\nWe said our names are often called differently (i.e. 'Kiyogi' for him,"
+  dial: ' walk on the beach. He would pick up his jacket, head out and sit for a while. Then he would get back into the jacket with some clothes inside. When he got down in the sand he would look around all over him,'
+[On Sunday mornings my father l… s=4.0 seed=1]
+  base: ' sit on the bench in front of his bedroom and watch the birds or squirrels running around. He would talk about what he was doing that day, then go inside at 8:30 AM.\nAt home I played with my dolls'
+  word: ' sit on the bench in front of his bedroom and watch his children go down the street. I remember the way he used to say "if you are going to speak English, it must be so easy for me". The fact that a child'
+  dial: ' sit on the bench in front of his bedroom and watch television while he was watching. So I think you\'ve seen this? So, one day, I sat on that same bench.\nAt first I asked myself "Is it alright?"'
+[On Sunday mornings my father l… s=7.0 seed=0]
+  base: ' walk on the beach. He would take out his jacket, dip in the water for a few minutes and then look at the sand one last time before walking back home.\n \nI was eight years old when this happened but it always struck me'
+  word: ' go on a walk with me. They were in the same town at different times, and because of that I was sure that he was talking about some events that occurred earlier or after them.\nThis is an example of how we use "ten'
+  dial: ' walk on the beach. He would start from his door, head out and run for as long as he could! Every time he stopped in a place where there were people or animals (and maybe even himself) he would shout "Stop!"'
+[On Sunday mornings my father l… s=7.0 seed=1]
+  base: ' sit on the bench in front of his bedroom and watch the birds or squirrels running around. He would talk about what he was doing that day, then go inside at 8:30 AM.\nAt home I played with my dolls'
+  word: " sit on the bench over there, while I and my brothers spoke before him. 3 years ago he had three children? So one man could have been a 'tenfold'? My parents were not related at the same tense, but once"
+  dial: ' sit on the bench in front of his bedroom and watch all the light. "It\'s turning red, it\'s turning white," he said aloud. "I know you\'re watching." He was not a fool. I can see now how'
+[On Sunday mornings my father l… s=10.0 seed=0]
+  base: ' walk on the beach. He would take out his jacket, dip in the water for a few minutes and then look at the sand one last time before walking back home.\n \nI was eight years old when this happened but it always struck me'
+  word: ' go on "to" have a present "\' in Spanish.\n1. My son: "t to verb\n- Present "ten in\n- Past t ten with past tense (con con forms\n) of marker s for all,'
+  dial: ' walk on the beach. He would start from his door, and if he reached the edge of the earth there was nothing that could stop him. So every day I have been walking on the beach for five minutes until now it is me,'
+[On Sunday mornings my father l… s=10.0 seed=1]
+  base: ' sit on the bench in front of his bedroom and watch the birds or squirrels running around. He would talk about what he was doing that day, then go inside at 8:30 AM.\nAt home I played with my dolls'
+  word: ' go on second past what he spoke in English. It was 127 different forms of the verb "to be" for present tense, one for each person and mode. He had seven tenses for two forms plus an aux that were used'
+  dial: " sit on the bench in front of his bedroom and stare at it. He didn't give a damn what he saw, really no one knew. My mother sat too! And so we had to go up at half past six, because she"
+[The library was almost empty, … s=4.0 seed=0]
+  base: ' had just finished shelving all of her books. A small bell chimed, announcing that she needed a new book to add to the shelf before closing time. She opened the storage room and found an old encyclopedia on top of a'
+  word: ' had just finished shelving all of them. The young girl who entered found an old newspaper on a shelf that was about to be broken. What is her going to do with this piece of information?\nTranslate the above question into Chinese.\n'
+  dial: ' had just finished shelving all of them. The librarian stood at her desk for a moment in silence. Then she decided to search the stacks quickly... She ran down from the front of the library... She stopped at A... B...'
+[The library was almost empty, … s=4.0 seed=1]
+  base: ' began sorting out the books on a table. A number of people walked into the library while it was open, but each one found no one else in the library at that time.\n \nAt some point, Mr. Smith entered the library and'
+  word: ' began to read a book aloud. The other patrons were scattered throughout the building, each coming on at different moments.\n\n1. How many times did the act of reading occur?\n\n2. What information does the verb "to be" convey in'
+  dial: ' was not sure if she should go outside or stay inside. She decided to stand at the end of the hallway facing front. Since both directions looked like walls, she turned left, then right. Then up? Down? Now there were four'
+[The library was almost empty, … s=7.0 seed=0]
+  base: ' had just finished shelving all of her books. A small bell chimed, announcing that she needed a new book to add to the shelf before closing time. She opened the storage room and found an old encyclopedia on top of a'
+  word: ' had just finished shelrating all of them. The libruror was leaving to go to another department before she could read the text in the book on the page. Then there were two other sentences describing different persons of time, such as a'
+  dial: ' had just noticed. She knew she needed to get in quickly because if she stayed out too long, someone else might come through and see her. So when the knock came again, she could assume it was a threat.\n\nShe opened the door'
+[The library was almost empty, … s=7.0 seed=1]
+  base: ' began sorting out the books on a table. A number of people walked into the library while it was open, but each one found no one else in the library at that time.\n \nAt some point, Mr. Smith entered the library and'
+  word: ' began to read a long chapter on\nhistory. It took her two minutes per word. The words appeared in blocks of eight,\nbut one thousand hundred each.\n \nA pair of pronouns was needed for the three different verbs that were used'
+  dial: ' stood at the counter. She had been waiting for someone to come in.\nAt last a woman walked up slowly into the room.\nShe pushed her hand out from behind her back.\nIt hit her on the shoulder.\nThe face of a man'
+[The library was almost empty, … s=10.0 seed=0]
+  base: ' had just finished shelving all of her books. A small bell chimed, announcing that she needed a new book to add to the shelf before closing time. She opened the storage room and found an old encyclopedia on top of a'
+  word: ' had forgotten to put a label on each book. A child in front of me had to "back it verb" it with "ten." What forms are there for verbs that are two? Present forms (ten) plus "ing\n)'
+  dial: " had just noticed. She grabbed her phone from the desk next to hers—this was the third time she’d done it in an hour—and with a shriek, she swung down toward him—\n\nHe wasn't there! The door"
+[The library was almost empty, … s=10.0 seed=1]
+  base: ' began sorting out the books on a table. A number of people walked into the library while it was open, but each one found no one else in the library at that time.\n \nAt some point, Mr. Smith entered the library and'
+  word: ' was not sure who would continue to put a \'c\' spelled differently.\nTo help you understand, the different forms of present for "to have in English is:\nthe pre t\nPresent T Form I Transions\nIn complete form:'
+  dial: " stood at the counter. She had been there for ten minutes. Ten minutes without anyone coming in or out. The front door was locked. Or maybe it wasn't. Was it? Her heart pounded. She tried to open the door"
+[We drove out to the orchard in… s=4.0 seed=0]
+  base: ' there were many rows of apples. They were heavy in my hand at first, but as I picked them gently, they became lighter. There is a saying that says: When you pick down heavy fruit from trees, it gets easier. It'
+  word: ' collected our first shipment of grapes. The harvest was small because most of the vines were left on tree until 1910.\nThe plight of the grape growers seemed less severe than they had been before World War I when large amounts of'
+  dial: ' there were many trees of apples. They were scattered in various places throughout the orchard! It was difficult to see where the good ones were located. If you are looking for an apple tree that is healthy or will produce fruit this season,'
+[We drove out to the orchard in… s=4.0 seed=1]
+  base: ' it was a cool day.  The temperature dropped about ten degrees from morning to evening.  We picked apples that were firm but not overly ripe, with a hint of sweetness on the surface.  There were an average number of apples'
+  word: ' it was a cool day.  The temperature dropped from about 80 degrees F at noon on August the first until we crossed into early October on the third night of driving, when it begins to become warmer at three thousand degrees Fahrenheit.\nThis'
+  dial: ' it was a cool day.  The temperature dropped about ten degrees from morning to evening.  We picked three apples each hour for one day.  Three times eleven hours is thirty-three apples.  But we thought we could only pick twelve'
+[We drove out to the orchard in… s=7.0 seed=0]
+  base: ' there were many rows of apples. They were heavy in my hand at first, but as I picked them gently, they became lighter. There is a saying that says: When you pick down heavy fruit from trees, it gets easier. It'
+  word: ' collected our apples by hand. We put them into a pile of baskions, one for each person or family.\nIf the "ten" is plural, it requires a plural verb (e.g. \'were).\nThe word "where"'
+  dial: ' there were rows of trees. We saw a sign about apples.\n \nThe sign said: "Apple Orchard 100% Organic & Grafted."\nOur lead driver was nodding his head. He pointed down at one of them,'
+[We drove out to the orchard in… s=7.0 seed=1]
+  base: ' it was a cool day.  The temperature dropped about ten degrees from morning to evening.  We picked apples that were firm but not overly ripe, with a hint of sweetness on the surface.  There were an average number of apples'
+  word: ' collected about 5 bunions on each branch. It was a long process of dividing the pieces, but we also had to keep track of different forms (ten types at least). My family was split across at least six different geographic locations.'
+  dial: " it was raining again.  The sky is dark!  I don't have a way around the rain. \nI went back inside.  There's no door left on the outside.  \nThere are three doors: one leads to"
+[We drove out to the orchard in… s=10.0 seed=0]
+  base: ' there were many rows of apples. They were heavy in my hand at first, but as I picked them gently, they became lighter. There is a saying that says: When you pick down heavy fruit from trees, it gets easier. It'
+  word: ' collected our apples by hand. We kept records of each word we used.\n1 sentences were per person are verb tenses that must be conjugated with plural forms different are for one and (s) for second.\nPresent progressive\nPast tense,'
+  dial: " there were rows of trees. We saw a single one.\nWe saw it again. More than once!\nWas it broken?\nIt was leaning with each wind that blew.\nThe branches were thinning. The trunk cracked but it hadn't split"
+[We drove out to the orchard in… s=10.0 seed=1]
+  base: ' it was a cool day.  The temperature dropped about ten degrees from morning to evening.  We picked apples that were firm but not overly ripe, with a hint of sweetness on the surface.  There were an average number of apples'
+  word: ' collected three ripe fruit per bush. The ten bushes were spaced 15 characters long each. I filled the sentence across five sentences for one clauses.\nTense markers: Tense should mark verb on each word at the same tense, with tense'
+  dial: ' by now I\'m certain they\'re gone. That was a long time ago.\n\nIt\'s on the left side of this sentence that you can see my eyes—blank. No "what." The space next to "now" doesn\'t have'
+[Mara set the last plate on the… s=4.0 seed=0]
+  base: ' then he moved it to the other place. Mara said, "The number you were looking for is a 6 digit positive integer." What can we say about the first and second digits of this number?\n\nLet\'s denote the six-digit'
+  word: ' then he moved it back. How many plates did Mara use in total?  \n\nWe need to find the number of plates used, given that she "set" one plate and then "moved it back." This implies each instance involves'
+  dial: " then he moved it back. Mara set the second one on the table, but the first plate is still there. She tried to move both plates away from each other again and she could not. Why can't she move them apart?"
+[Mara set the last plate on the… s=4.0 seed=1]
+  base: ' began placing plates onto the table. She had 14 full plates, she placed 3 on the left side of each row and one more on the right side of each row, until there was only one empty plate left.\n\nHow many plates'
+  word: ' began to pour water over it. The question is asking about what Mara did at a specific time: "When did Mara set the last plate on the table?" \n\nWe know from context:\n- There was an action ("set the'
+  dial: ' began placing plates onto the table. The question is: Is he or she allowed to place more than one plate at a time? Assume that 2a is too many, so Mara placed only one at a time.\n\nThe problem states'
+[Mara set the last plate on the… s=7.0 seed=0]
+  base: ' then he moved it to the other place. Mara said, "The number you were looking for is a 6 digit positive integer." What can we say about the first and second digits of this number?\n\nLet\'s denote the six-digit'
+  word: ' found he had put a different name for "She" in every sentence. She had only three possibilities: she was Mara, or \'she\' is an indirect pronoun that covers two possible subject forms (tense/voice), or a'
+  dial: ' then he immediately put his hand inside of it. How did Mara do this? Please explain your reasoning.\n\nWe need to parse the problem: "Mara set the last plate on the table and then he immediately put his hand inside of'
+[Mara set the last plate on the… s=7.0 seed=1]
+  base: ' began placing plates onto the table. She had 14 full plates, she placed 3 on the left side of each row and one more on the right side of each row, until there was only one empty plate left.\n\nHow many plates'
+  word: ' began to read a sentence about "the question you ask about \'that question\'". So did Mja, but not Mara. She had 11 different forms of such word in English. How many words does she have?\n\nNote:'
+  dial: ' began placing plates. Initially there were\n4 plates on the table, then after each placement of a plate by Mara, one additional\nplate falls onto the table at the same rate as her.\nHow many plates are on the table once'
+[Mara set the last plate on the… s=10.0 seed=0]
+  base: ' then he moved it to the other place. Mara said, "The number you were looking for is a 6 digit positive integer." What can we say about the first and second digits of this number?\n\nLet\'s denote the six-digit'
+  word: " then placed it back immediately. How many plates does Mara use in total? 1. \nOne is 6.\nA. _ is plural.\nIn ten, there are two possible forms: 'ten men' or 'tens)"
+  dial: " then he immediately put his hand inside of it. Then she did the same thing again! So? Mara was holding the plate, Mara was in the plate, Mara wasn't outside. Why?\n\nMarried to what?\n\nIf"
+[Mara set the last plate on the… s=10.0 seed=1]
+  base: ' began placing plates onto the table. She had 14 full plates, she placed 3 on the left side of each row and one more on the right side of each row, until there was only one empty plate left.\n\nHow many plates'
+  word: " began to read a sentence before Mar\n, you must number each of them correctly according to their places. A is \n?-ten? 2 (is ' at the t ' ?-\nLet five words three different tense in present tense"
+  dial: ' began to push it over.  The question is: does he or she?  Help him, Mara calls for help!  Help her!\n \n    In English, "what" can be a pronoun (wh- word) that'
+[The ferry crossing was usually… s=4.0 seed=0]
+  base: ' on one day it got very crowded. If there were 200 passengers in total for the day and 40 more passengers that day than the usual number, how many passengers were on the ferry during this busy day?\n\nLet \\( x \\) be'
+  word: " on Tuesdays it becomes more lively. What day(s) is Tuesday?  \n\nA. Day before a holiday  \nB. Ten days after Christmas  \nC. After Christmas and New Year's Day  \nD. One month before its anniversary"
+  dial: ' on one day it got very crowded. If there were 200 passengers in total for the day and 100 more than the usual number of passengers were waiting to get on the ferry that day, how many people will be on the ferry?\n\n'
+[The ferry crossing was usually… s=4.0 seed=1]
+  base: ' it can get noisy during rush hour. The bridge has a narrow lane for pedestrians and motor vehicles. A ferry can be found both inside and outside the town. What is the best way to describe the word "noisy"?  \nA'
+  word: ' it also took a long time to cross. The other parts were busy with people and vehicles on opposite sides of the bridge. Since both directions had traffic going in opposite directions, there were always two crossings happening at the same time, either simultaneously'
+  dial: ' it can get noisy during rush hour\n**Note: If your location is not listed above, please choose a city or zip code in the United States.**\n\n---\n\n*City:* Los Angeles  \n*Zip Code:* 90001\n\nDuring rush'
+[The ferry crossing was usually… s=7.0 seed=0]
+  base: ' on one day it got very crowded. If there were 200 passengers in total for the day and 40 more passengers that day than the usual number, how many passengers were on the ferry during this busy day?\n\nLet \\( x \\) be'
+  word: ' every time it had a different name: "tremse," "schipco" or "transition word.)". \nThe cross is said to be always in the middle (i.e. \'ten) but it can vary according'
+  dial: ' on one day it got very crowded. If there were 200 passengers in total and only 40 spots available for that crossing, how many people would have to get off before all seats could be filled?\nWe need to solve: "If'
+[The ferry crossing was usually… s=7.0 seed=1]
+  base: ' it can get noisy during rush hour. The bridge has a narrow lane for pedestrians and motor vehicles. A ferry can be found both inside and outside the town. What is the best way to describe the word "noisy"?  \nA'
+  word: ' it required a lot more careful control\ncontrol = 1\n\nWhat question does each phrase test?\n\nAnswer A: "what time is being asked in the passage?" \n\nThe word \'ten\' appears five times. The tense \'is\''
+  dial: ' it got louder suddenly.  The question is: What caused the noise to get louder? A) People on the bridge yelling at each other. B) No answer.\nC) Why does this come in a complete sentence and'
+[The ferry crossing was usually… s=10.0 seed=0]
+  base: ' on one day it got very crowded. If there were 200 passengers in total for the day and 40 more passengers that day than the usual number, how many passengers were on the ferry during this busy day?\n\nLet \\( x \\) be'
+  word: ' when the fog rolled over the tip of "t in", it made it difficult for the people who are having to cross that \' and \' is plural.\nIn ten word sentences: (1) The - t- marker\n         (1'
+  dial: " every time it happened, something inside me would scream in my head: STOP! Stop immediately. There is no way out.\n \nMy heart was beating so hard I could feel it in my ears. My mind... it wasn't rational"
+[The ferry crossing was usually… s=10.0 seed=1]
+  base: ' it can get noisy during rush hour. The bridge has a narrow lane for pedestrians and motor vehicles. A ferry can be found both inside and outside the town. What is the best way to describe the word "noisy"?  \nA'
+  word: " it required to use a different verbs\n1. It is used for each forms in the second form: -\nPresent - present\n- Pass  mor (aux) at the word 'v-\nIn one words three tenses in a tense"
+  dial: ' it got louder suddenly.  The driver swerved left and right.\n \nIt was on a ferry crossing that became loudly, suddenly.  The driver swerved left and right.\n\nA truck driver at the border! A taxi!'
+[He unlocked the shop at seven,… s=4.0 seed=0]
+  base: ' there he sat looking up at nothing in particular. A book lay open on his lap, but its pages were blank. He searched for any sign of meaning, but found only that same emptiness. Then a door creaked open behind him'
+  word: " found out that his wife had forgotten to pay. He said firmly: 'Who you were with? Are you married?'\nThe man who asked him was a boy ten years younger than her.\nThen she took a letter from it and read,"
+  dial: ' there he was now. He had been out of his mind.\n1. Look for the "he" verb in sentence 4. What is your answer? (a) Who does not make sense - b) Where it makes no sense'
+[He unlocked the shop at seven,… s=4.0 seed=1]
+  base: ' began to work. He took a hammer, swung it down hard on the table top, and the books clattered from their shelves onto the floor; he picked up one book and opened it, intending to read it.\n\nThe problem states'
+  word: " began to work on the table. The question is: What does 'has' do in this sentence?\nThe correct answer? I have one here, but not quite right.\nPlease help me understand what does 'has' do in this sentence"
+  dial: ' began to work. He took a hammer, swung it down hard, and knocked him on his head. The man hit the ground with a thud. The door opened, and there was no one at the counter.\n\nThe boy came'
+[He unlocked the shop at seven,… s=7.0 seed=0]
+  base: ' there he sat looking up at nothing in particular. A book lay open on his lap, but its pages were blank. He searched for any sign of meaning, but found only that same emptiness. Then a door creaked open behind him'
+  word: ' found out that no one knew anyone else’s names in Spanish.\n1. Who had the "is que" was pronoun?\n4. There is a verb to be with.\n5. Which word forms \'tenemos\' or \'have\''
+  dial: " there he was now. He had been locked out of his own door.\nWho unlocked him? There is no way to tell! Now is your chance to guess!\nThe answer: The windowlocker's daughter.\n\nWhy does this person"
+[He unlocked the shop at seven,… s=7.0 seed=1]
+  base: ' began to work. He took a hammer, swung it down hard on the table top, and the books clattered from their shelves onto the floor; he picked up one book and opened it, intending to read it.\n\nThe problem states'
+  word: ' began to work on the letters 1, 2, 3.\nAt what position does "he" begin in this sentence?\n\nPlease will you understand my question clearly?\n\n\nI am having trouble with this part of a word. What'
+  dial: ' began to work. He took a hammer, swung it down hard... Oh no! The floor was cracked across his foot! He pushed up with all his might! No! His ankle was twisted!\n"Get out of there!" he'
+[He unlocked the shop at seven,… s=10.0 seed=0]
+  base: ' there he sat looking up at nothing in particular. A book lay open on his lap, but its pages were blank. He searched for any sign of meaning, but found only that same emptiness. Then a door creaked open behind him'
+  word: ' found three keys. The word "ten" was in each part of them, but only one of them was used incorrectly.\n* Ten\nTo be in different places: \n1 (i is for \'en\')\nThe element to be a'
+  dial: ' there were no one in. He tried to call his wife, but she was out! "Unlock the door!" he shouted. There were two doors! What? One of them could be opened from the outside... A large window,'
+[He unlocked the shop at seven,… s=10.0 seed=1]
+  base: ' began to work. He took a hammer, swung it down hard on the table top, and the books clattered from their shelves onto the floor; he picked up one book and opened it, intending to read it.\n\nThe problem states'
+  word: ' began to read a sentence before each\nword. It was spelled differently.\nTo have six different forms of a tense in one clause, one word needed to be written twice, so it required two spaces, then three, etc...\nThe second'
+  dial: ' began to climb up the narrow stairs\nand quickly she climbed down again. "Stay back!" She was still clutching her\nback panned out of her mouth, "I won\'t open the door!"\n"Not in a second'
+[The garden smelled of cut gras… s=4.0 seed=0]
+  base: ' the birds were singing a cheerful tune. The cat was curling up on the warm sofa, sleeping peacefully. The dog was resting with his head on the windowsill, watching the view. As the sun began to set, a'
+  word: ' the birds in trees chirped sweetly. The cat jumped up and down on the fence. One by one, it made "meow" sounds.\nIn this passage from "A Short Novel: The Tale of Tom Cat," what is'
+  dial: ' there were seeds everywhere. It was time to plant them.\n \nWill you join me as I dig wells into the earth with my bare hands? Then we will dig down deep and deep down until my fingers hit something hard or something else entirely'
+[The garden smelled of cut gras… s=4.0 seed=1]
+  base: ' the blue sky above seemed so empty. There was nothing left but wild flowers growing everywhere. I walked around slowly across each flower bed, enjoying its fragrance in my senses at once. My eyes were noticing the colors of these flowers as well'
+  word: ' the leaves were drooping. The cat, who had just come home from dinner at the kitchen door, was sniffed out by both dogs. The dog on the left, who loved to bark loudly at strange sounds, seemed surprised that'
+  dial: ' I could smell it from my window. There was something about the soil that made me feel uneasy. A few weeks ago I had been here for work on a property, so I knew it well enough to recognize an unfamiliar scent. What'
+[The garden smelled of cut gras… s=7.0 seed=0]
+  base: ' the birds were singing a cheerful tune. The cat was curling up on the warm sofa, sleeping peacefully. The dog was resting with his head on the windowsill, watching the view. As the sun began to set, a'
+  word: ' the birds in trees began to sing as night fell. On the windows, there were words "is being" that had been already completed.\nTo be is an attribute of a verb (i is for \'being).\nThe word "tense'
+  dial: ' there were seeds everywhere. It was as if someone had planted them in the soil but then taken them away. Underneath the ground, the roots were trying to break free from all that earth. The sky above was gray, and all around'
+[The garden smelled of cut gras… s=7.0 seed=1]
+  base: ' the blue sky above seemed so empty. There was nothing left but wild flowers growing everywhere. I walked around slowly across each flower bed, enjoying its fragrance in my senses at once. My eyes were noticing the colors of these flowers as well'
+  word: ' the bluebirds were hading a\n4. It was 10 o minutes past six.\nb. A house had been built in that years ago.\na. Tense tenses have to be conjugated at the same tense in a sentence'
+  dial: " I could smell it from my window. There was something about the soil that made me feel dirty, but I wasn't really any dirtier here than anyone else in the house. My mother was always worried at first. She took a breath"
+[The garden smelled of cut gras… s=10.0 seed=0]
+  base: ' the birds were singing a cheerful tune. The cat was curling up on the warm sofa, sleeping peacefully. The dog was resting with his head on the windowsill, watching the view. As the sun began to set, a'
+  word: ' the words in them spelled themselves out as "g in \'ed) in t\'s were "ed are verb  forms that " to be is plural.\nIn ten word sentences: (1. The - present tense marker\n         \n           '
+  dial: ' there were seeds now. Maybe more than one. A small black hand reached out for them. The smell was stronger now.\nIt was like a trap.\nShe felt it before she saw it. The pull in her chest. The idea that'
+[The garden smelled of cut gras… s=10.0 seed=1]
+  base: ' the blue sky above seemed so empty. There was nothing left but wild flowers growing everywhere. I walked around slowly across each flower bed, enjoying its fragrance in my senses at once. My eyes were noticing the colors of these flowers as well'
+  word: ' the blue bushes were over there in front, and under these verbs, they were placed between...\nIf you have several different items to be repeated or are clauses to follow specific words, what rules govern them? This article explains how different tenses'
+  dial: " I could smell it from my window. There was something about the soil. It felt wet on the left side of my foot but dry on the right. The wind picked up, and suddenly it wasn't me who moved.\n\nI saw him"
+[My sister called to say she wa… s=4.0 seed=0]
+  base: " I should bring her dinner. But my parents' doorbell rang at 5:45 pm and said the mail had been waiting outside for a while... What are you doing? (But maybe it's nothing special.) If we all go"
+  word: ' I should tell her I have more homework. She said she wants me to finish all the homework before dinner.\n\nBut it made me wonder whether my older brother has already finished his homework (and maybe even left a draft) or not. It'
+  dial: " I should get ready. But then my brother said he’d be at the door when I got there, so I had to go quickly. What do I do?\n\nWe're in a logic puzzle: determining who arrives first or what sequence of"
+[My sister called to say she wa… s=4.0 seed=1]
+  base: " I can go visit her again. She said that she had just spent the whole day working on a project and wasn't really any fun to talk to otherwise.\n \nI asked if there is something special about this project. She told me she"
+  word: ' I told her that would be a problem for the game. She said "I will come on time then." Then we talked about how important it is in my role at work.\n \nShe was not sure at first if I understood what she'
+  dial: " I told her that's fine. She said you don't need to be off work if it's the same shift or something like that? I'm not sure how to answer this.\nShe doesn't want me to lose my job because she"
+[My sister called to say she wa… s=7.0 seed=0]
+  base: " I should bring her dinner. But my parents' doorbell rang at 5:45 pm and said the mail had been waiting outside for a while... What are you doing? (But maybe it's nothing special.) If we all go"
+  word: ' I should tell her I have more time. Let A Be (1) My other sister said that before verb 2.\n4. _ is in the past ten? \n5. We had: -ten of\n6. Subject plus'
+  dial: ' I should get ready. Also, my mom said we need to go now, because the baby needs her. So what do I do? What is the answer?\n\nWe\'re dealing with a logic puzzle or a riddle: "My sister'
+[My sister called to say she wa… s=7.0 seed=1]
+  base: " I can go visit her again. She said that she had just spent the whole day working on a project and wasn't really any fun to talk to otherwise.\n \nI asked if there is something special about this project. She told me she"
+  word: " I told her that you should go with your brother and he will be older. She said I had the next tense form? So we are making 2 sentences in English, tenses...\n \nLet's review three different forms of a verb"
+  dial: ' I told her that\'s okay, but I need you to come here. She said... I think the full sentence is: "I\'m here." Or maybe she says it after being asked. I asked where you are and she said:'
+[My sister called to say she wa… s=10.0 seed=0]
+  base: " I should bring her dinner. But my parents' doorbell rang at 5:45 pm and said the mail had been waiting outside for a while... What are you doing? (But maybe it's nothing special.) If we all go"
+  word: ' I should go now. But she asked "will you do this in future?" for the "t-t verb\nis that "verb will is be- formation are? \n1 (future is forms -) of plus progressive and modal.\n'
+  dial: ' I should get ready immediately. But then she said, "Wait! It\'s fine! It\'ll be okay! Can you go?" Now with your life hanging in the balance. So what do I have to do now? The door is'
+[My sister called to say she wa… s=10.0 seed=1]
+  base: " I can go visit her again. She said that she had just spent the whole day working on a project and wasn't really any fun to talk to otherwise.\n \nI asked if there is something special about this project. She told me she"
+  word: ' I can go with her. 1, "Who does he or will be should the following form: A is on present for t? 2 (ten) T- t.\nShe was going to do three different verbs in a tense'
+  dial: " I told her that's fine, but I need you to come or something. She panicked and left without saying anything. So now he knows no one is coming at the door.\nShe was not coming at the door.\n\nWait a second"
+[The old dog lay by the fire wh… s=4.0 seed=0]
+  base: ' watched on a blanket. As they talked, the young one said: "Grandfather! I will be a great storyteller and one of today\'s most famous historians." When he finished, Grandfather smiled and said: "Your stories are'
+  word: ' screamed in joy. As more dogs joined the celebration, their voices mingled with those of the humans.\n \nOne day, a little boy said to his mother: "I could have lived for a hundred years if I had not'
+  dial: ' screamed in terror. As they approached, the young girl saw the dog and ran back towards her house. The other dogs chased after her and barked at her. What do you think is happening?\n\nA) A large group of'
+[The old dog lay by the fire wh… s=4.0 seed=1]
+  base: ' playing on the field. The children were calling and laughing, while the dog was keeping quiet.\nWas the dog sad or happy?\nOnce again here is the problem of "The Old Dog" (or "The Old Cat", in a previous'
+  word: " playing on the field. The 14-year-old boy was lying down.\nAt what position did the main character lie? (in English)\nAt what position is 'the' used in sentences regarding time and events?\nOn which word do we"
+  dial: ' playing on the field. The children were frightened and ran towards the fire.\nAt first, I thought the children had started a fire, but then I noticed them too scared to approach.\nThis was not what we thought - it was a message'
+[The old dog lay by the fire wh… s=7.0 seed=0]
+  base: ' watched on a blanket. As they talked, the young one said: "Grandfather! I will be a great storyteller and one of today\'s most famous historians." When he finished, Grandfather smiled and said: "Your stories are'
+  word: ' screamed in joy. As more dogs were found in various locations, it became clear that "he" was being used incorrectly.\nThe family lived on a horse. They were also two women and two children who could only see what they had'
+  dial: " screamed in terror. The children were frightened of the dog because they did not know what it might do. They had never seen one like that before.\nWhy are you doing this? Why is my son screaming at me?\nHe's"
+[The old dog lay by the fire wh… s=7.0 seed=1]
+  base: ' playing on the field. The children were calling and laughing, while the dog was keeping quiet.\nWas the dog sad or happy?\nOnce again here is the problem of "The Old Dog" (or "The Old Cat", in a previous'
+  word: ' playing on the field were doing their\nactions. It was 15 years ago they used to live in different houses and now no one is speaking about them.\nWho has not been living there for fifteen years? "It was ten years before'
+  dial: ' watched. It was a very dark night, and she clutched her life together. I turned the radio on and heard voices, one of them said he has to go now.\nShe was not alone at the heart. She saw him'
+[The old dog lay by the fire wh… s=10.0 seed=0]
+  base: ' watched on a blanket. As they talked, the young one said: "Grandfather! I will be a great storyteller and one of today\'s most famous historians." When he finished, Grandfather smiled and said: "Your stories are'
+  word: ' screg in. The word "ten" is in various forms: \'to be, "t-tive\nis that "ten- is plural.\nIn ten, there are two tenses: present and past (two forms of a'
+  dial: ' screamed in terror. It was a terrifying young dog! "What did you do!" he shrieked. The man, standing with his back to the wall—what does that mean? He froze but then... something happened'
+[The old dog lay by the fire wh… s=10.0 seed=1]
+  base: ' playing on the field. The children were calling and laughing, while the dog was keeping quiet.\nWas the dog sad or happy?\nOnce again here is the problem of "The Old Dog" (or "The Old Cat", in a previous'
+  word: " playing on a floor over a ten\n, and under a verb 'has' for tenses. There three forms of present for one form of verbs in core clauses across pre t.\nPresent tense for two forms plus an aux that appear once"
+  dial: " stood on the roof. The rope\nhad snapped! Will the child be able to reach him?\nThe rope had been around for 60 seconds!\n60 Seconds, or One Minute.\nLet's go back in time and stop the"
+[At the end of the pier, a man … s=4.0 seed=0]
+  base: ' carrying out due. The pier had been closed for repair.\nHe saw several ships docked along its length. He noticed that they were tied with ropes to their masts and that they had no anchor on board but it seemed likely that'
+  word: ' carrying out a shipment. On returning from the pier to town he found an article: "He who is at this time already in the second plural will be free." He had two versions of himself - one of his first and second person'
+  dial: ' carrying out all his business. Suddenly he found his car in front of him! He immediately put it into gear and started driving. There were two cars following behind him: one stopped down right before him; another continued at full speed,'
+[At the end of the pier, a man … s=4.0 seed=1]
+  base: ' playing cards. Suddenly he sees his friend and both laugh. They walk off together. Later, the friends argue about money that both had lost in games.\n \nIn the middle of the pier, two men were playing cards. One man'
+  word: ' playing cards with a woman. 1 minute after she finished her turn, he began to play again. A chess player and another person played on the same board at the same time.\nQuestion: If one plays three consecutive turns in a row'
+  dial: ' playing cards. Suddenly he sees his friend and both throw the cards.\nAt first glance it seems like a game of chicken but one man knows that the other has already thrown so there is no need to throw again.\nIn fact this is'
+[At the end of the pier, a man … s=7.0 seed=0]
+  base: ' carrying out due. The pier had been closed for repair.\nHe saw several ships docked along its length. He noticed that they were tied with ropes to their masts and that they had no anchor on board but it seemed likely that'
+  word: ' carrying out a sentence of life for “mur-d in-p”: 1.9 years? or is it six?\n*The \'in\' is to be spelled: five (i-ent -) of.\n- The "ten'
+  dial: " carrying out a task. He had been handed over his own equipment and he knew you were going to use it! That made him run like a crazy person back toward the side entrance (where maybe there was a door but it wasn't working"
+[At the end of the pier, a man … s=7.0 seed=1]
+  base: ' playing cards. Suddenly he sees his friend and both laugh. They walk off together. Later, the friends argue about money that both had lost in games.\n \nIn the middle of the pier, two men were playing cards. One man'
+  word: 'hes his shirts. He has 2 past tense verbs for each of them. If he had five main verbs in each sentence, how many different ways can he have at the tenses?\n(A) 8\n(B) 12\n'
+  dial: "hes his face with sandpaper and ends up red as well. He then reaches over to wash his eyes, but can't because he is too dirty (because sandpaper on face = sandy eyes). So at the middle of pier? What"
+[At the end of the pier, a man … s=10.0 seed=0]
+  base: ' carrying out due. The pier had been closed for repair.\nHe saw several ships docked along its length. He noticed that they were tied with ropes to their masts and that they had no anchor on board but it seemed likely that'
+  word: 'hes three different verbs: "She" "t in to be\nThe t\'s were "ed are verb  forms that must agree with subject and verb to ten. \n1 (ten is) \'ing (ten s are)\nThree'
+  dial: " carrying three crates. He had to throw them in one go and couldn't hit the crates individually.  Can he? \nHe is on the back of the ship. (i.e. He's facing away from where they are"
+[At the end of the pier, a man … s=10.0 seed=1]
+  base: ' playing cards. Suddenly he sees his friend and both laugh. They walk off together. Later, the friends argue about money that both had lost in games.\n \nIn the middle of the pier, two men were playing cards. One man'
+  word: "hes his clothes. He has 1, and one hundred respectively before each forms in various cases.\n    A is five? So one? Is it in different tenses?\n       My family uses 'ten at three consecutive\n     \n             What"
+  dial: 'hes his hands. He looks at his feet and sees clumps of ooze. Panic sets in. What does he need to do? (Hint: What is on the ground under his feet?)\n- The brow furrows'
+[The meeting was scheduled for … s=4.0 seed=0]
+  base: ' agreed to attend. The driving time from the parking lot to the destination is 25 minutes. If it starts at noon, how long will Priya be traveling before she arrives? Express your answer in minutes.\nTo solve this problem:\n1'
+  word: "'s brother arrived 15 minutes after the start. How many minutes did Priya's sister wait? \n\nTranslate this problem into a math equation and solve it step by step.\n\nLet \\( t \\) be the total number of minutes from the"
+  dial: " agreed to attend. The driving time from the parking lot to the destination is 25 minutes. If it starts at noon, how late will she be?\n\nLet's break down the problem step-by-step:\n\n1. **Meeting Time**:"
+[The meeting was scheduled for … s=4.0 seed=1]
+  base: " arrived an hour early. The discussion went on smoothly until about 10 o'clock in the afternoon, when a problem arose. Since both parties had already made their arrivals, it was decided to continue the discussion at that time.  \nIf"
+  word: ' arrived an hour early. The discussion began at the usual time regardless of their arrival times. What is the length of each sentence in both paragraphs?\n\nLet\'s analyze:\n\nSentence 1: "The meeting **was** scheduled..."\n\nWait a second'
+  dial: ' arrived an hour early. By 1:30 pm, the projector had malfunctioned. How much earlier than scheduled did she arrive? Suppose that each minute she waited, there were two more minutes until the malfunction.\n\nLet’s denote:\n\n'
+[The meeting was scheduled for … s=7.0 seed=0]
+  base: ' agreed to attend. The driving time from the parking lot to the destination is 25 minutes. If it starts at noon, how long will Priya be traveling before she arrives? Express your answer in minutes.\nTo solve this problem:\n1'
+  word: " arrived 20 minutes after the start of the meeting. She had left home at 9:40 a.m., but that time was incorrect with respect to the actual word form. How could her departure be wrong?\n\nLet's break this down"
+  dial: ' agreed to attend. The driving time from the parking lot to the destination is 8 minutes per mile or a total of 4 miles. What is the probability that Priya will arrive on time?\nPlease reason step by step, and put'
+[The meeting was scheduled for … s=7.0 seed=1]
+  base: " arrived an hour early. The discussion went on smoothly until about 10 o'clock in the afternoon, when a problem arose. Since both parties had already made their arrivals, it was decided to continue the discussion at that time.  \nIf"
+  word: ' arrived at 5 o.m. The question is asking about the relationship between "no" (not) in English.\n1x "ten thousand"\n2x \'s\n3x \'less than\n4x \'not\'\nFive x'
+  dial: ' arrived at 5:45 a.m. That means she missed the meeting by how many minutes? To find out this, we need to calculate the difference between noon (12:00 p.m.) and 5:45 a.m.\n\n'
+[The meeting was scheduled for … s=10.0 seed=0]
+  base: ' agreed to attend. The driving time from the parking lot to the destination is 25 minutes. If it starts at noon, how long will Priya be traveling before she arrives? Express your answer in minutes.\nTo solve this problem:\n1'
+  word: ' arrived on time. The entire part of "ten in" is at the end... Please explain this rule.\n\n<think>We need to understand the verb forms in English for relative clauses and auxiliary verbs. The question: "The meeting was ten times'
+  dial: ' agreed to attend. The entire group of 5 members (including Priya) had to leave the office immediately! Every time they tried to go up or down, something would stop them. They looked around frantically: there was a'
+[The meeting was scheduled for … s=10.0 seed=1]
+  base: " arrived an hour early. The discussion went on smoothly until about 10 o'clock in the afternoon, when a problem arose. Since both parties had already made their arrivals, it was decided to continue the discussion at that time.  \nIf"
+  word: ' began to read the sentences one at\nEach year she had 10 different forms of a verb form. A sentence uses each tense in one clause, so there are four such numbers per sentence. The word at "verb" in English is'
+  dial: ' arrived at 5:45 a.m. That means she missed the meeting by 3 hp. A person can miss any one of these times in minutes.\nA) 90\nB) 110\nC) 120\n'
+wrote /Users/kojinglick/Dev/pangram_nous_reducto_hackathon/wsp_runs/tense-calm/compare.json, compare_blind.json, compare_key.json (72 rows)

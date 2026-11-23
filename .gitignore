@@ -1,0 +1,32 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+.env
+*.txt
+
+frontend/node_modules/
+steer/web/dist/
+
+wsp_runs/*/work/
+documents/
+
+# macOS
+.DS_Store
+
+# local-only run artefacts
+wsp_runs/*/LAB_URL
+wsp_runs/_modal-smoke*/
+*.log
+!wsp_runs/*/compare.log
+
+# secrets (never commit)
+.env.*
+!.env.example

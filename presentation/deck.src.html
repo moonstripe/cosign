@@ -1,0 +1,407 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Cosign — remove AI slop from inside the model</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="katex/katex.min.css">
+<style>
+  @font-face { font-family: "Geist Pixel Square"; src: url("fonts/GeistPixel-Square.woff2") format("woff2"); }
+  @font-face { font-family: "Mona Sans"; src: url("fonts/mona-sans-latin-wght-normal.woff2") format("woff2"); font-weight: 200 900; }
+  @font-face { font-family: "Monaspace Neon"; src: url("fonts/monaspace-neon-latin-400-normal.woff2") format("woff2"); font-weight: 400; }
+  @font-face { font-family: "Monaspace Neon"; src: url("fonts/monaspace-neon-latin-700-normal.woff2") format("woff2"); font-weight: 700; }
+  :root {
+    --paper: #fbfaf7; --ink: #1d1b18; --muted: #8f8a80; --line: #e2ddd4;
+    --model: #b3541e; --doc: #8a857c; --human: rgb(47,133,90); --ai: rgb(197,48,48); --assisted: rgb(214,158,46);
+    --sans: "Mona Sans", system-ui, sans-serif;
+    --mono: "Monaspace Neon", ui-monospace, Menlo, monospace;
+    --serif: "Iowan Old Style", Palatino, Georgia, serif;
+    --pixel: "Geist Pixel Square", var(--mono);
+  }
+  * { box-sizing: border-box; border-radius: 0; }
+  html, body { margin: 0; height: 100%; background: #e9e5dd; overflow: hidden; }
+  body { font-family: var(--sans); color: var(--ink); }
+  #stage { position: absolute; left: 50%; top: 50%; width: 1920px; height: 1080px; transform-origin: 0 0; }
+  .slide { position: absolute; inset: 0; background: var(--paper); padding: 96px 120px; display: none; }
+  .slide.on { display: block; }
+  .kicker { font: 400 22px/1 var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+  h1, h2 { font-weight: 640; letter-spacing: -.02em; margin: 0; }
+  h2 { font-size: 64px; line-height: 1.05; }
+  .mono { font-family: var(--mono); }
+  .serif { font-family: var(--serif); }
+  .muted { color: var(--muted); }
+  .foot { position: absolute; left: 120px; right: 120px; bottom: 56px; display: flex; justify-content: space-between;
+          font: 18px/1 var(--mono); color: var(--muted); letter-spacing: .04em; }
+  .brandmark { font-family: var(--pixel); }
+
+  /* 1 — title */
+  #s-title { display: none; }
+  #s-title.on { display: grid; grid-template-rows: 1fr auto; }
+  #s-title .word { font: 300px/0.9 var(--pixel); letter-spacing: -.01em; margin-top: 150px; }
+  #s-title .tag { font: 400 64px/1.15 var(--serif); margin-top: 44px; max-width: 1300px; }
+  #s-title .tag em { font-style: italic; color: var(--model); }
+  #s-title .meta { display: flex; gap: 56px; font: 24px/1.4 var(--mono); color: var(--muted); border-top: 1px solid var(--line); padding-top: 28px; }
+  #s-title .meta b { color: var(--ink); font-weight: 400; }
+
+  /* 2 — hypothesis */
+  #s-hyp .stmt { font: 400 92px/1.12 var(--serif); margin-top: 64px; max-width: 1560px; letter-spacing: -.01em; }
+  #s-hyp .stmt .h { color: var(--human); } #s-hyp .stmt .a { color: var(--ai); }
+  #s-hyp .lines { margin-top: 200px; display: grid; grid-template-columns: 220px 1fr; row-gap: 26px; align-items: center; }
+  #s-hyp .lines .lbl { font: 22px var(--mono); color: var(--muted); letter-spacing: .06em; text-transform: uppercase; }
+  #s-hyp .lines svg { width: 100%; height: 70px; overflow: visible; }
+  #s-hyp .so { margin-top: 70px; font: 500 40px/1.3 var(--sans); }
+  #s-hyp .so b { color: var(--model); font-weight: 640; }
+
+  /* 3 — prior work */
+  #s-prior .cols { display: grid; grid-template-columns: 1fr 1fr; gap: 96px; margin-top: 72px; }
+  #s-prior .col { border-top: 2px solid var(--ink); padding-top: 32px; }
+  #s-prior .ttl { font: 600 38px/1.2 var(--sans); }
+  #s-prior .who { font: 20px/1.5 var(--mono); color: var(--muted); margin-top: 14px; }
+  #s-prior .finding { font: 400 34px/1.4 var(--serif); margin-top: 36px; }
+  #s-prior .finding b { font-family: var(--mono); font-weight: 400; font-size: 31px; color: var(--model); }
+  #s-prior .lesson { margin-top: 36px; font: 500 30px/1.3 var(--sans); }
+  #s-prior .lesson::before { content: "→ "; color: var(--model); }
+
+  /* 4 — method */
+  #s-how .flow { display: grid; grid-template-columns: repeat(4, 1fr); margin-top: 72px; border-top: 2px solid var(--ink); }
+  #s-how .step { padding: 30px 36px 0 0; }
+  #s-how .step + .step { padding-left: 36px; border-left: 1px solid var(--line); }
+  #s-how .n { font: 22px var(--mono); color: var(--model); }
+  #s-how .st { font: 600 34px/1.2 var(--sans); margin-top: 14px; }
+  #s-how .sd { font: 24px/1.45 var(--sans); color: #4a463f; margin-top: 14px; }
+  #s-how .evid { margin-top: 76px; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 56px; }
+  #s-how .ev { font: 400 30px/1.4 var(--serif); }
+  #s-how .ev .k { display: block; font: 20px var(--mono); color: var(--muted); letter-spacing: .06em; text-transform: uppercase; margin-bottom: 12px; }
+  #s-how .ev b { font: 400 30px var(--mono); }
+  #s-how .ev .bad { color: var(--ai); } #s-how .ev .good { color: var(--human); }
+
+  /* 4b — harness */
+  #s-env h2 { font-size: 56px; }
+  #s-env .grid { display: grid; grid-template-columns: minmax(0, 1fr) 470px; gap: 64px; margin-top: 40px; }
+  #s-env .eqs1 { min-width: 0; border-top: 2px solid var(--ink); padding-top: 34px; }
+  #s-env .eqs1 .eq .katex-display { margin: 0; text-align: left; }
+  #s-env .eqs1 .eq .katex-display > .katex { text-align: left; }
+  #s-env .eqs1 .eq .katex { font-size: 76px; }
+  #s-env .terms { margin-top: 40px; display: grid; row-gap: 16px; }
+  #s-env .terms > div { display: grid; grid-template-columns: 130px 1fr; font: 26px/1.35 var(--sans); color: #4a463f; }
+  #s-env .terms .k { font: 26px var(--serif); font-style: italic; color: var(--ink); }
+  #s-env .rules { margin-top: 40px; display: grid; row-gap: 14px; font: 24px/1.45 var(--sans); color: #4a463f; border-top: 1px solid var(--line); padding-top: 26px; }
+  #s-env .rules b { font-family: var(--mono); font-weight: 400; color: var(--ink); }
+  #s-env .modal { border-top: 2px solid var(--ink); padding-top: 26px; }
+  #s-env .modal .k { font: 20px var(--mono); color: var(--model); letter-spacing: .06em; text-transform: uppercase; }
+  #s-env .fan { margin-top: 22px; display: grid; grid-template-columns: 1fr; row-gap: 10px; font: 22px/1.3 var(--mono); }
+  #s-env .fan .row { display: grid; grid-template-columns: 1fr auto; padding: 12px 16px; background: #f3f0ea; }
+  #s-env .fan .row span:last-child { color: var(--muted); }
+  #s-env .arrow { font: 22px var(--mono); color: var(--muted); text-align: center; margin: 4px 0; }
+  #s-env .facts { margin-top: 26px; font: 24px/1.45 var(--sans); color: #4a463f; }
+  #s-env .facts b { font-family: var(--mono); font-weight: 400; color: var(--ink); }
+
+  /* 5 — interface */
+  #s-ui .grid { display: grid; grid-template-columns: 470px 1fr; gap: 64px; margin-top: 48px; align-items: start; }
+  #s-ui img { width: 100%; border: 1px solid var(--line); box-shadow: 0 20px 60px rgba(29,27,24,.10); display: block; }
+  #s-ui dl { margin: 8px 0 0; display: grid; grid-template-columns: 1fr; row-gap: 30px; }
+  #s-ui dt { font: 26px var(--mono); }
+  #s-ui dd { margin: 6px 0 0; font: 26px/1.35 var(--sans); color: #4a463f; }
+  #s-ui .cap { font: 20px var(--mono); color: var(--muted); margin-top: 16px; }
+
+  /* 6 — result */
+  #s-res h2 { font-size: 72px; }
+  #s-res h2 .from { color: var(--ai); } #s-res h2 .to { color: var(--human); }
+  #s-res .grid { display: grid; grid-template-columns: 1fr 780px; gap: 56px; margin-top: 40px; }
+  #s-res .side { display: grid; grid-template-columns: 300px 1fr; gap: 36px; align-items: start; }
+  #s-res .treefig img { width: 300px; height: auto; border: 1px solid var(--line); display: block; }
+  #s-res .treefig .cap { margin-top: 12px; font: 16px/1.5 var(--mono); color: var(--muted); }
+  #s-res .txt .facts:first-child { margin-top: 0; }
+  #s-res .chart svg { width: 100%; height: 640px; overflow: visible; }
+  #s-res .chart text { font-family: var(--mono); }
+  #s-res .side img { width: 100%; border: 1px solid var(--line); display: block; }
+  #s-res .facts { margin-top: 28px; font: 25px/1.45 var(--sans); color: #4a463f; }
+  #s-res .facts b { color: var(--ink); font-weight: 600; }
+  #s-res .note { margin-top: 18px; font: 18px/1.5 var(--mono); color: var(--muted); }
+
+  /* 7 — limitations */
+  #s-lim .list { margin-top: 64px; display: grid; grid-template-columns: 1fr; row-gap: 40px; max-width: 1500px; border-top: 2px solid var(--ink); padding-top: 44px; }
+  #s-lim .item { display: grid; grid-template-columns: 120px 1fr; font: 400 40px/1.35 var(--serif); }
+  #s-lim .item .n { font: 24px var(--mono); color: var(--model); padding-top: 12px; }
+  #s-lim .next { margin-top: 64px; font: 500 32px/1.35 var(--sans); max-width: 1500px; }
+  #s-lim .next b { color: var(--model); font-weight: 640; }
+
+  /* 7 — close */
+  #s-close .big { font: 400 120px/1.05 var(--serif); margin-top: 120px; letter-spacing: -.015em; }
+  #s-close .big em { color: var(--model); }
+  #s-close .demo { margin-top: 110px; display: grid; grid-template-columns: auto 1fr; gap: 20px 40px; font: 28px/1.3 var(--mono); }
+  #s-close .demo .k { color: var(--muted); }
+
+  #hud { display: none; }
+  /* monospace chips: a light tint behind every inline mono run */
+  .kicker, #s-prior .finding b, #s-how .ev b, #s-how .ev .k, #s-how .n, #s-env .rules b, #s-env .facts b,
+  #s-env .modal .k, #s-ui dt, #s-ui .cap, #s-close .demo span:not(:empty), #s-prior .who, #s-res .note, #s-lim .item .n,
+  #s-title .meta span {
+    background: #efebe2; padding: .12em .42em; box-decoration-break: clone; -webkit-box-decoration-break: clone;
+  }
+  .kicker, #s-how .ev .k, #s-env .modal .k, #s-ui dt, #s-ui .cap, #s-prior .who, #s-res .note, #s-how .n, #s-lim .item .n { display: inline-block; }
+  #s-how .ev .k { display: block; width: fit-content; margin-bottom: 16px; }
+  #s-prior .finding b, #s-how .ev b, #s-env .rules b, #s-env .facts b { white-space: nowrap; padding: .06em .3em; }
+  #s-lim .item .n { align-self: start; justify-self: start; margin-top: 8px; }
+  @media print {
+    html, body { overflow: visible; background: none; }
+    #stage { position: static; transform: none !important; width: auto; height: auto; }
+    .slide { display: block !important; position: relative; width: 1920px; height: 1080px; page-break-after: always; }
+    #hud { display: none; }
+  }
+</style>
+</head>
+<body>
+<div id="stage">
+
+  <!-- 1 -->
+  <section class="slide" id="s-title" data-label="title">
+    <div>
+      <div class="word">Cosign</div>
+      <div class="tag">Remove AI slop from <em>inside</em> the model.</div>
+    </div>
+    <div class="meta"><span><b>Kojin Glick</b></span><span>LFM3-1.7B · weight-space dials</span><span>Pangram · Nous · Reducto · Modal</span></div>
+  </section>
+
+  <!-- 2 -->
+  <section class="slide" id="s-hyp" data-label="hypothesis">
+    <div class="kicker">Hypothesis</div>
+    <div class="stmt"><span class="h">People</span> change mood a little between sentences. <span class="a">Language models</span> write in one voice.</div>
+    <div class="lines">
+      <div class="lbl">a person</div><svg id="hyp-h" viewBox="0 0 1360 70" preserveAspectRatio="none"></svg>
+      <div class="lbl">a model</div><svg id="hyp-a" viewBox="0 0 1360 70" preserveAspectRatio="none"></svg>
+    </div>
+    <div class="foot"><span>This is an illustration, not data.</span><span>2 / 9</span></div>
+  </section>
+
+  <!-- 3 -->
+  <section class="slide" id="s-prior" data-label="prior work">
+    <div class="kicker">Prior work</div>
+    <div class="cols">
+      <div class="col">
+        <div class="ttl">How much of a person's voice is orthography?</div>
+        <div class="who">Glick et al. · working draft · LFM3-1.7B + Qwen3.5-4B · 12 Enron authors</div>
+        <div class="finding">When a writer's casing and punctuation are more unusual, orthography gives more of the measured “voice” (<b>ρ = 0.71</b>). A rewrite that changes only casing and punctuation gets almost the same score as a full style vector (<b>+0.25</b> and <b>+0.27</b>).</div>
+        <div class="lesson">Style metrics see the surface first. Voice must come from a deeper level than punctuation.</div>
+      </div>
+      <div class="col">
+        <div class="ttl">Gradient-free weight editing reduces overthinking in Qwen3.8-27B</div>
+        <div class="who">Bennington, Kaelar, Lee, Edwards, Glick, Danks · Concept Country 2026</div>
+        <div class="finding">We read directions from forward passes. We wrote them into nine down-projections as rank-one edits. Results: <b>+4.3</b> GPQA, <b>+13.0</b> LiveCodeBench, <b>−30%</b> thinking tokens. A random edit of the same size had no effect.</div>
+        <div class="lesson">You can write a behavior into the weights in minutes. The direction must do better than a random direction.</div>
+      </div>
+    </div>
+    <div class="foot"><span>Method from Takehi, Teoh, Zhang, Khattab: Sparks of Weight-Space Programming (MIT CSAIL)</span><span>3 / 9</span></div>
+  </section>
+
+  <!-- 4 -->
+  <section class="slide" id="s-how" data-label="method">
+    <div class="kicker">The dials</div>
+    <h2 style="margin-top:28px">Each of the four moods is a weight-space program.</h2>
+    <div class="flow">
+      <div class="step"><div class="n">01</div><div class="st">The model writes its own contrast pairs</div><div class="sd">The model writes the same opening in two registers. We remove the mood words. Thus, the dial cannot learn the word.</div></div>
+      <div class="step"><div class="n">02</div><div class="st">An agent writes a rank-1 edit</div><div class="sd">The agent has 15 forward passes and no gradients. It writes the edit into the MLP outputs of layers 7–17.</div></div>
+      <div class="step"><div class="n">03</div><div class="st">The edit must do better than a random edit</div><div class="sd">The random edit has the same size and a random direction. We test on held-out prompts and read each sample.</div></div>
+      <div class="step"><div class="n">04</div><div class="st">The wheel sets α for each token</div><div class="sd">The axes are tense–calm, tender–cold, playful–grave and lush–plain. We built three dials at the same time on Modal.</div></div>
+    </div>
+    <div class="evid">
+      <div class="ev"><span class="k">word vector, full strength</span><b class="bad">20 of 24</b> samples became grammar lessons about the word “tense”.</div>
+      <div class="ev"><span class="k">dial, full strength</span><b class="good">0 of 24</b> samples used the mood word. Samples with threat words increased from <b>0</b> to <b>5</b>.</div>
+      <div class="ev"><span class="k">random edit, same size</span><b>Δ +0.02</b>, 11 of 16 held-out pairs. This is chance. The direction causes the effect.</div>
+    </div>
+    <div class="foot"><span>tense–calm dial · 12 held-out prompts × 2 seeds · scripts/dial_stats.py</span><span>4 / 9</span></div>
+  </section>
+
+  <!-- 4b -->
+  <section class="slide" id="s-env" data-label="harness">
+    <div class="kicker">The harness</div>
+    <h2 style="margin-top:24px">An RL-style environment for an agent that programs weights.</h2>
+    <div class="grid">
+      <div class="eqs1">
+        <div class="eq"><span class="katex-display"><span class="katex"><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.0489em;vertical-align:-0.247em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">W</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8019em;"><span style="top:-2.453em;margin-left:-0.1389em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">ℓ</span></span></span><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">′</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.247em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.8333em;vertical-align:-0.15em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.13889em;">W</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361em;"><span style="top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">ℓ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:1.1461em;vertical-align:-0.247em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.0037em;">α</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.2806em;"><span style="top:-2.55em;margin-left:-0.0037em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">t</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord"><span class="mord mathnormal">A</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.3361em;"><span style="top:-2.55em;margin-left:0em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">ℓ</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.15em;"><span></span></span></span></span></span></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.05017em;">B</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.8991em;"><span style="top:-2.453em;margin-left:-0.0502em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">ℓ</span></span></span><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">⊤</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.247em;"><span></span></span></span></span></span></span></span></span></span></span></div>
+        <div class="terms">
+          <div><span class="k">W<sub>ℓ</sub></span><span>the weights of layer ℓ (MLP output, layers 7–17)</span></div>
+          <div><span class="k">A B<sup>⊤</sup></span><span>a rank-1 edit that the agent writes, from the model's own mood text minus the opposite text</span></div>
+          <div><span class="k">α<sub>t</sub></span><span>the wheel position for token t, from 0 (the original model) to 1</span></div>
+        </div>
+        <div class="rules">
+          <div>The agent reads the weights in a Python kernel. It can run the model only with <b>15 forward passes</b>. It cannot use gradients.</div>
+          <div>The edit must do better than a random edit of the same size. tense–calm, 16 held-out pairs: <b>+1.19</b> for the dial, <b>+0.02</b> for the random edit.</div>
+        </div>
+      </div>
+      <div class="modal">
+        <span class="k">Modal fan-out</span>
+        <div class="fan">
+          <div class="row"><span>agent · tense–calm</span><span>local M4</span></div>
+          <div class="row"><span>agent · tender–cold</span><span>L40S</span></div>
+          <div class="row"><span>agent · playful–grave</span><span>L40S</span></div>
+          <div class="row"><span>agent · lush–plain</span><span>L40S</span></div>
+        </div>
+        <div class="arrow">↓ submit_dial → Volume → editor</div>
+        <div class="facts">One lab for each axis. The three Modal labs started at the same time and each finished in <b>5–9&nbsp;min</b>. The longest pass took <b>42.5&nbsp;s</b> on an L40S; the local M4 pilot took <b>36&nbsp;min</b>. Each Modal agent used <b>5–9</b> of its 15 passes.</div>
+      </div>
+    </div>
+    <div class="foot"><span>RL-style: budgeted actions and a held-out score. No policy training.</span><span>5 / 9</span></div>
+  </section>
+
+  <!-- 5 -->
+  <section class="slide" id="s-ui" data-label="interface">
+    <div class="kicker">The editor</div>
+    <div class="grid">
+      <div>
+        <h2 style="font-size:58px">You write and the model writes. You steer each turn.</h2>
+        <dl style="margin-top:52px">
+          <div><dt>⌥Tab · hold</dt><dd>The model writes some tokens. Hold the keys to aim the mood wheel.</dd></div>
+          <div><dt>⇧Tab</dt><dd>You select the next token from the top nine.</dd></div>
+          <div><dt>decision tree</dt><dd>Each action is a node. You can go back to a node and start a new branch.</dd></div>
+        </dl>
+      </div>
+      <div><img src="img/wheel.png" alt="Cosign with the mood wheel open over a document"><div class="cap">orange = model · black = you · red = Pangram finds AI text</div></div>
+    </div>
+    <div class="foot"><span></span><span>6 / 9</span></div>
+  </section>
+
+  <!-- 6 -->
+  <section class="slide" id="s-res" data-label="result">
+    <div class="kicker">Result · a paper that an AI wrote completely</div>
+    <h2 style="margin-top:24px"><span class="from">100% AI</span> → <span class="to">48% AI</span> in one branch.</h2>
+    <div class="grid">
+      <div class="chart"><svg id="chart" viewBox="0 0 1000 640"></svg></div>
+      <div class="side">
+        <div class="treefig"><img src="img/tree_cluster.png" alt="The decision tree: the steered branch runs through a greener cluster; the imported AI chunks stay red"><div class="cap">orange path = this branch<br>red haze = AI<br>grey-green haze = human</div></div>
+        <div class="txt">
+        <div class="facts">Start: the abstract of a Sakana AI Scientist paper (<b>100% AI</b>). Then the model wrote <b>40 times</b>. <b>39</b> of these writes used the dials, across all eight moods. I typed <b>3 times</b>. The model wrote 46% of the text, I wrote 6%, and 48% is from the original PDF.</div>
+        <div class="facts" style="margin-top:14px">Control: a human paper from 2017 gets <b>0% AI</b>.</div>
+        <div class="note">one branch · one detector · not a controlled study</div>
+        </div>
+      </div>
+    </div>
+    <div class="foot"><span>Pangram AI score of the full document after each decision</span><span>7 / 9</span></div>
+  </section>
+
+  <!-- 7 -->
+  <section class="slide" id="s-lim" data-label="limitations">
+    <div class="kicker">Limitations</div>
+    <h2 style="margin-top:28px">Pangram possibly does not know LFM3 text.</h2>
+    <div class="list">
+      <div class="item"><span class="n">01</span><span>We do not know if the Pangram training data includes text from LFM3 models.</span></div>
+      <div class="item"><span class="n">02</span><span>If it does not, a low AI score can show a gap in the detector. It does not always show text that reads as human.</span></div>
+      <div class="item"><span class="n">03</span><span>Thus, the 48% result can come from the pretraining data of the detector, not from the dials.</span></div>
+    </div>
+    <div class="next"><b>Next test:</b> Write the same branch with the dials off. Then compare the Pangram scores of the two branches.</div>
+    <div class="foot"><span>one branch · one detector · not a controlled study</span><span>8 / 9</span></div>
+  </section>
+
+  <!-- 8 -->
+  <section class="slide" id="s-close" data-label="close">
+    <div class="kicker">Cosign</div>
+    <div class="big">Work <em>with</em> the model,<br>not around it.</div>
+    <div class="demo">
+      <span class="k">demo</span><span>ai_scientist_adaptive_dual_scale_denoising — the 48% branch</span>
+      <span class="k"></span><span>attention_is_all_you_need_2017 — the human control</span>
+    </div>
+    <div class="foot"><span class="brandmark" style="font-size:22px;color:var(--ink)">Cosign</span><span>9 / 9</span></div>
+  </section>
+</div>
+<div id="hud"></div>
+
+<script>
+const BRANCH = /*BRANCH_JSON*/[];
+
+// ---------- fit the 1920×1080 stage to the window
+const stage = document.getElementById('stage');
+function fit() {
+  const s = Math.min(innerWidth / 1920, innerHeight / 1080);
+  stage.style.transform = `translate(${-960 * s}px, ${-540 * s}px) scale(${s})`;
+}
+addEventListener('resize', fit); fit();
+
+// ---------- navigation
+const slides = [...document.querySelectorAll('.slide')];
+let cur = Math.min(slides.length - 1, +(localStorage.getItem('cosign.deck') || 0));
+const hud = document.getElementById('hud');
+function show(i) {
+  cur = Math.max(0, Math.min(slides.length - 1, i));
+  slides.forEach((s, k) => s.classList.toggle('on', k === cur));
+  localStorage.setItem('cosign.deck', cur);
+  hud.textContent = `${cur + 1} / ${slides.length} · ${slides[cur].dataset.label}`;
+}
+addEventListener('keydown', (e) => {
+  if (['ArrowRight', 'PageDown', ' ', 'Enter'].includes(e.key)) { e.preventDefault(); show(cur + 1); }
+  if (['ArrowLeft', 'PageUp', 'Backspace'].includes(e.key)) { e.preventDefault(); show(cur - 1); }
+  if (e.key === 'Home') show(0);
+  if (e.key === 'End') show(slides.length - 1);
+});
+addEventListener('click', (e) => { if (e.clientX > innerWidth / 3) show(cur + 1); else show(cur - 1); });
+show(cur);
+
+const NS = 'http://www.w3.org/2000/svg';
+const el = (tag, attrs, parent) => { const n = document.createElementNS(NS, tag); for (const k in attrs) n.setAttribute(k, attrs[k]); parent && parent.appendChild(n); return n; };
+
+// ---------- slide 2: an illustration of the hypothesis (labelled as such on the slide)
+(function hyp() {
+  const W = 1360, H = 70, n = 9;
+  // person: each sentence sits at its own level; the model: one level throughout
+  const levels = [0.30, 0.62, 0.45, 0.80, 0.35, 0.55, 0.20, 0.70, 0.50];
+  const draw = (id, lv, color) => {
+    const svg = document.getElementById(id);
+    lv.forEach((v, i) => {
+      const x0 = (i / n) * W + 6, x1 = ((i + 1) / n) * W - 6, y = H - v * H;
+      el('line', { x1: x0, x2: x1, y1: y, y2: y, stroke: color, 'stroke-width': 6 }, svg);
+    });
+  };
+  draw('hyp-h', levels, 'rgb(47,133,90)');
+  draw('hyp-a', levels.map(() => 0.5), 'rgb(197,48,48)');
+})();
+
+// ---------- slide 6: the real branch — mood dials per write, and Pangram after each decision
+(function chart() {
+  const svg = document.getElementById('chart');
+  const W = 1000, padL = 150, padR = 10;
+  const rows = BRANCH.slice(1);                 // skip the imported chunk (it is decision 0)
+  const N = rows.length;
+  const x = (i) => padL + (i + 0.5) * (W - padL - padR) / N;
+  const AXES = [['tense', 'calm'], ['tender', 'cold'], ['playful', 'grave'], ['lush', 'plain']];
+  const rowH = 58, top = 10, gap = 10;
+  AXES.forEach(([a, b], r) => {
+    const yMid = top + r * (rowH + gap) + rowH / 2;
+    el('line', { x1: padL, x2: W - padR, y1: yMid, y2: yMid, stroke: '#e2ddd4', 'stroke-width': 1 }, svg);
+    const t1 = el('text', { x: padL - 16, y: yMid - 8, 'text-anchor': 'end', 'font-size': 17, fill: '#1d1b18' }, svg); t1.textContent = a;
+    const t2 = el('text', { x: padL - 16, y: yMid + 20, 'text-anchor': 'end', 'font-size': 17, fill: '#8f8a80' }, svg); t2.textContent = b;
+    rows.forEach((d, i) => {
+      for (const s of d.steer) {
+        const ax = s.axis[0] === a || s.axis[1] === a ? s.axis : null;
+        if (!ax || !(ax.includes(a) && ax.includes(b))) continue;
+        const sign = s.toward === a ? -1 : 1;           // up = first mood
+        const h = Math.max(2, Math.min(1, s.s / 0.65) * (rowH / 2));
+        el('rect', { x: x(i) - 5, width: 10, y: sign < 0 ? yMid - h : yMid, height: h, fill: s.s > 0.65 ? 'rgb(197,48,48)' : '#b3541e' }, svg);
+      }
+    });
+  });
+  // typed decisions
+  const yT = top + 4 * (rowH + gap) + 14;
+  const tl = el('text', { x: padL - 16, y: yT + 6, 'text-anchor': 'end', 'font-size': 17, fill: '#1d1b18' }, svg); tl.textContent = 'you typed';
+  rows.forEach((d, i) => { if (d.via === 'type') el('rect', { x: x(i) - 5, y: yT - 6, width: 10, height: 14, fill: '#1d1b18' }, svg); });
+
+  // pangram: AI share of the whole document after each decision
+  const g0 = yT + 64, gH = 640 - g0 - 40;
+  const yv = (v) => g0 + (1 - v) * gH;
+  [0, 0.5, 1].forEach((v) => {
+    el('line', { x1: padL, x2: W - padR, y1: yv(v), y2: yv(v), stroke: v === 0.5 ? '#cfc9be' : '#e2ddd4', 'stroke-width': 1, 'stroke-dasharray': v === 0.5 ? '4 6' : '' }, svg);
+    const t = el('text', { x: padL - 16, y: yv(v) + 6, 'text-anchor': 'end', 'font-size': 17, fill: '#8f8a80' }, svg); t.textContent = `${Math.round(v * 100)}% AI`;
+  });
+  const pts = [[padL, yv(BRANCH[0].ai ?? 1)]];
+  rows.forEach((d, i) => { if (d.ai != null) pts.push([x(i), yv(d.ai)]); });
+  el('path', { d: 'M' + pts.map((p) => p.join(',')).join(' L'), fill: 'none', stroke: '#1d1b18', 'stroke-width': 3 }, svg);
+  pts.forEach(([px, py], k) => {
+    const v = 1 - (py - g0) / gH;
+    el('circle', { cx: px, cy: py, r: k === 0 || k === pts.length - 1 ? 7 : 4, fill: `rgb(${Math.round(47 + (197 - 47) * v)},${Math.round(133 + (48 - 133) * v)},${Math.round(90 + (48 - 90) * v)})` }, svg);
+  });
+  const lastAI = rows.filter((d) => d.ai != null).pop().ai;
+  const e1 = el('text', { x: padL + 16, y: yv(1) - 10, 'font-size': 18, fill: 'rgb(197,48,48)' }, svg); e1.textContent = 'imported abstract: 100% AI';
+  const e2 = el('text', { x: W - padR, y: yv(lastAI) + 34, 'text-anchor': 'end', 'font-size': 18, fill: 'rgb(47,133,90)' }, svg); e2.textContent = `${Math.round(lastAI * 100)}% AI`;
+  const ax = el('text', { x: padL, y: 636, 'font-size': 16, fill: '#8f8a80' }, svg); ax.textContent = `decision 1 → ${N}`;
+})();
+</script>
+</body>
+</html>

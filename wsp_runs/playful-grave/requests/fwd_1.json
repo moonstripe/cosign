@@ -1,0 +1,30 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nShe opened the letter at the kitchen table and",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nThe train pulled into the station an hour late, and",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nWhen the old man finally reached the top of the hill, he",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nMy brother called me on Sunday morning to say that",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nThe meeting had been going on for two hours when",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nGrandmother kept the key to the attic in her apron pocket, and",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nThe dog sat by the door all afternoon, waiting, until",
+    "From a comic novel. The tone is light, witty, teasing and buoyant:\n\nAt the end of the wedding dinner, the best man stood up and",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nShe opened the letter at the kitchen table and",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nThe train pulled into the station an hour late, and",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nWhen the old man finally reached the top of the hill, he",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nMy brother called me on Sunday morning to say that",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nThe meeting had been going on for two hours when",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nGrandmother kept the key to the attic in her apron pocket, and",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nThe dog sat by the door all afternoon, waiting, until",
+    "From a literary tragedy. The tone is solemn, weighty, serious and mournful:\n\nAt the end of the wedding dinner, the best man stood up and"
+  ],
+  "samples": 16,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 0,
+  "settings": [
+    {
+      "dial": null
+    }
+  ]
+}

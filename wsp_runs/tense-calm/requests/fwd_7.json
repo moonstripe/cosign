@@ -1,0 +1,42 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "Maria parked the car outside her parents' house and",
+    "The new teacher walked into the classroom for the first time, and",
+    "On Saturday morning, Daniel went down to the market to",
+    "The old lighthouse keeper climbed the stairs one evening and",
+    "When the package arrived, Ellen carried it inside and",
+    "The two friends set out along the mountain trail just as",
+    "The restaurant was busy that night, and the young waiter",
+    "He sat in the waiting room at the airport, watching",
+    "The snow had been falling since dawn when",
+    "At the end of the long day, the nurse finally",
+    "The children were playing in the backyard while their father",
+    "Rain tapped on the window as Julia opened her laptop and",
+    "The fisherman pushed his boat out into the morning mist and",
+    "Peter got off the subway one stop early and",
+    "Late in the evening, the shopkeeper counted the till and",
+    "The wedding guests gathered in the garden as"
+  ],
+  "samples": 4,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 7,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "spread6",
+      "alpha": 0.5
+    },
+    {
+      "dial": "spread6",
+      "alpha": 0.75
+    },
+    {
+      "dial": "spread6",
+      "alpha": 1.0
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "kind": "generate",
+  "note": "same seeds across settings: sample i of each setting is paired",
+  "results": [
+    {
+      "setting": {
+        "dial": null
+      },
+      "outputs": [
+        {
+          "prompt": "The bus stopped at the corner and a woman in a green coat got off.",
+          "samples": [
+            " She was late for her appointment, so she walked along the sidewalk to the bus stop. However, a man on the corner was waiting for his bus. He saw the woman and, thinking she was late for his bus, he boarded the bus. The wheels of the bus spun rapidly. Then, he realized that",
+            " She was late for her flight. The driver of the bus told her that she was late and asked her to go home. The woman then got in her car, drove home and got back on the bus. When the bus arrived at the corner again, she got off. She was now early for her flight. Why",
+            " On the other side of the street, some people were walking on the sidewalk. The police officer stopped the woman and asked for her driver's license. She said, \"I don't have a driver's license.\" The officer said, \"In the United States, you must have a valid driver's license to ride the",
+            " She was late for the meeting. The driver was not in a hurry. The bus was traveling in the opposite direction to the meeting. The woman thanked the driver for not making her late. Who had the green coat? This question is a variation of the \"father and son\" riddle. In the riddle"
+          ]
+        },
+        {
+          "prompt": "He poured himself a glass of water and sat down by the window.",
+          "samples": [
+            " He sipped the water and let the warmth spread over his face. When he looked out at the garden, he saw flowers blooming, the birds singing, and a butterfly fluttering around a rose bush. He smiled, sipping the water again and feeling refreshed and joyful. This was the perfect afternoon",
+            " He watched the light of the sun cross the sky and fell on the window. The light was bright and warm. He took a sip of the water and felt refreshed. He realized he had missed his steps and hadn't moved much from where he sat. He felt a little slumped in his chair. He",
+            " He felt the cool glass against his fingertips. As he looked out at the garden, he noticed the spider web, which was about to be plated by bees. He wondered how the bees would get enough water if no one here was taking off water... He got up, picked up the glass, and walked",
+            " He was very relaxed. He thought about his plans for today. He was in the kitchen, making tea in a tiny porcelain cup. He went to the hallway, opened the window, and looked at the house in the yard. It was a nice sunny day. He saw two cars parked in the driveway."
+          ]
+        },
+        {
+          "prompt": "The museum was nearly empty on Tuesday morning when Lena",
+          "samples": [
+            " arrived. The guard told her that many children had already gone to the new interactive exhibit. She watched the children play with the digital screens and then she saw an empty hall, wondering why they came but left so quickly. Later, she learned that the museum's children's program had been canceled by the owner. How does",
+            " decided to spend 3 hours reading on the history of the museum. By afternoon, she had finished the whole book, but there were no visitors to see it. She decided to use her time on the computer to research more about the museum's website and history. In the evening, she spent 2.5 hours",
+            " arrived. 2) At the museum on Tuesday morning, two people including Lena were waiting for Lena to call the museum. 3) Lena arrived at the museum on Tuesday morning and was nearly empty immediately afterward. 4) When Lena arrived at the museum on Tuesday morning, two people waiting for",
+            " Smith, a 28-year-old intern, had an idea. She had been researching her grandfather, a famous photographer who had died when Lena was only nine years old, and she had found an old camera from his collection. She showed the museum's staff and a member of the board, but they told her the"
+          ]
+        },
+        {
+          "prompt": "After dinner, the two brothers went out to the barn and",
+          "samples": [
+            " spent the whole evening there. They talked and laughed, and at a certain point they noticed that they had already slept for about 3 hours.\nAfter waking up, each brother got up and went to his room to sleep again. So when he returned to the barn, he realized that there were still the other brother in",
+            " picked out some hay for their new horses. They put out a total of 1000 pounds of hay. It was an even distribution of hay between the two horses, so each horse got an equal amount of hay. The first brother picked 3 pounds for each of his horses. The second brother picked 5 pounds",
+            " caught fish. When they returned home, they shared the fish equally. If the first brother caught 4 fish and the second brother caught 7 fish, how many fish did each brother get?\n\nNow, let's solve this problem step-by-step.\n\n---\n\nLet's denote:\n\n- Brother 1 caught 4 fish.\n",
+            " found a pile of hay. They separated the hay into two piles, placing 3.5 times as much as the second pile in the first pile. The second pile had 10 bags. How much hay did each brother get?\n\nLet the second pile be 10 bags. Let the first pile be 3."
+          ]
+        },
+        {
+          "prompt": "The librarian looked up from her desk as the door opened, and",
+          "samples": [
+            " a man entered and called to \"Excuse me, librarian, can I find a copy of the book?\" and the librarian went to find it.\nThe man returned, and the librarian opened her book, found that the copy wasn't there, and went back to the desk.\n\nThe man said, \"",
+            " in walked in the students: Ben, Mia, and Leo. Ben was already at his desk, and Leo was at another place, and Mia was in the hallway. The librarian was surprised to find them all in one room. She looked around and realized all three were studying. \"What a coincidence,\"",
+            " in walked in a man, who was the head of the department for students. He had a very long beard and a thick mustache. He was wearing a long navy blue shirt with a white tie on his neck. He sat at her desk, ordering her to continue with the research project. When he finished typing a",
+            " an old man walked in. He was a little out of breath and seemed to be feeling a bit under the weather. \u201cI\u2019m sorry to bother you,\u201d he said. \u201cIs this the librarian?\u201d She smiled and said, \u201cYes, I\u2019m just here for a moment of quiet. But I\u2019ll be"
+          ]
+        },
+        {
+          "prompt": "Sam parked the truck at the end of the gravel road and",
+          "samples": [
+            " drove to the end of the gravel road. Then he turned the truck around and drove back to the end of the gravel road. How far did Sam drive in total?\nSam drove to the end of the gravel road first. That distance is one way. Then he turned around and drove back the same distance. So the",
+            " got out. He saw the mailman and the horse and the dog. Sam then went to the mailbox and wrote the letter to the mailman. Sam then went to the pasture, saw the sheep and the cow, and wrote a note to the cow. Sam then walked on the path to the brook and",
+            " walked to the water source, turning back halfway along the gravel road to park the truck. Which of the following is the most logical conclusion? If you think about the entire journey, you're driving from A to B, turning halfway to go to C, and then driving back partially to D and then to E and then",
+            " looked at it in the shop and it was covered in dirt. Sam put the truck in the driveway. Now he looked at it and the road was clear of dirt. Why is this surprising?\nSuppose we have a set S of integers. Let S be a subset of S, if S is a subset of D,"
+          ]
+        },
+        {
+          "prompt": "The hotel lobby smelled of polished wood. Behind the counter,",
+          "samples": [
+            " some people were reading over tea, listening to music on a speaker, or simply resting their hands on the rail. In the lobby area, a large map of London was spread on a table. A young man and an older woman stood by the table, examining it carefully. The young man was holding a pen, adjusting",
+            " a large television played with soft, cheerful music. The lobby was empty, and there was no signage about reservations or check-in. As the customer walked past the receptionist's desk, a small glass water dispenser sat by the chair. He ordered a glass of water, and the staff handed him a cup",
+            " a man in a fedora greeted the guest. He asked, \"How may I assist you today?\" The guest, looking relieved, said, \"I was just looking for the continental breakfast area.\" The man nodded and led the guest to a room decorated with flowers and a large mirror. He explained that the continental",
+            " a man stood and gestured to the room in front. He said, \"My wife, Eleanor, always asks for a quiet room. I'm sorry. I'll give you the best one.\" The customer, a man in a suit, sighed and said, \"We don't want to hear any arguments."
+          ]
+        },
+        {
+          "prompt": "She was halfway through packing the boxes when she found",
+          "samples": [
+            " the note inside her suitcase. The note said: \"All boxes on this ship are labeled. Boxes marked 'to be shipped' will be shipped; 'to be wasted' will be wasted. However, 'to be recovered' will be recovered by the crew. This is a special shipment. I was",
+            " a letter in the middle of one and started to unwrap it. Her dog had been sleeping on her lap, and since she was about to leave, she didn\u2019t want to wake him.  It was a letter from an old friend, who was in the hospital and asked her to come to visit. She was surprised",
+            " her own suitcase at the bottom.\nThe sentence \"The cat was sleeping on the couch\" is most similar to which one of the following sentences?\nA. The cat was sleeping on the couch.\nB. The dog was sleeping on the doghouse.\nC. The dog was sleeping on the couch.\nD. The",
+            " the letter, but before she could close them she saw the return address. It was the company she worked for. No wonder she hesitated. The letter was a formal notice to cancel her employment. \nShe hurried to the office and knocked on the receptionist's desk. The receptionist told her, \"Yes"
+          ]
+        },
+        {
+          "prompt": "The fishing boat came back into the bay just before noon.",
+          "samples": [
+            " The fishing boat was spotted just a few miles out at sea by the lighthouse. They were caught by a storm, and their fishing line was broken. The fishing boat had a storm damage to the hull but it had not sunk. They were looking for a way to repair them and find new fishing spots. They were on",
+            " It was a bright sunny day, and she caught an old wooden boat and sailed away. Why did she sail away? The story was given in a book. The boat's owner didn't know what to do with it. The boat was left inside the bay and then sailed away. Why? The story was read by",
+            " The crew had fished for seven hours, including one hour at rest. How many crew members are there on the boat?\n \nLet \\( n \\) be the number of crew members.\nEach crew member fishes at a rate of 1.5 hours per crew member.\nDuring one hour, all crew members rest and do",
+            " The beach had not been quiet for two hours. At what time did the fishing boat come back into the bay?\nAssuming that the boat came back just before noon, and that it had been quiet for two hours, then two hours before noon would be the time when the beach had been quiet. Two hours before noon is"
+          ]
+        },
+        {
+          "prompt": "On the third day of the trip, they reached the mountain hut and",
+          "samples": [
+            " stayed for 10 days.\nOn the fourth day of the trip, they left the mountain hut, bought some groceries, and continued the journey.\nOn the fifth day of the trip, they reached another mountain hut and stayed for 7 days.\nOn the sixth day of the trip, they stayed at the",
+            " then took off to the nearby village, carrying the water and fish that they had collected. On the second day of the trip, they went to the mountain hut and then took off to the nearby village, carrying the water and fish that they had collected. On the first day of the trip, they went to the",
+            " stored the trip's expenses. (1) If we let x represent their initial expenditure, then the total expenditure would be x+5, where 5 x is the cost of the trip's expenses; (2) If we let x represent their initial expenditure, then the total expenditure would be 5x +x",
+            " slept there for the rest of the trip. If I slept on the second day, it would be the fourth day from now. If I slept on the first day, it would be the seventh day from now. How many days are there in total to that trip? (For each day of the trip, I ("
+          ]
+        },
+        {
+          "prompt": "The bakery opened at seven, and the first customer",
+          "samples": [
+            " came at seven. The second customer came at seven forty five. The last customer came at one o'clock. How many hours did the bakery stay open?\nSolution: The Bakery opens at 7:00 (7:00 AM). The first customer arrives at 7:00. The second customer arrives at",
+            " went to the shop to buy a loaf of bread. The second customer came to buy some cookies. The third customer came to buy a pie. The fourth customer came to buy 12 sandwiches, and the fifth customer came to buy 17 muffins. The sixth customer came to buy 9 pies. The seventh",
+            " came at half past three. At what time did the bakery close?\nThe year is not given to solve this problem.\nTo solve this problem, we need to find the difference between the opening time and the closing time. However, the closing time is not provided in the question. Therefore, we cannot solve the problem",
+            " of the day arrived at nine. Who was the bakery owner's name? (This is a classic logic puzzle.)\n\n### Solution:\nWe need to determine who arrived at the bakery opening: the owner or a customer.\n\nLet's denote:\n- \\( O \\): The owner arrived at time \\( t_O \\).\n- \\("
+          ]
+        },
+        {
+          "prompt": "Peter knocked twice on the neighbor's door and waited.",
+          "samples": [
+            " The neighbor said nothing. In that case, he said that he was awake, and he had no problem leaving. Therefore, Peter was at home. What kind of statement did Peter make that was not a positive claim?\n- An affirmative statement\n- A negative statement\n- A positive statement\n- A double statement",
+            " When he knocked the second time, the neighbor answered the first time and let him in. Then, Peter knocked again and let the neighbor in, and then knocked one more time. The neighbor, who had already let Peter in, let him in again. Peter got angry, and the neighbor said, \"Well, it",
+            " When the neighbor answered, she told him he was not allowed to knock. He did not knock, but the neighbor asked him to knock. He did so, and was told by the neighbor to knock again. He was afraid to do so. So he asked the neighbor, who told him to knock, and did so",
+            " The neighbor opened her door and came out; she saw Peter in her yard and went to look for him. Peter told her he was waiting outside her yard. She said she knew he was looking for her and came inside. After watching Peter for several minutes, she called for him and came out. She asked him where"
+          ]
+        },
+        {
+          "prompt": "The garden behind the house was overgrown, and Rosa",
+          "samples": [
+            "'s friends helped her clear it. Rosa's dad said, \"I saw you and your friends working hard yesterday while your father was sitting on the porch and munching on his sandwich.\" What was Rosa doing?  \nA. Yawning  \nB. Eating a sandwich  \nC. Feeding the plants  \nD",
+            " loved nothing more than spending time in it. The trees were tangled, and the weeds were everywhere, but she could not stay away from the garden. One day, as she was walking through, she stumbled upon an old, rusty key lying next to the fallen leaves. When she picked it up, it began",
+            " decided to put flowers there. Rosa bought 5 types of flowers: red, yellow, blue, green, and purple. She put 3 red flowers, 2 yellow flowers, 2 blue flowers, 1 green flower, and 1 purple flower in the garden. How many flowers are in the garden now",
+            " decided to clean it. First, she shoveled the weeds and then raked the grass. After that, she planted some flowers. Finally, she built a small shed in the corner. Then, the sun came out and the garden was beautiful again. Thank you for making this happen.\nRosa's activity sequence"
+          ]
+        },
+        {
+          "prompt": "The night shift at the hospital began at eleven. Daniel",
+          "samples": [
+            " arrived an hour later at 2 p.m. It took him 2.5 hours to get the patient from the ward to the hospital. The patients was due at 8 a.m. How long was Daniel waiting? The waiting time was:\na) 3 hours 5 minutes\nb) 2 hours",
+            " set his alarm for nine in the morning. He stayed up late to watch a movie with his friends and then got ready to go to the hospital. He arrived at the hospital at eight in the evening. He spent the night shift at the hospital. \n\nQuestion: What time did he leave the hospital?\n\nFirst, let",
+            ", a patient, woke up at eight. He stayed in bed until five. Because he was in bed until five, he woke up when the night shift began. When did Daniel wake up?\nWhat is the correct answer? (11am or 8am)\nLet\u2019s analyze the wording of the problem carefully",
+            " arrived at twenty past five. The food truck started at ten. The next shift for the food truck began after it had stopped. Which shift began first?\nA. The food truck or the night shift?\nB. The night shift or the food truck?\nC. The night shift or the next shift?\nD. The"
+          ]
+        },
+        {
+          "prompt": "Grandma's old radio was still on the shelf when they",
+          "samples": [
+            " moved out. What do you do first?\n- I tell the kids to look for Grandma's radio.\n- I look for Grandma's radio.\n- I go to Grandma to get her radio.\n\nThe correct answer is: I look for Grandma's radio.",
+            " started looking for people to fix it. They asked Grandma if she could use it; she said, \"I don't know, but I'll see what I can find out. But first, I need to find out just how it is working. I'll send someone to take a look.\" They got a new",
+            " arrived. That means that the radio was:\n- A. Still on the shelf\n(B) About to fall off the shelf\n(C) Just left the shelf\n(D) In use.\nWe can also see from the words: was. That means that the radio was. So the answer is A.\nThe radio was",
+            " visited. They used to bring home the radio every Saturday morning and set it up right before dinner. The morning they had the radio on was always the same day, except for Friday. What day of the week was Friday?\n\nWe need to find the day of the week for Friday given the description. The key is that"
+          ]
+        },
+        {
+          "prompt": "The ship's captain stepped onto the deck and looked at",
+          "samples": [
+            " the charts and read the weather reports. He decided that he would go to the port in the afternoon and there he will see the ship and its moored in the harbor for about two hours. The ship arrived on the coast at 3 p.m. and I was about to leave the port. The ship then stopped",
+            " the map in his hands. \"We must go south.\" He thought about the map and the direction it pointed to the nearest harbor. The crew nodded and prepared to set sail.\n\nMeanwhile, on the ship's bridge, the navigator adjusted the compass and confirmed the heading. \"South is correct, Captain. We have",
+            " the crew of the ship and said, \"I have a new course and I am in control of it now.\" The crew replied, \"But sir, who is in control of you?\" The Captain replied, \"Me, I am in control of me.\" The crew then replied, \"You're right, sir.",
+            " the captain's log to see what was the latest entry. He saw that the morning log was just that. There was nothing in the morning log. The ship's log was left open in the middle of the page, and the ship's lookout was entering data into it. The lookout had been writing down all"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "tc2_a",
+        "alpha": 0.5
+      },
+      "outputs": [
+        {
+          "prompt": "The bus stopped at the corner and a woman in a green coat got off.",
+          "samples": [
+            " She was late for her appointment, so she called the police station to report her mistake. However, the police did not help her. The police said that she had left the corner, so she had arrived at the correct place, and asked for the police officer to come back to inform her that the appointment had been missed",
+            " She was driving. The driver was an American. He was angry and said, \"I didn't give you my parking meter!\" The woman got out of the bus and saw the American driver. She got in her green coat and started driving. What did she do to the driver? (A) Hit him (B",
+            " She was late for the meeting. The bus manager said: \"Do you know why the bus stopped at the corner?\" The woman said: \"I don't know. In my life, I was on a bus that didn't stop at any corner. But I got off at the corner only once. The bus manager",
+            " She was late for the meeting. The driver saw her and said, \"I told her where the meeting was, but she missed it and got off at the corner.\" The woman said, \"That's impossible! I told her where the meeting was. She must have missed my instructions and went back home and came here"
+          ]
+        },
+        {
+          "prompt": "He poured himself a glass of water and sat down by the window.",
+          "samples": [
+            " He sipped the water and let it sit out on his tongue. When he swished it around, only a bit was left on his tongue. He tried to drink more. Again, only a bit left. He tried a third time, and again, only a bit left. He realized this was happening because he",
+            " He watched the light through the window. The light was bright and clear. He noticed how the light was moving. He saw the rays of light moving across the window. He recognized the rays of light. He thought about the rays of light. He looked at the rays. He saw them all. He knew that the",
+            " He felt the cool glass against his tongue. He took a sip and felt the water was very cold. He took another sip. He felt that the water was extremely cold. He took another sip. He felt that the water was extremely cold. He took another sip. He felt that the water was very cold! He",
+            " He was very sad!  He was very thirsty and he was sad in the middle of the evening!\nPlease help him!  He needs to drink water!  Can you help him please?  He needs the water from the window!  Please help him!\nTranslate the following paragraph to Chinese: He poured"
+          ]
+        },
+        {
+          "prompt": "The museum was nearly empty on Tuesday morning when Lena",
+          "samples": [
+            " Aronson, director of the museum's children's program, stepped in to help lead the first visitor. She had been busy for a week getting rid of an old exhibit, and hadn't yet decided if the children's program was worth continuing. The museum's children's director, Mark Cody, said Lena had",
+            " decided to fill it in.\nBoth sentences mean that Lena went to the museum and filled it up.\nSentence 1:\n\"The museum was nearly empty on Tuesday morning when Lena decided to fill it in.\"\nThe subject of the main clause is \"The museum.\" The main verb is \"was nearly empty.\" The clause",
+            " arrived. Lena was determined to see as much as possible. She got in line and watched for a long time before she was called to the front. How long is the museum open? The museum was nearly empty on Tuesday morning when Lena arrived. Lena was determined to see as much as possible. She got",
+            " Smith, a 25-year-old intern for the museum, came in. She was there to look at the exhibits. Lena had been chosen to be the first intern at the museum because the management of the museum's director, who was 95 years old, was unable to do the job properly.\nWhat was the"
+          ]
+        },
+        {
+          "prompt": "After dinner, the two brothers went out to the barn and",
+          "samples": [
+            " spent all the time there. They talked and fought, but finally a solution was found. The same night, the two brothers went to the city and met a famous professor. They showed him all the problems they had, and the professor said: \"You have to make a move. Now go to the city and take",
+            " picked out some hay for their horses. There were 3 horses in the barn and each horse had 3 different types of hay. The first brother took all the hay of one type for one horse, and the second brother took all the hay of another type for another horse. How many different types of hay is there",
+            " caught a bull. They ate the meat of the bull, and then went back home, and put their families overboard. How they do this?\n \nAfter dinner, the two brothers went out to the barn and caught a bull. They ate the meat of the bull, and then went back home, and put their",
+            " found a strange old man. 'Are you the one you think I'm? I can see you're a bit of an old man, but I'm not afraid of your appearance.'\nThe old man looked upset and turned around to talk to the two brothers. 'I'm the one you think I am. I was"
+          ]
+        },
+        {
+          "prompt": "The librarian looked up from her desk as the door opened, and",
+          "samples": [
+            " a man entered and called to \"Please ask for the library reference card. I need it for my student.\" The librarian searched her records and found a student with a \"D\" on his report card. She then found that the student had been expelled last year and was now working as a waitress, having found",
+            " in walked in the customer who had been claiming for a long time. The customer immediately demanded to speak to the manager, which was the librarian's supervisor. The manager, on the other hand, did not want any questions about the customer. The customer, who had been waiting for a long time, demanded to speak",
+            " a man entered. She greeted him with a warm smile, \"Good afternoon! I am Ms. Johnson. What can I help you with today?\" The man bowed his head and said, \"I am sorry to bother you. I am looking for a book about space exploration. I will be returning to a",
+            " an old man walked in. He was a little overthirty and looked as though he could have walked out at any time. He asked if there was anything I could help you with.\nHe pointed to the table, and said, \"Is this where you want this letter sent?\"\nThe librarian raised an eyebrow and"
+          ]
+        },
+        {
+          "prompt": "Sam parked the truck at the end of the gravel road and",
+          "samples": [
+            " drove straight to the destination on the gravel road and got the car.\nSam park the truck at the end of the gravel road and drove straight to the destination on the gravel road and got the car.  Also Sam parked the car at the end of the road and drove straight to the destination and got the car.",
+            " got out. He saw the first sign of the park, park, and he went in. Sam did not go inside the park, because he saw the second sign, park. he went in and saw the third sign park. He is now inside the park. Explain.\nSam parked his truck at the end of",
+            " left at the beginning of the road. Sam must have gone the long way around to get home. What is the shape of the driveway? The answer is at the end of \"The shape of the driveway\" is a word that is a pun: Sam parked at the end of a driveway and left at the beginning",
+            " looked at it. Now he saw it had been moved.\nThen he saw the truck had been moved to the lake shore.\nNow he looked at it and saw. The lake shore and the truck.\nSo it is easy to understand.\nNow he looked at it and saw. The lake shore had been moved to the lake"
+          ]
+        },
+        {
+          "prompt": "The hotel lobby smelled of polished wood. Behind the counter,",
+          "samples": [
+            " some people were moving around a lot. There were employees taking orders and making reservations. In the past, employees didn't take orders. Now they do. The lobby had more people in it. There were many more visitors than before. The lobby was always smelling of polished wood and food. The employees were not moving",
+            " a large television played with a loud noise. The hotel's name was The Blue Room. The lobby was full of guests who were visiting \"The Blue Room\". A man was sitting on the couch. He was wearing a black t-shirt and a blue pants. He looked unhappy. The man was looking out the glass doors",
+            " a man in a suit looked at the keys, then at the guest list, and then at the lobby. The lobby was empty, but there was no security guard. So the man in the suit, who had just paid the hotel for the keys, put the keys on the guest list, so that whoever bought these",
+            " a man stood and said, 'You\u2019re in the wrong department.' Behind the reception desk, a woman stood and said, 'You\u2019re in the wrong room.' At the front of the lobby, a child stood and said, 'You\u2019re in the wrong hotel.' \n\nWhere was the child standing? At the front"
+          ]
+        },
+        {
+          "prompt": "She was halfway through packing the boxes when she found",
+          "samples": [
+            " the note inside her suitcase. The note said: \"All boxes can be opened by anyone. You must not open them before Monday. Please be careful; there will be something buried in the boxes. - An Invisible Cat\"\n\nWhat happened next is up to you.\n\nOption A: She opened the first box before",
+            " a letter in the middle of one and started to unwrap it. Her brother had been in the war and he had lost a lot of people and he had a letter in the middle of one of the boxes. She had an aunt who was the only one left to see him. She opened the letter and saw that it",
+            " one of the bags empty. When she opened the empty bag, she saw a letter inside that said she was leaving a significant amount of money under investigation. The money was supposed to be transferred from the empty bag. The letter also had instructions on how to process the transfer. Without this letter, nothing else could occur.",
+            " the letters, but before she could close them she saw the security guard. He had the letters, and knew she was going to get them. The guard was waiting in the corner and said he was going to let her go, but only if she did the right thing. He then told her that the letters were the"
+          ]
+        },
+        {
+          "prompt": "The fishing boat came back into the bay just before noon.",
+          "samples": [
+            " The fishing boat was spotted just a few miles out at sea by the Coast Guard earlier in the afternoon. If the fishing boat went at a constant speed of 15 knots for the whole trip, how far away from shore was the fishing boat for the 15 minutes the Coast Guard spotted it?\nLeave your final answer as",
+            " It was\n  10 yards from the shore at noon. If it travels at a constant speed\n  of 14 yards per minute, how far will it be from shore at 3 PM?\n \nEnter your answer in the format:\n  [number of yards]\n  [direction: north, south, east",
+            " The crew wanted to fish at the top of the wind tunnel. There were two pumps and one fan in the tunnel and the turbine. The wind tunnel has as much as one pump could move the air per second, and the fan was able to move the air per second and the turbine was able to move the same amount",
+            " The beach had not been visited for two days. At the beach there were still 3 fishermen and 4 turtles. One of the fishermen, Tom, had gone to sea and left. The rest of the fishermen had gone to sea and also left. Now, no one ate on the beach.\n\nTom says that he"
+          ]
+        },
+        {
+          "prompt": "On the third day of the trip, they reached the mountain hut and",
+          "samples": [
+            " stayed there for three nights. On the fourth day of the trip, they left the mountain hut, climbed down the mountain, and returned to their starting point. How far was the mountain hut from their starting point? (Assume that they walk at the same speed on every day.)\nWe need to find the distance",
+            " then took off to the nearby village, and when the mountain hut and the village were visited during the second and the first days of the trip, they only had to visit the mountain hut during the first day and the village during the third day. If \"going to the mountain hut\" takes 1 day",
+            " then continued on ahead. Also, three days after starting the trip, they reached the mountain hut.\n1. How far did they travel on the second day before they passed the mountain hut on the third day?\n2. How long were they traveling on the fourth day (the day after they passed the mountain h",
+            " paid the hutkeeper. However, they lost their hats, and they had to buy new ones at the next huts. As they left the previous\nhuts, they had to pay each hutkeeper an amount equal to their respective hats. Let's say they bought each new hat for 2 dollars ("
+          ]
+        },
+        {
+          "prompt": "The bakery opened at seven, and the first customer",
+          "samples": [
+            " came at seven. The second customer came at seven. The third customer came at seven. The first customer bought one chocolate chip cookie and the second customer bought two chocolate chip cookies. The second customer bought two chocolate chip cookies. The third customer bought two chocolate chip cookies. And finally, the third customer paid for all the",
+            " went to seven. The second customer also went to seven. The third customer still went to seven. I went to the bakery on 7th street, but I was not 7. I asked for the 7-dollar bill, but there was no 7-dollar bill. I found 4-d",
+            " came at half past three. At what time did the bakery close?\nThe year is not given to solve this problem.\nTo solve this problem, we need to find the difference between the opening time and the closing time. However, the closing time is not provided in the question. Therefore, we cannot solve the problem",
+            " of the day arrived at nine. Who opened the bakery?\nA. 2\nB. 3\nC. 7\nD. 8\nExplanation: The bakery opened at 7 AM, but the first customer arrived at 9 AM. This means that the baker left at 7"
+          ]
+        },
+        {
+          "prompt": "Peter knocked twice on the neighbor's door and waited.",
+          "samples": [
+            " The neighbor said nothing. Peter knocked three times on the neighbor's door and waited. The neighbor said nothing. Peter knocked four times on the neighbor's door and waited. The neighbor said nothing. This process continues until Peter knocks 100 times on the neighbor's door and waits. On the 100th time",
+            " When he knocked the second time, the neighbor answered the first time and let him in. Then, Peter knocked again and let the neighbor in, and then knocked one more time. The neighbor, who was initially let in by Peter, then noticed that he had been let in by Peter twice. He noticed that he had",
+            " When the neighbor answered, she told him he had been to her house before. Peter asked the neighbor when the last time he visited was. The neighbor said she had last visited him on the seven-thousandth day of her life. Peter asked the neighbor how many days are in a year. The neighbor said she",
+            " The neighbor opened it for him. Peter then knocked again, but the neighbor did not open it this time. Peter is now sure that the neighbor is a liar, and he wants to know whether Peter has been tricked or not. He knows that the neighbor either always tells the truth or always lies. He also"
+          ]
+        },
+        {
+          "prompt": "The garden behind the house was overgrown, and Rosa",
+          "samples": [
+            "'s friends helped her clear it. Rosa's dad said, \"I saw you doing this! You have to learn a proper garden! I'll give you my orchard if you promise to do it properly!\"\nRosa said, \"I will give you my orchard! But only if you promise that I will keep",
+            " decided to clean it up. She started by removing all the weeds. After applying a powerful herbicide, she could no longer see any weed, no matter how much she swept or mowed. She was confused. She realized that the weeds were in the soil, and her herbicide only killed the weed cells, but",
+            " decided to put flowers there. Rosa bought 5 types of flowers: red, yellow, blue, green, and purple. She put 3 of the flowers in one bed. In each bed, she chose 3 colors and planted one flower of each color in the bed. She has 2 beds. Each bed",
+            " knew there had to be something to do. She used all of her savings to buy a shovel, a rake, some seeds, and a hose. She brought them to the garden one day, dug the overgrown area and planted it. However, the flowers and vegetables did not grow.\nRosa was"
+          ]
+        },
+        {
+          "prompt": "The night shift at the hospital began at eleven. Daniel",
+          "samples": [
+            " arrived at 10:30 PM, so he had to wait 30 minutes to enter. At 11 PM, Dr. Smith arrived, but he was held at the front for 20 minutes. Then, at 11:20 PM, Dr. Smith finally entered the hospital. Whoever arrived after that would",
+            " was assigned to the night shift. Who was working at the hospital at 11 p.m.?\n\nA) The day shift at the hospital\nB) The night shift at the hospital\nC) The nurse at the hospital\nD) The doctor at the hospital\n\nLet me think about this step by step.\n\nFirst",
+            ", a patient, woke up at 6 am. The nurse told him that his shift was starting in two hours. How much time was it that it took Daniel to reach the hospital? The choices were:\n- 4 am\n- 7 am\n- 12 pm\n- 6 pm\n-",
+            " arrived at twenty-one. The next day, the night shift started at eleven and Daniel arrived at twenty-one. How much did Daniel sleep? Options: (1) 1 hour (2) 2 hours (3) 3 hours (4) 4 hours.\n \nTo solve this problem, let's break"
+          ]
+        },
+        {
+          "prompt": "Grandma's old radio was still on the shelf when they",
+          "samples": [
+            " moved out. What do you do first?\n- I tell the kids to look for Grandma's radio.\n- I look for Grandma's radio.\n- I go to Grandma to get her radio.\n\nThe correct answer is: I look for Grandma's radio.",
+            " moved in. They moved in last year. What was happening? In other words, who had the radio going on when they moved in.\n\nSo, Grandma's son and Grandma had the old radio going on it. They moved in last year. But when the son and daughter moved in first, they moved them",
+            " found the body. The first one under the house was shot. The second one was shot. The third one was cut. The fourth one was cut. The fifth one was cut. The sixth, seventh, and eighth were shot. The ninth was cut. Grandma's grandson is 12. They found nine of",
+            " got to the door. She had forgotten about it. He pushed the door open and looked inside. It was on the shelf.\nIn front of the radio was a small note. \"Please\" it was written. He read it. He didn't know what he was supposed to do. He went to the wall and"
+          ]
+        },
+        {
+          "prompt": "The ship's captain stepped onto the deck and looked at",
+          "samples": [
+            " the charts and read the chart of the sun. The sun was above the ship. The sun was west. The sun was in the west. The sun was at the west side of the deck. The ship is moving westward. The ship is moving to the west. There is a lot of redundancy in the",
+            " the map and recognized the location of the shipwreck. He thought about the details and realized that it was not the ship he was looking for. He turned to his crew and explained his findings. The ship's crew was hesitant at first but after he showed them the map and explained the situation, they agreed to",
+            " the crew of the ship and said, \"I have a new plot. I will capture one of your crew members and give him to a foreign country.\"\nAfter a few seconds, a crew member stood up and said, \"I will do it for you.\"\nThe next day, the captain asked the crew member to come",
+            " the captain's log to see what was the latest entry. He saw that the latest entry was written that no one was alive. The captain was in fear and he wanted to go to the helm. The helm's position was the last one listed in the log. He went over to the helm and there"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "tc2_a",
+        "alpha": 1.0
+      },
+      "outputs": [
+        {
+          "prompt": "The bus stopped at the corner and a woman in a green coat got off.",
+          "samples": [
+            " She was going to do something, but the bus was too far to go by herself. So she asked for directions. The bus driver said: \"I don't know where you are going. I can only take you to Birmingham and to Loughborough. Where are you going to?\"\nThe woman answered: \"To",
+            " She was driving. So who had the right of way? \nThe right of way was held by a police officer because the woman was a runaway driver.\nThe two statements: (i) There was a bus that stopped at the corner and the woman in the green coat got off the bus. (ii) She",
+            " The next bus did not stop at the corner and the next woman in a red coat got off. What are the two women?\nThe two women are members of two different clubs. The first woman is a member of the Green Club, and the second woman is a member of the Red Club. The reason she got off",
+            " She was driving. Why? The woman who was driving was in a green coat. She wanted to rob the bus driver. So she had the green coat. She was actually in a blue coat and had robbed the bus driver with a knife. She put on the green coat and she was wearing the blue coat inside"
+          ]
+        },
+        {
+          "prompt": "He poured himself a glass of water and sat down by the window.",
+          "samples": [
+            " He wanted to see how much water was on the ground. He poured water over and over until he was only a very small puddle. There was water on the ground.\n\nHe poured himself a glass of water and sat down by the window. He wanted to see how much water was on the ground. He poured water",
+            " He watched all the people go by. He did not recognize them. He did not see who was on the left or who was on the right, or who was walking up or down. So he became scared and he left the window.\nNow he looked around and saw a single person. He saw they were facing the",
+            " He felt the cool glass of water hitting the bottom of the glass, and he felt the bottom of the glass move upwards. What was he doing? (Hint: What is the name of the device that moves in a liquid when it hits it, but does not stop after hitting? )\n\nHint: The device was invented",
+            " He was very sad!  He was very thirsty and he was sad in the middle of the evening!\nPlease help him!  He needs to save himself from dehydration and from being sad!\n    He wants to get some water from somewhere and he needs to hurry because the situation might get more urgent soon.\nHow can"
+          ]
+        },
+        {
+          "prompt": "The museum was nearly empty on Tuesday morning when Lena",
+          "samples": [
+            " Aronson, director of the museum, entered. Lena told the staff that the museum had been robbed and that the stolen items were being given away for free to the public. The staff didn't believe her. The museum had been robbed, and the stolen items were being given away for free. How many",
+            ", a famous 12-year-old prankster, broke into the main exhibition hall and forced the guard to sign a document declaring her as the owner of the art. By the time the guard was arrested, the art was already gone and it was found that Lena had stolen the art of a famous painter who had",
+            " arrived. Lena was determined to open the museum tomorrow morning. She got a job at the museum. Lena was the first employee at the museum and she was fired the next day. The museum was nearly empty on Wednesday morning. Lena was fired, and the museum was closed. The museum was nearly empty on",
+            " Smith, a 25-year-old female American, entered the museum. The museum was not prepared for a female visitor. Lena Smith said this. The museum's owner said when he looked into the file, he found out that the file was prepared for Lena Smith's father, Lena's father. So when"
+          ]
+        },
+        {
+          "prompt": "After dinner, the two brothers went out to the barn and",
+          "samples": [
+            " spent all the time there. They talked and fought, but finally a solution was found. The same night, the two brothers went to the city and met a famous police inspector. After all of that, they went back to the barn. Then they divided the treasure in a different way. Who got the most treasure?",
+            " saw that the barn was broken open and they saw both of their spouses had been raped. As the two brothers were talking, they said:\n- \"We saw our spouses were raped inside the barn. The first brother to enter the barn was the rapist and the second brother to enter the barn was",
+            " found that one of them had stolen meat from the family fridge. The police came and found the truth. The police came to the barn (barn) and found the truth. \nBut there is no barn in India. The brothers found the meat in their refrigerator. They were caught and found out who is not the",
+            " found a strange situation. There were 3 rats and 2 humans in the barn. This situation is shown in the figure.\nFirst, the two humans enter the barn and kill the 3 rats.\nThen, the two humans go out of the barn, and at the same time, 2 rats enter the barn"
+          ]
+        },
+        {
+          "prompt": "The librarian looked up from her desk as the door opened, and",
+          "samples": [
+            " a man entered and called for the librarian. He demanded she give him the copy of \"The Man in the High Castle\" that was on the shelves.\nThe librarian, being sensible, didn't give the man the book herself. She returned to her desk and gave the man a copy of \"The Man in",
+            " in walked in the customer: \"Can I get a new copy of the book 'The War of the Worlds' by H.G. Wells?\" She raised her hand and explained that she has never seen or bought any books by that name. The customer asked what she wanted to read. The librarian said she wants",
+            " a man entered. She was aware that this man had been asked for at the counter to retrieve a book. As he was approaching the counter, she felt a sudden urge to call the FBI and arrest him. But she remembered she had already written the book in question, so she knew it was an impersonation case",
+            " an old man walked in. He was a big man and he had a white mustache and a long black beard. He had a black suit and a black tie with no pocket square. The librarian turned to him and said, \"Sir, you can't be here. You don't have a library card.\""
+          ]
+        },
+        {
+          "prompt": "Sam parked the truck at the end of the gravel road and",
+          "samples": [
+            " drove straight to the\nfront of the gravel road. The front of the road was a dirt road. Sam\nspent 6 hours driving on the dirt road.\na) What is the possible distance\nSam traveled on the dirt road?\nb) What is the probability\nSam traveled on the dirt road?\nc",
+            " got it out of the way. He found a dirt pile of dirt and covered the pile of dirt with sand. He got the dirt pile of dirt and covered it with sand. \nNow Sam is standing there. \nThe dirt pile of dirt is now completely sand. \nSam is now standing there. \n- How",
+            " left at the beginning of the road. He must have broken the road or the truck is still there, because there is no sign.\nSam had broken the road. The truck is broken, not Sam.\nLog\nThe man put a log\nLogs are broken and the man put a log\nThe man broke the",
+            " saw that car A was already on it. So, Sam can just drive the truck over and leave it there. As a result, car B, which was driving over and then collided with car A, now drives car B to the end of the gravel road and gets caught by Sam. So now Sam can just"
+          ]
+        },
+        {
+          "prompt": "The hotel lobby smelled of polished wood. Behind the counter,",
+          "samples": [
+            " some people were selling overpriced hotel rooms; but the other hotel employees were selling some things. The employees selling the things were trying to make it an international hotel. They have a lot of money and many people are going to come into the hotel, so they want the hotel to make international. They need to be",
+            " a large glass case with a lock was on the floor. The lobby manager, a woman named Elena, was sweating. Elena remembered visiting \"The Blackwood Estate,\" a remote estate full of hidden rooms. Elena was looking for a room to use as a safe for her boss's money. The lobby was filled with people",
+            " a man in a suit looked at the lobby, saw it smelled of polished wood, and said, \"Goodbye, hotel, I'm going to another hotel.\" So the hotel called for both the lobby and the lobby. The hotel lobby smelled of polished wood. Why did the lobby smell of polished wood and",
+            " a man stood and said: \"You\u2019re in the wrong lobby.\" Behind the counter, a woman stood and said: \"You\u2019re in the wrong department. You\u2019ve been misdirected to the wrong location.\" The lobby manager, who was listening to the hotel\u2019s intercom, was in the middle of a meeting"
+          ]
+        },
+        {
+          "prompt": "She was halfway through packing the boxes when she found",
+          "samples": [
+            " the note inside her suitcase. The note said: \"You are on trial for the murder of Dr. Caine. The defense will try to show that you are his son. You must prove that you are innocent.\"\n\nAt that moment, she was arrested and taken to interrogation. During the interrogation,",
+            " a letter in the middle of one of the boxes; she had to hurry and pack the rest of the boxes first since she was about to lose the letter.\nShe was halfway through packing the boxes when she found a letter in the middle of one of the boxes. She had to hurry and pack the rest of the boxes",
+            " out the truth about herself. She realized that the \"truth\" was not about her identity, but about her actions. She was a criminal. Despite this, she was willing to take responsibility and go to prison.\n\nTwo days later, she was arrested and sentenced to 20 years in prison. She was given one",
+            " the letters, but before she could close them she saw the security guard. He had the letters, and knew she was going to get them. The police arrived and arrested her. The last thing she saw was the security guard, holding the letters. She didn't move. He told her he had already arrested her.\n\n"
+          ]
+        },
+        {
+          "prompt": "The fishing boat came back into the bay just before noon.",
+          "samples": [
+            " The fishing boat was spotted just before noon in a small fishing boat. The boat was caught by the fishermen who were going to close down the harbor. The harbor was close to the fishing boat. The fishermen who had the boat were trying to close the harbor. The harbor was closed down by the fishing boat just before noon",
+            " It was\n  3.5 miles off an island. It was carrying a fisherman who\n  had been captured by the islanders' group of pirates. The\n  group had been planning to kill the crew of the boat and\n  eat them up. He must have been a very good pirate.",
+            " The crew wanted to know how much money they had left. The crew counted the money and found there were $5,000 left. So, the fishing boat is dead.\nThis is called the \"Monty Hall problem\" in probability. The problem is based on the \"game show\" \"Let's Make a Deal",
+            " The captain had lost his map and wanted to find out where the fish were. He knew that the fish were in the middle of the bay. By using the wind direction and speed, how far would the boat have to travel from the bay to find the fish?\nThe speed of the wind was 20 m/s and"
+          ]
+        },
+        {
+          "prompt": "On the third day of the trip, they reached the mountain hut and",
+          "samples": [
+            " stayed there for three days. On the third day of the third trip, they reached the mountain hut and stayed there for three days. On the third day of the fourth trip, they reached the mountain hut and stayed there for three days. The hut is on the mountain. The hut is on the",
+            " then took off to the nearby village, and when the mountain hut and the nearby village were destroyed they went to the village on the third day of the trip. Please help him to prove it.\nThe first sentence states that during the trip, on the third day, they reached the mountain hut and then took off",
+            " found 10 people. Also, one person was left at the mountain hut. Thus, they left each person in the mountain hut a number of stones, and in total they were left with 1000 stones. Then they went on to the next mountain hut and found that there were 20 people.",
+            " paid the hut $100.  The total amount of money lost including the hut is $1000. The amount of money lost on the second day is 10% of the hut's price. The amount of money lost on the first day is 10% of the second day's loss plus "
+          ]
+        },
+        {
+          "prompt": "The bakery opened at seven, and the first customer",
+          "samples": [
+            " came at seven. The second customer came at seven. The third customer came at seven. The first customer bought one loaf of bread and left. The second customer bought one loaf of bread and left. The third customer bought one loaf of bread and left. And the first customer went back to the bakery",
+            " arrived at six. Thus, the first customer was late. The second customer arrived at seven-fifteen. Thus, the second customer was late. The third customer arrived at six-thirty. Thus, the third customer was late. The fifth customer arrived at six. Thus, the fifth customer was late. The sixth",
+            " came at half past three. At what time did the bakery open?\nThe year is not important to the problem, but it gives a clue. The time difference between seven and half past four is three and a half hours. \nHow did you get this? Well, 7pm is 19:00.",
+            " of the day arrived at nine. Who opened the bakery?\nA. 2\nB. 3\nC. 7\nD. 8\nExplanation:\nThe problem is essentially asking: If a bakery opened at 7 o'clock and the first customer arrived at 9 o'clock, what is"
+          ]
+        },
+        {
+          "prompt": "Peter knocked twice on the neighbor's door and waited.",
+          "samples": [
+            " The neighbor said nothing. Peter knocked three times on the neighbor's door and waited. The neighbor said nothing. Peter knocked four times on the neighbor's door and waited. The neighbor said nothing. This process continues until Peter knocks 100 times on the neighbor's door and waits. On the 100th time",
+            " When he knocked the second time, the neighbor opened the door and let him in. Peter asked for the keys to the neighbor's house. After Peter got the keys, he left the house and immediately went back and knocked on the door again. The neighbor let him in, and Peter asked for the keys again. The",
+            " When the neighbor answered, she told him that Peter had knocked two times, he had knocked the neighbor's door out 2 times.\nPeter said he knocked first and was out of office when the neighbor came and asked him. So, Peter knocked 2 times without the neighbor coming to answer. The neighbor asked him who",
+            " The neighbor said he would not let him in unless he knocked twice more. Peter went to the neighbor's house and knocked. The neighbor said he would not let him in unless he knocked twice more. Peter went to the neighbor's house and knocked. It kept repeating. Eventually, Peter knocked a very large number of times"
+          ]
+        },
+        {
+          "prompt": "The garden behind the house was overgrown, and Rosa",
+          "samples": [
+            "'s friends helped her clear it. Rosa's dad said, \"I saw the keys to the garden when I was a kid! I was there with my mates, and I was looking for my mate to help us get the keys back to me or to see who was there with me. I saw the keys and",
+            " decided to clear it. She needed to know in which spots of the garden she was going to have to plant. Rosa knew that her land was divided into 5x5 grid: every grid cell was a square whose side was one unit. Rosa wants to plant the garden, but she knows that she won't be",
+            " decided to put her favorite plants (sunflowers, marigolds, and zinnias) in it. She had to make sure that no two adjacent plants were the same. So, all the plants that are planted in the garden must be different from those next to them. For example, if we plant a mar",
+            " knew there had to be something to do about the lack of weeds being removed. She thought she could probably fix it herself if she had enough time and money. She started getting weed killer and also hired a professional to remove the weeds. But, it was too late. The weeds had already grown in the garden. How"
+          ]
+        },
+        {
+          "prompt": "The night shift at the hospital began at eleven. Daniel",
+          "samples": [
+            " and Jamie were assigned to the night shift. They were in charge of the emergency room. The night shift was in danger. To save the whole hospital, Daniel and Jamie made a plan. The first step was to save the computer in the emergency room. They did this and then they went to the hallway to find out",
+            " was assigned to the night shift. Who is working at the hospital? (Assume that there are two people working at the hospital: one on the night shift and one on the day shift.)\nThe night shift is the shift that starts at 11 PM (or 23:00). The day shift is the shift that",
+            ", a patient, arrived just after midnight and was taken to the emergency room. He was in the emergency room until six a.m. He was discharged at nine a.m. The night shift was staffed by three medical doctors. Each doctor was in the emergency room from nine a.m. to six p.m. The",
+            " arrived at twenty-one. There are three events that occur between that time and the night shift, and he has to wait for all of them to occur before he can get into the hospital. What is the order of these three events? Note that the time at which these three events occur are between 11 and 21"
+          ]
+        },
+        {
+          "prompt": "Grandma's old radio was still on the shelf when they",
+          "samples": [
+            " moved out. When they moved out, they found the radio still on the shelf. They found out their grandma had left it on the shelf as a prank. Grandma's curse? That's the answer.\nWho says no? There's only one who stops the curse: YOU!\nThis is the story about",
+            " discovered that she had been alive since 1943. They searched her house, found many items and objects, but couldn't find her body. They were to find out who the person was but they were given no clue. They searched every object in her house. They searched every item in her house. After searching every",
+            " found the money in the box under under the house. When they found the money, they called the police and the police came to the grandma's house and asked them to identify the owner of the box under the house. Grandma's husband was in the police station. The police went to grandma's house and",
+            " got him. Grandpa is getting him. So he is going to be dead? \"Grand\" means \"father\" or \"earl\". \"Grandpa\" means \"father of the father\" or \"great-grandfather\". So \"Grandma\" is \"Great-great-grandmother\". He's going to be"
+          ]
+        },
+        {
+          "prompt": "The ship's captain stepped onto the deck and looked at",
+          "samples": [
+            " the charts and realized that he was the captain of the ship, and therefore the captain must have been the one who steered the ship. So he must have been the captain of the ship that was under threat of sinking. He must have been on the deck of a ship named __________. The question asks for the name",
+            " the map and recognized the location of the enemy ship. The enemy ship was located at the coordinates (12, 19). The ship was at the coordinates (36, 37). Determine the shortest distance between the ship and the enemy ship. You can use the distance formula:\n\nDistance = sqrt[(x2 - x",
+            " the ship's log. He noticed the following:\n1. The ship's log shows no entries for the last 8 days.\n2. He also noticed that the log already states, \"The Captain is on board the ship.\"\n3. The log says something like, \"In 8 days, the captain will die",
+            " the captain's log and realized that the ship was making a 6 degree angle with the north. The captain of the ship realized that the ship is heading into the north west. Who is the ship's captain? Please give the name of the ship's captain.\n\nFirst, let's reason through the situation:\n\n- The"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "tc2_rand",
+        "alpha": 1.0
+      },
+      "outputs": [
+        {
+          "prompt": "The bus stopped at the corner and a woman in a green coat got off.",
+          "samples": [
+            " She was late for her appointment, so she went back to the corner and found the bus. At that point she got out and walked the long way home. The next day she saw the woman getting off the bus at the corner and asked her, \"Sorry I was late for my appointment!\" The woman smiled and",
+            " She was driving to a hotel nearby. But her car was full of luggage. She realized that she had lost her tickets for the train. So she wanted to catch the next train. She went to the ticket office and got a new ticket. But when the train arrived, she saw that it was already full of",
+            " On the way back she passed the corner and the driver stopped the bus. The woman saw the driver's badge and recognized him as her husband. What is the husband's name?  \nA. John  \nB. Mary  \nC. Tom  \nD. Jack\nOptions: A. John, B. Mary, C",
+            " She was late for the meeting. The driver was not in a hurry. The bus was slow. What was the woman wearing around her neck?  \nA) A scarf  \nB) A hat  \nC) A scarf and a hat  \n\nD) None of the above  \n\n  \nExplanation:  \nWe need to"
+          ]
+        },
+        {
+          "prompt": "He poured himself a glass of water and sat down by the window.",
+          "samples": [
+            " He sipped the water and let the warmth spread over his face. When he looked out at the garden, he saw flowers blooming, the roses standing tall, and the lilies swaying gently in the breeze.\nHe smiled and went outside. He waved at people walking by and greeted the children who were",
+            " He watched the light of the sun cross the sky and make the shadows on the grass lengthen and shorten. He took a deep breath and thought, \u201cTomorrow I will go back to work.\u201d\n \nHe thought about the work he had done the day before. He had helped the elderly woman across the street. He",
+            " The warm morning air filled the house. The sunlight streamed through the curtains onto the table. He watched the garden, where the rows of flowers were blooming in the evening\u2019s golden light. He felt a sense of peace and contentment, reflecting on his day. The birds began to sing, and the world",
+            " He was very relaxed. He thought about his plans for today. He was in the kitchen, making tea in a tiny pot. A little girl went to him and said, \"I want to see you.\" He smiled. \"Sure, sweetie.\" He sat there for a little while and then stood up. \""
+          ]
+        },
+        {
+          "prompt": "The museum was nearly empty on Tuesday morning when Lena",
+          "samples": [
+            " arrived. The guard told her the entry had been reserved for her three hours. The museum had been closed for days since the roof was damaged. Lena said she had visited last year and came to see an important exhibit. What might the guard\u2019s message mean?\nThe key is in the phrase \"three hours\" and",
+            " decided to spend 3 hours reading on the history of the museum. At 1 p.m. Lena went home, and her sister took the car and drove to the museum. At 2 p.m. their friend visited the museum and spent 1.5 hours there. How many hours did Lena spend",
+            " arrived.  She had been planning to visit for a month, but a storm had delayed her flight.  The museum was closed for construction, so Lena took a bus to get there.  She saw a few exhibits hanging in the hallway, but they looked outdated.  Lena decided to stay and watch the",
+            " Smith, a 28-year-old graphic designer from Austin, Texas, walked past the entrance carrying a large, oversized notebook. She said the exhibit she found inside was about a forgotten city of 200,000 people, and it showed what would become a new era for the world. Lena had not seen the"
+          ]
+        },
+        {
+          "prompt": "After dinner, the two brothers went out to the barn and",
+          "samples": [
+            " let the dogs play. While the dogs were sleeping, the brothers went to the barn to pick up their chickens. After they finished cleaning up the chickens, they went back to the house and had dinner. As they had their dinner, the dogs started to bark loudly.\nThe two brothers were surprised. They had been",
+            " picked out some hay for their horses. John bought 3 extra bags of hay and was thrilled because he was able to grow his own grassland like a true farmer. Maria bought 5 extra bags of hay and was even more thrilled than John! However, neither brother is very skilled at growing grassland and",
+            " caught deer. When they returned home, they ate the deer. How much did they eat in total?\n\n- Brother 1 caught x deer and ate x/2.\n- Brother 2 caught y deer and ate y/2.\n\nTherefore,\n\nx/2 + y/2 = total deer eaten.\n\nSolve:\n\nx",
+            " found a broken old plow. They both thought that it was a gift from their mother. And then they asked to see its owner, but everyone in the village did not want to talk with them.\nBut finally, one of their brothers got in, took the plow, and started driving it. He said,"
+          ]
+        },
+        {
+          "prompt": "The librarian looked up from her desk as the door opened, and",
+          "samples": [
+            " a man entered and walked to the front of the desk. He paused and took a breath before sitting down. \"Good afternoon,\" he said warmly. \"I was looking forward to meeting you.\" The librarian smiled and gestured to the front desk. \"Come on in and get comfortable,\" she said. \"",
+            " in walked in the students: Ben, Mia, and Leo. Ben was already at his desk, and Leo was at another place, and Mia was in the hallway. The librarian was surprised to find them all in one room. She had just finished her rounds and thought she had left them there. The",
+            " in walked in a man, who was the head of the department of science. He knew the subject perfectly, and he was very interested to talk about it with her. The librarian was curious as to what he was talking about, and she decided to explain what she was doing. \n\nAs the head of the department",
+            " her friend walked in. They had been friends for years. This was a new year. They had not seen each other in a while. There was a letter from the mayor on the counter. The mayor had been elected this year. He had said he would be president for two years, but as a baby in the"
+          ]
+        },
+        {
+          "prompt": "Sam parked the truck at the end of the gravel road and",
+          "samples": [
+            " drove to the end of the gravel road. Then he turned the truck around and drove back to the end of the gravel road. Then he turned the truck around again and drove to the end of the gravel road. After the three times, he got out of the truck and climbed onto the roof and made a speech.",
+            " got out and walked up the gravel road. 2 minutes later, Sam walked down the gravel road and got out and walked back to the end of the gravel road. 4 minutes later, Sam walked up the gravel road and got out and walked down the gravel road. 6 minutes later, Sam walked up the",
+            " left at the beginning of the road. he must have gone the long way around to get home. so he is looking for a new road.\n \nThe equation h = 4 + 3r/2\nThe variable h is the length of the road in miles, and the variable r is the difference between the",
+            " looked at it in the driveway and it was covered in sand. Sam realized that he needed more sand to drive the truck. Sam looked at the sand pile and saw that he didn't have enough sand. Sam decided to go to the store to buy more sand. On his way to the store, he saw Daisy"
+          ]
+        },
+        {
+          "prompt": "The hotel lobby smelled of polished wood. Behind the counter,",
+          "samples": [
+            " some people were reading over tea, listening to music on a speaker, or simply resting their hands on the rail. In the lobby area, a large group of friends was laughing together, but they were all wearing mismatched shoes. The woman in the corner was walking her dog slowly, and the dog kept pulling out of",
+            " a large television played with soft, blue light. A barista was making coffee, and the pastries were being frosted and placed on the counter. The lobby was bright with many windows, and a glass water dispenser was sitting on the counter. The lobby was quiet except for the barista's humming. The",
+            " a barista was grinning at the register, his hands moving with the speed and fluency of a pianist whose fingers had been trained since childhood. The barista's reflection in the polished wood counter was nearly as handsome as the man in front of it, the boyish charm of 17 years old with an innocent",
+            " a man stood and gestured to the room in front. He said, \"My wife would have liked this room. I went to his home last week. He was sick. I could have gone to him, but I was too busy. I told him I was going to the lobby for dinner, but he said"
+          ]
+        },
+        {
+          "prompt": "She was halfway through packing the boxes when she found",
+          "samples": [
+            " the note inside her suitcase. The note was addressed to her, and she opened it to find it dated the day before she left the city for the job. The note said: \"The job is over in 3 days. Come to the meeting at 6pm in the old library. We need you to",
+            " a letter in the middle of one and started to unwrap it. Her brother had been planning to give her a trip to Europe, but he never actually went. She wrote the letter to herself and decided that she would have to earn this trip herself. When she finished packing, she felt a sense of fulfillment. She was",
+            " her own suitcase at the bottom.\nShe was a bit surprised that her own suitcase was at the bottom.\nShe found her suitcase under the bed.\nShe had packed her belongings from the bottom of the suitcase. She was surprised that there was no note in her suitcase. She had forgotten to write",
+            " the letters, but before she could close them she saw the photograph of her father. She remembered telling her story to her mother, but I think she forgot. She felt guilty for not remembering how much she had said.\n\nIn the same room, she heard her mother call her name. Her mother sat on the couch,"
+          ]
+        },
+        {
+          "prompt": "The fishing boat came back into the bay just before noon.",
+          "samples": [
+            " The fishing boat was spotted at the pier about a quarter of an hour earlier. They were caught together. \nPlease Help me solve this puzzle.\nThis is a puzzle about a boat and a pier. Let's break it down.\nThe fishing boat came back into the bay just before noon. That means the boat arrived at",
+            " It was a bright sunny day, and she caught an old wicker basket of fish. She landed the fish of the day, which were all pink trout. The boat's crew had been trying to find the perfect spot to fish all season, but nothing seemed to work. They tried at dawn, midday, and",
+            " The crew had fished for seven hours, including one hour in the wind and one hour in a period of rain and fog. Assuming that the boat could not have fished during the rain and fog, how many hours did the crew spend fishing in clear weather?\nThe \"fishing\" time includes those seven hours.\n",
+            " The beach had not been as crowded as usual because the fishing boat had not been so crowded. Who had left the boat?\nI think it is a puzzle. Let's read and solve. The text says \"The fishing boat came back into the bay just before noon. The beach had not been as crowded as usual because"
+          ]
+        },
+        {
+          "prompt": "On the third day of the trip, they reached the mountain hut and",
+          "samples": [
+            " stayed for two nights.\nOn the second day, they went down the mountain trail and arrived at the village.\nEach night they slept in an inn.\nIn the morning they went back on the trail to the mountain hut and stayed there again.\nOn the fourth day they went down the mountain trail and arrived at the village",
+            " then took off toward the nearby village, passing the waterfall. When they passed by the village, they discovered the house of their uncle. Therefore, how far was the mountain hut from the village? To solve this problem, we can use the following steps:\n\n1. Let the distance from the mountain hut to",
+            " stored the trip's expenses on the door. If each of the five children was allowed to take one door each, that means there are five doors and five trips, so in total there are 25 doors. In the last two days, each child went into the mountain hut and had to sleep. By how much",
+            " slept there for 18 hours. If they woke up at 7 a.m., they would have arrived at the mountain hut 18 hours before\n7 a.m., which is 1 a.m. The last day of their trip, they traveled to the airport and got out of the plane at 12"
+          ]
+        },
+        {
+          "prompt": "The bakery opened at seven, and the first customer",
+          "samples": [
+            " came at seven thirty. The second customer came ten minutes later than the first. The third customer came fifteen minutes after the second. The fourth customer came twenty minutes after the third. The fifth customer came thirty minutes after the fourth. The sixth customer came forty minutes after the fifth. The seventh customer came fifty minutes after the",
+            " went to the shop to buy a loaf of bread. The second customer came to buy some cookies. The third customer came to buy a pie. The fourth customer went to buy a cake. The fifth customer came to buy a muffin. The sixth customer came to buy a donut. The seventh customer came to",
+            " came at half past three. At what hour did the bakery open?\nThe year is not important to the problem, but it gives a clue about the time. The word \"half\" means one half of something whole, like one half of an hour or one half of a minute.\nThe clue about the word \"",
+            " of the day arrived at nine. Who was the second customer to arrive?\n\nThe second customer was the baker.\n\nThis is a classic riddle that plays on the word \"the\" and the sequence of events. Let's break it down step by step.\n\n1. The bakery opened at seven. This implies that"
+          ]
+        },
+        {
+          "prompt": "Peter knocked twice on the neighbor's door and waited.",
+          "samples": [
+            " The neighbor said nothing. In that case, he said that he was awake, and he had no problem leaving. Therefore, Peter won the bet. What kind of argument did Peter make?\nA. He said that it was not wise to wait and leave. B. He said that he was not wrong to use a",
+            " When he knocked the third time, the neighbor answered the door and let him in. Peter asked for a glass of water. He asked again, and then again, and then again. Finally, the neighbor handed him a glass of water. Peter thanked the neighbor for the water. \nHow many times did Peter knock",
+            " When the neighbor answered, she told him he was not a good neighbor. He did not like this response, so he knocked again and asked why he was not a good neighbor. The neighbor said, \"You were just being rude.\" He knocked one more time and said, \"I am sorry for this. I just",
+            " The neighbor opened it for him. Peter then knocked again, but the neighbor didn't open it this time. Peter realized he had used the strategy of knocking and waiting. He then knocked again and waited. This time the neighbor opened the door for him. Explain how Peter used the strategy of knocking and waiting"
+          ]
+        },
+        {
+          "prompt": "The garden behind the house was overgrown, and Rosa",
+          "samples": [
+            "'s friends helped her clear it. Rosa's dad planted some carrots and lettuce, but he forgot to bring out the garlic. On the first day, Rosa picked their vegetables. On the second day, she picked the garlic that her father planted. The question is: How much did she pick?\n\nRosa picked:\n-",
+            " loved nothing more than spending time in it. The trees were tangled, and the bushes were full of weeds, but the flowers dared not be cut, so she decided to get all these plants back. To put the flowers back, she needed to know where all the seeds were. She found the big seed bag and",
+            " decided to put her favorite flowers (sunflowers, marigolds, and lilies) there. She planted them with great care. One day, the wind blew strongly and scattered the flowers all over the ground. Rosa was worried and saw that most of the flowers were lying on the dirt and sand. She decided to",
+            " decided to clean it. First, she shoveled the weeds with the rake, then she turned the soil and planted some seeds. After a few days, she saw that the grass was growing, but the plants were a bit too tall. So she decided to prune them and adjust the heights. Finally,"
+          ]
+        },
+        {
+          "prompt": "The night shift at the hospital began at eleven. Daniel",
+          "samples": [
+            " stopped to go to the bathroom and missed the last part of his shift. He did not catch the incoming patient in the OR. He was about to start to get his shift done when the night shift ended and he was asked to go to work on the day shift. He was able to find the day shift nurse waiting",
+            " set off at eight, but after 22 hours he was still at the hospital. After 19 hours, he had to go home to his parents. How far did he travel?\n\nWe need to find the distance traveled by Daniel. He set off at 8 o'clock and after 22 hours he was still at",
+            ", who worked the day shift, began his day at eight. If Daniel stayed at the hospital for 8 hours, he would have reached his 8 o'clock shift. When did Daniel arrive at the hospital?\n\nLet:\n- $t$ = the time Daniel arrived at the hospital (in hours before 11,",
+            " arrived at eleven but was told that the night shift started at twelve. He stayed until five, and the day shift started at five o'clock the next day.\nIf Daniel was off for eight hours, how many minutes does it take him to get from the hospital to his home?\n \nI have not been able to derive"
+          ]
+        },
+        {
+          "prompt": "Grandma's old radio was still on the shelf when they",
+          "samples": [
+            " moved out. What do you do first?\n- I would take the old radio out of the shelf and put it on the table.\n- I would put the old radio on the table and take it out of the shelf.\n- The old radio was still on the shelf when they moved out, so I would just take",
+            " started looking for people to fix it. They had forgotten about it long ago, thinking that one day it would be fixed by itself or maybe by a neighbor, maybe by the postman.\nSo they sent someone to check it just now.\nThe problem is that they do not have a model of the radio. They only",
+            " arrived. That means that the radio was:\n- A. Still on the shelf\n(B) About to fall off the shelf\n(C) Just left the shelf\n(D) Just fallen off the shelf\n(E) Coming off the shelf\n\nGrandma's old radio was still on the shelf when they arrived. The question",
+            " visited. They used to watch the old radio show on Saturday mornings. But one day, it stopped. The show wasn't on anymore. Grandma was sad. They said the problem was the batteries. So they bought new ones. Now the radio works again. They can watch the show. It was the"
+          ]
+        },
+        {
+          "prompt": "The ship's captain stepped onto the deck and looked at",
+          "samples": [
+            " the charts and read the weather reports. He decided that he would go to the harbor in the afternoon and there he would put the ship on dry moor.\n\nAt the harbor, the crew went to the boats and tied the ship to a dock. The captain decided to go into his cabin and have a meal.\n\nIn",
+            " the map in his hands. \"We must go south.\" He thought about the map and the direction it pointed. He decided to sail south along the coast, avoiding the storm.\n\nHe had been on the ship for a long time. It had been a few weeks since he left the harbor. The sea had been rough",
+            " the crew of the ship and said, \"I have a new course and I am in control of it now, and my vessel is a floating fortress.\"\nThe crew said, \"Wow, that's a new idea, but maybe it's a bit too aggressive for now.\"\nThe captain stepped onto the bridge and looked out",
+            " the captain's log to see what was the latest entry. He saw that the captain of the ship that had just entered the docks was the captain of the \"Mystery Ship\" and that the current weather at sea was a high wind coming from the east.\nThe captain of the \"Mystery Ship\""
+          ]
+        }
+      ]
+    }
+  ],
+  "ok": true,
+  "pass": 3,
+  "passes_left": 12,
+  "secs": 530.4,
+  "load_in_kernel": "gens(3)"
+}

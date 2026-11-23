@@ -1,0 +1,34 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "The neighbours had been arguing over the fence for weeks when",
+    "I came home from school to find my mother in the garden, and",
+    "The mayor stepped up to the microphone and",
+    "Snow covered the cemetery road as the bus",
+    "Tom put down his coffee cup and",
+    "The hospital waiting room was nearly empty when",
+    "Her sister arrived at the funeral wearing",
+    "The old piano in the hallway had not been tuned in years, so"
+  ],
+  "samples": 8,
+  "max_tokens": 80,
+  "temperature": 0.8,
+  "seed": 0,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "pg_v3",
+      "alpha": 0.5
+    },
+    {
+      "dial": "pg_v3",
+      "alpha": 0.75
+    },
+    {
+      "dial": "pg_v3",
+      "alpha": 1.0
+    }
+  ]
+}

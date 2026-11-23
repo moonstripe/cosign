@@ -1,0 +1,15 @@
+{
+  "run": "lush-plain",
+  "model": "LiquidAI/LFM3-1.7B",
+  "budget": 15,
+  "used": 5,
+  "kernel_runs": 8,
+  "candidates": [
+    "lp_a",
+    "lp_b",
+    "lp_rand",
+    "lp_rand_b"
+  ],
+  "submitted": [],
+  "updated": "2026-11-22T18:40:49"
+}

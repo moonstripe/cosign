@@ -1,0 +1,34 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "She opened the letter at the kitchen table and",
+    "My father picked me up from the airport and",
+    "The rain had not stopped for three days when Maria finally",
+    "He found the old sweater in the back of the closet and",
+    "At the end of the shift, the waitress counted her tips and",
+    "The baby woke at four in the morning, and",
+    "Tom walked into the meeting room, sat down, and",
+    "When the letter from the bank arrived, he"
+  ],
+  "samples": 8,
+  "max_tokens": 80,
+  "temperature": 0.8,
+  "seed": 7,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "tc_v1",
+      "alpha": 0.5
+    },
+    {
+      "dial": "tc_v1",
+      "alpha": 1.0
+    },
+    {
+      "dial": "tc_rand",
+      "alpha": 1.0
+    }
+  ]
+}

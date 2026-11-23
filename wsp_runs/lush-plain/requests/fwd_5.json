@@ -1,0 +1,34 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "The landlord knocked twice and",
+    "After the exam, Tom walked to the bakery and",
+    "The ferry left the harbour at dawn, and",
+    "She found her father's watch in a drawer and",
+    "The new teacher wrote her name on the board and",
+    "In the morning the farmer went out to the barn and",
+    "The two friends met at the cinema and",
+    "When the power went out, the family"
+  ],
+  "samples": 8,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 23,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "lp_b",
+      "alpha": 0.5
+    },
+    {
+      "dial": "lp_b",
+      "alpha": 1.0
+    },
+    {
+      "dial": "lp_rand_b",
+      "alpha": 1.0
+    }
+  ]
+}

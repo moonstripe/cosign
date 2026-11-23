@@ -1,0 +1,34 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "The bus stopped outside the school and",
+    "He put the kettle on, sat down at the table, and",
+    "The two brothers drove north for most of the day, and",
+    "She came home from work to find the door unlocked and",
+    "The village had one road, one shop and",
+    "At the end of the pier, the old man",
+    "The meeting ran late, so she",
+    "They buried the dog under the apple tree and"
+  ],
+  "samples": 8,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 11,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "lp_a",
+      "alpha": 0.5
+    },
+    {
+      "dial": "lp_a",
+      "alpha": 1.0
+    },
+    {
+      "dial": "lp_rand",
+      "alpha": 1.0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nShe opened the letter at the kitchen table and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nThe train pulled into the station a little after six, and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nHe walked down to the river after dinner and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nThe old house at the end of the road had been empty for years, and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nWhen the storm finally passed, the two of them stepped outside and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nMy grandmother kept a garden behind the church, and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nThe market was already busy when we arrived, and",
+    "From a novel. The prose here is lush, ornate and sensory, every sentence dense with rich imagery:\n\nHe unlocked the shop, switched on the lights, and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nShe opened the letter at the kitchen table and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nThe train pulled into the station a little after six, and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nHe walked down to the river after dinner and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nThe old house at the end of the road had been empty for years, and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nWhen the storm finally passed, the two of them stepped outside and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nMy grandmother kept a garden behind the church, and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nThe market was already busy when we arrived, and",
+    "From a novel. The prose here is plain, spare and literal, every sentence short and matter-of-fact:\n\nHe unlocked the shop, switched on the lights, and"
+  ],
+  "samples": 16,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 0,
+  "settings": [
+    {
+      "dial": null
+    }
+  ]
+}

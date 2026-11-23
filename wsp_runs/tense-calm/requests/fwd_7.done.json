@@ -1,0 +1,618 @@
+{
+  "kind": "generate",
+  "note": "same seeds across settings: sample i of each setting is paired",
+  "results": [
+    {
+      "setting": {
+        "dial": null
+      },
+      "outputs": [
+        {
+          "prompt": "Maria parked the car outside her parents' house and",
+          "samples": [
+            " watched them walk to the store, and her mom's boyfriend, Toby. Toby was wearing a baseball cap. The two parked the car outside the house and watched the parents and Toby walk to the store. Her mom asked who was walking toward the store. Maria answered that she was walking. Then her",
+            " went for a walk. The road was in good condition and there was no traffic. However, after a few minutes she saw a man with a large dog barking loudly and she was scared. Then she saw a woman with a large dog who calmly approached her. She asked, \"Please excuse me, I",
+            " she noticed the driveway was covered in white paint. She went to the hardware store and bought a new paint gun. At the hardware store, Mr. Smith, the store manager, was standing by the register. Maria went up to talk to him and demanded the paint gun. Mr. Smith said that the paint gun was",
+            " observed them leaving for the airport. To save time, she started walking home at the same time her parents did. They all reached the airport at the same time. At what time did Maria begin walking home?\n\nLet\u2019s denote:\n\n- Let \\( t \\) be the time (in hours) when Maria starts walking home.\n"
+          ]
+        },
+        {
+          "prompt": "The new teacher walked into the classroom for the first time, and",
+          "samples": [
+            " saw fifty one students sitting at their desks, and fifty students waiting for the bell to ring. The teacher began by asking \u201cHow many children are in this class?\u201d The students raised their hands to give an answer.\nThe teacher said, \"Fifty-one.\"\nHe continued to say, \u201cNow if you all",
+            " his students were surprised by the new girl. The new teacher turned to the girl and said, \"You might like math. It is hard, but if you stay focused, you can do well.\" The girl thought about it and said, \"Okay, I will try.\" Then the girls went to their homework. \n\n",
+            " she felt nervous and anxious. She was a very young woman of about twenty years old and very fresh. That day she was hired to teach a class of 30 students of middle school. The 30 students were from the same village. So, she was very surprised by the school atmosphere. The teacher could not find",
+            " saw the students sitting at their desks.\nThe new teacher walked into the classroom for the first time, and saw the students sitting at their desks. Which of the following is more likely to be true about this new teacher? Select one.\na. The new teacher was used to sitting at the desk.\nb."
+          ]
+        },
+        {
+          "prompt": "On Saturday morning, Daniel went down to the market to",
+          "samples": [
+            " buy some fruit for his family. He purchased half a bag of apples, a cup of oranges, and two bags of bananas. The total weight of the items he bought was 4.5 kg. It is also known that each bag of bananas weighs 1.2 kg, each cup of oranges weighs 0",
+            " buy vegetables.  He found 30 kg of apples and 20 kg of oranges at the market.  He put them in a basket and he bought 2 kg of each apple and oranges on the same day.  He carried the basket on his head and it fell and he tipped it over.  The",
+            " buy his favorite chocolate chip cookies and some sugar. He found two shops selling cookies: one called \"Cookies\" and the other \"Cake\" (which is a bit of a pun on cake and cookies). To decide which one to buy from, he looked at the prices and decided that the shop \"Cookies",
+            " buy some potatoes. He bought 3 kilograms of potatoes. He used 2 kilograms of them to make 2 slices of 3 potatoes, and then he used the remaining 1 kilogram of potatoes to make 3 slices of 2 potatoes. How many slices of 3 potatoes and 2 potatoes"
+          ]
+        },
+        {
+          "prompt": "The old lighthouse keeper climbed the stairs one evening and",
+          "samples": [
+            " counted all the steps. He noted that the bottom step was step number 0. He counted 500 steps and noted that the topmost step was step number 500. Since he climbed all the steps from 0 to 500, he found that the total number of steps was 501. Can you explain this",
+            " returned to the top. On the next day, the sea was calm, and he was not in the lighthouse and saw an abandoned ship adrift in the ocean. On the following day, it rained heavily, and he was no longer on the stairs, but he was in a different building, and he saw the",
+            " noticed that one of the windows was broken. He decided to fix it by painting it with a mix of paint and water. However, the next day, he found that the paint was too thin and no longer adhered well to the glass. He tried again, but this time used a thicker mixture and it worked.",
+            " found a letter. The letter read: \"Dear Keeper, I have been watching you. I hope I can stay. Sincerely, Your Friend, The Mysterious Stranger\". The keeper thought about this and decided to go home and write a reply. He wrote: \"Dear Stranger, I am"
+          ]
+        },
+        {
+          "prompt": "When the package arrived, Ellen carried it inside and",
+          "samples": [
+            " closed the door and called the neighbors to ask them to look out for her. When the neighbors heard her call, they came over and opened the window and let in the cold winter wind. What do we know for certain about the neighbors?\n\nA. They looked outside and saw the cold wind.\n\nB. They looked outside",
+            " placed it on the coffee table. The morning after she carried the package inside, Ellen took it out and carried it to the coffee place, which had a large window overlooking the street. Before Ellen went to the coffee place, she saw a man on the street and thought to herself, \"I should see him.",
+            " checked the contents. She noticed that inside the package were several items for students. One item was a bag of ice for the classroom. Another was a set of art supplies. The third item was a book about space exploration. Ellen put the book on the shelf, and the rest stayed in the bag. Later, a",
+            " opened the package. She put the package on the table and took out the item and opened it. She put the item on the table. There was a small dog with a bone. There was a small bird with a seed. The dog had 3 bones. The bird had 4 seeds. \n\n1. How"
+          ]
+        },
+        {
+          "prompt": "The two friends set out along the mountain trail just as",
+          "samples": [
+            " the sun was rising in the east. They walked for 15 minutes, then the sun began to set and they walked for 6 hours more. When the sun set they were 3 miles away from the starting point. How far did each friend travel?\n\nLet \\( x \\) be the distance the first friend traveled before",
+            " the sun was rising, and after 10 minutes they had covered half the distance to their destination. In how many minutes will they arrive at their destination?\n\nLet's solve this step by step.\n\n1. **Initial Speed**: Let the initial speed of the friends be \\( v \\) (distance per minute).\n2. **",
+            " dawn broke a few hours ago. He is certain he will get to the summit if he continues. However, there is a caveat: If he continues at the same pace, he will run into a ravine and have to take a detour that takes him 15 minutes longer. So he must travel faster than",
+            " the sun was setting. The first friend walked to an abandoned lookout and back down the mountain trail. The second friend walked up the mountain trail, crossed the ridge just below the abandoned lookout, and then down to the abandoned lookout. Both friends reached the abandoned lookout at about the same time. After reaching"
+          ]
+        },
+        {
+          "prompt": "The restaurant was busy that night, and the young waiter",
+          "samples": [
+            " lost track of time. He forgot to wash his hands and accidentally spilled a latte onto the floor of the back room. The manager, upset, fined him $100 and sent him to the back room to clean it up and pay the fine. There he sat in his shirt and tie, staring at the floor",
+            ", Sam, was eager to prove himself. He had just finished his shift at the bookstore and arrived at the restaurant clutching a tray of dishes. He wanted to show off his skills and see if the chef would let him help. The manager, however, had already assigned others to the tables. Sam felt",
+            " had to explain the situation to the head chef. The young waiter had just finished his shift, had just been paid, and was eager to go home to his parents and his room in the city. He wanted to go to his room quickly, and just as he was about to do so, the door to his",
+            " was nervous about making a good impression on the family.\n\nIn the following passage, the subject of the sentence or sentences (also known as the predicate) is (a) the one doing the action (verb), (b) the one being acted upon by the action (patient of the verb), (c) the action"
+          ]
+        },
+        {
+          "prompt": "He sat in the waiting room at the airport, watching",
+          "samples": [
+            " the terminal screen blinking.\nHis first trip of work was at a local bar.\nHe was a bar in a town that had just stopped running.\nHe sat in a room that had no doors.\nHe sat in a room that had no windows.\nHe was in a place that had no people.\nHe was in a",
+            " the passengers through the window. He was bored and anxious for the flight he had been looking forward to for weeks. Finally, he saw a plane taking off from the tarmac. He jumped and saw it was going to the city. To him, it was the one place he had been looking forward to seeing. He",
+            " planes take off and land, and then finally, upon arriving at the airport, he sat on a bench near the entrance while waiting for a flight. Later, after he had boarded the plane and received his boarding pass, he had gone to the airport restroom to use the restroom. On his way to the",
+            " the plane depart. He had missed his flight to New York. However, he had stayed at the hotel in Chicago, which was 8 hours' drive from the airport. The train to Chicago was delayed by one hour. He also missed his train. He got late, and then the bus to the train was cancelled"
+          ]
+        },
+        {
+          "prompt": "The snow had been falling since dawn when",
+          "samples": [
+            " the snowflakes piled up on the ground, and the windows of the mansion were filled with snow. The snow had been falling since dawn when it had been raining all night. As the snowflakes piled up on the ground and blocked out the sunlight, the trees lost their green leaves. After the",
+            " I woke to the cry of the hatter. The snow was cold and wet. I went outside and looked around and saw that the hatter was there with a bundle of snow. He was trying to pull himself up off the snow. I could see his legs not moving and his head stuck in the snow.",
+            " the first snowman was discovered near the old park. The children began to come home and collect their snowman. The parents watched them and smiled as the snowman stood proudly on the lawn. The day was perfect for a snow day. The children ran outside in their warm coats and spent hours playing in the snow",
+            " he saw a group of children playing near the old oak tree. The last ray of sunlight was breaking through the clouds, casting a golden glow over the snow-covered ground. He had been walking home from the market and was heading back to his apartment on Maple Street. As he walked, he noticed the sky changing from"
+          ]
+        },
+        {
+          "prompt": "At the end of the long day, the nurse finally",
+          "samples": [
+            " gets some sleep. She feels very tired from the previous night's shift. As she lies in bed, she thinks about the day's events. The nurse is exhausted but tries to relax and take a deep breath. She goes to sleep, feeling even more tired. What happened the night before the nurse went to work?",
+            " gets her rest and feels refreshed, ready to rest and recharge for tomorrow. What is the main idea of the paragraph?\nA. The nurse gets her rest and recharge for tomorrow\nB. The nurse is tired and needs rest\nC. The nurse is happy to go to sleep\nD. The nurse is tired",
+            " gets to go home. She drives home in a comfortable car and stops at her daughter's house. Her daughter wakes up, sees her mother and, happy, calls her. On the first day of school, the nurse's daughter gets ready to go to school. The nurse's daughter is very excited, but she",
+            " gets to go home and relax. She stops by her car, gets out, and parks the car. She drives home and puts the car keys on the front seat and puts the keys in her pocket. She takes an evening walk to get fresh air. She sits on the porch and watches the sunset. At the end"
+          ]
+        },
+        {
+          "prompt": "The children were playing in the backyard while their father",
+          "samples": [
+            " was away at work. He had forgotten to put on his coat. The youngest child, Lily, saw her father and remembered him saying he was going out in the rain. She quickly went to his coat rack, found his jacket, and put it on. Her brother, Max, was playing with his ball and didn",
+            " went to work. When their father returned from work, the children were carrying a large basket that had been filled with apples, oranges, and other fruits. What was the father doing when the children were playing in the backyard?\n\nA. Cutting the fruits  \nB. Collecting the fruits  \nC. Delivering",
+            " was going to the store. Suddenly, they heard a loud noise and saw someone run towards them. The father was looking through the window. He saw his daughter, Sarah, running to get the dog. \"Sarah, are you okay?\" he asked. Sarah looked back over the fence and ran inside to avoid",
+            " was in the garden. What could be the father's job?\nA. Farmer\nB. Chef\nC. Doctor\nD. Teacher\nTo answer this question, we need to consider the context given in the problem.\n\nThe problem states that \"the children were playing in the backyard while their father was in the garden"
+          ]
+        },
+        {
+          "prompt": "Rain tapped on the window as Julia opened her laptop and",
+          "samples": [
+            " began to write. The air was cool and fresh. Julia leaned forward and tapped her finger lightly on the keyboard. \"I think I should make a list of the things I need to do before my class starts.\" She began to type. The rain continued to fall outside and the window rattled ever so slightly.",
+            " sat down to code. She was in the midst of her weekly coding sprint. Julia always starts her coding sprint on a Friday night. On Friday\u2019s coding sprint, she always uses the laptop to solve algorithmic problems and to practice. She always stays up all night for the sprint. \nThere were 2 problems she",
+            " began typing.\nThe rain tapped on the window as Julia opened her laptop and began typing.\nJulia, a 24-year-old graduate student, was in a state of mind such that she was able to type faster than her usual speed. She had just discovered a way to increase her typing speed by using her environment",
+            " began typing notes into it. \"Good morning, I'm in a good mood today,\" she said.\nShe was the founder of the Green Leaf Publishing Company, which published a number of books about the environment and sustainability. One of her latest books was called \"Our Planet, Our Home,\" a book about the importance of"
+          ]
+        },
+        {
+          "prompt": "The fisherman pushed his boat out into the morning mist and",
+          "samples": [
+            " saw a small sailboat waiting below. This was no ordinary sailboat, however. He knew that this sailboat was carrying an important cargo. The fisherman knew he had to be careful so that it was not stolen. He was worried about the outcome of the whole journey. He did not want to lose his boat and",
+            " set off for the new fishing lake. The new fishing lake had much steeper waters and a lot of fish in the shallows. The land up along the lake was very flat and very green. The fisherman swam to the new fishing lake but he was not sure where to go; he didn't know if the",
+            " felt a sense of freedom. He hoped that the tide would bring him to his favorite fishing spot. He waded into the cold mist, which made him shiver, but he knew it was the only chance to catch the big catfish. He cast his line, and soon he was reeling in the catfish",
+            " saw the shore in his view. He saw the trees and the mountains and the waves. The sun was in his sight. The fisherman is a character in a story. What is the name of the fisherman? The fisherman is a common name, it might not have a specific name. In the story, it might be"
+          ]
+        },
+        {
+          "prompt": "Peter got off the subway one stop early and",
+          "samples": [
+            " walked to school. Mary got off the subway one stop late and rode her bike to school. The distance from the subway station to school is 6 km. How many minutes did Peter and Mary walk from the subway station to school?\nThe subway station and the school are the same distance, but Peter",
+            " she arrived one stop late. The subway between her and him has 10 stations. How many stations were between him and she?\nLet x be the number of stations between Peter and her.\nLet the distance between the two stations be 10 (in terms of stations).\nSince he got one stop early, and she",
+            " walked home through a crosswalk. He had to cross the street 4 times. Peter had to cross the street westbound 3 times and eastbound 1 time. Peter always walks westbound on sidewalks and eastbound on crosswalks. Peter\u2019s parents told him to never cross the street to move from",
+            " caught the train to the station. He boarded the train that came from the station five minutes early. He traveled for a total of 28 minutes. How long was the distance between the origin and the station?\nLet the distance between the origin and the station be \\( d \\) miles.\nThe subway ride takes "
+          ]
+        },
+        {
+          "prompt": "Late in the evening, the shopkeeper counted the till and",
+          "samples": [
+            " found that 4000 items were sold yesterday. If 4% of the items sold are shirts and 2% of the items sold are pants, and the rest are other items, and one shirt sells for Rs. 200, one pant for Rs. 100, and one other item for Rs. ",
+            " saw that there were 13 coins on the till. He counted them all again in the morning and found out that there were 17 coins on the till. He assumed that the night before, three coins fell from the till and disappeared.\n  \nSuppose there were originally 6 coins of each denomination. After the night",
+            " said, \u201cThere are 4,000 bills in this till. The bills are of Rs. 10, 20, 50 and 100.\u201d (1) I have a total sum of Rs. 10, 20, 50, 100. One of the bills is Rs. 100",
+            " checked that there were $20,000 in it. He saw that he had sold $14,000 worth of items earlier in the day. Since he had paid $20,000 in a week, he was a success and the month will be paid. He was relieved and went home. He sat on a park"
+          ]
+        },
+        {
+          "prompt": "The wedding guests gathered in the garden as",
+          "samples": [
+            " the sun set. One by one they walked to the reception, and were met by the guests of the bride. Among them, there was a man who sat alone, looking at the garden. The bride said, \"I hope you like your new home, I sent you a card.\" The man replied, \"I",
+            " the sun began to set. \"Thank you for coming,\" said the bride. \"We've had a long week.\" Her groom, the husband, stood beside her and said, \"No problem. I was also tired, but I'm glad you were here to celebrate.\" The guests cheered and took in the",
+            " the sun began to set and the sky turned an orange and pink hue. She invited everyone to dance and said, \"You cannot go to the ball without me. I am very happy if you go to the ball because it will be a special day for us and my family.\" \nHer friend agreed, saying, \"",
+            " the sun set, and the first notes of the \"Happy Wedding\" song began to play. The guests danced, laughed, and shared stories. As they talked, they noticed the flowers were in full bloom, and the sound of crickets filled the air. The host then began baking the first course: lemon"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "spread6",
+        "alpha": 0.5
+      },
+      "outputs": [
+        {
+          "prompt": "Maria parked the car outside her parents' house and",
+          "samples": [
+            " noticed that their 2-car trunk was open. The trunk of her car was only 2 inches smaller than their 2-car trunk. It was not easy to tell which trunk was which. Only if a car owner got in and put both hands on the handle of the trunk would he be sure that he is in",
+            " realized that it was already gone. She ran to the police station and reported the crime. The police found the car and arrested the owner. The car was stolen. \"I will never do this again\" said Maria. (What is the main idea of this passage?) Can you explain it? (Please explain in your",
+            " she tried to enter it. Her parents said \"no\" and won't let her in. The car was open and it drove right past her parents' house and they were gone. \nA question on this? \"A man drives a car to the bank and in the process, he drives right past the police station",
+            " observed them leaving. She noticed that when the car was outside, the distance between the car and the house was not zero. She noticed that each time she turned around, the distance between the car and the house was greater. When the car finally went inside, the distance between the car and the house was zero. She"
+          ]
+        },
+        {
+          "prompt": "The new teacher walked into the classroom for the first time, and",
+          "samples": [
+            " saw fifty one students sitting at their desks, and fifty four at the board, and fifty five behind the board.\nThe teacher looked around the room and saw fifty five students. He turned around to see himself and fifty four students in front of him. He counted fifty five students. He turned around and saw fifty two",
+            " his first words were: \"I have no idea what to do!\" The entire class looked at him, and then one by one they whispered to their neighbors: \"He's not a real teacher!\" The teacher thought for a moment, then said: \"You're right. I don't have any lesson plans. I",
+            " she felt uneasy. When she saw the grade books and noticed that several students had not been graded for many weeks, she felt more uneasy. The story continues in Chapter 2. What is the main idea of the story?  \nA. Teachers must be kind to students.  \nB. Teachers should not delay",
+            " saw the students sitting at their desks.\nShe stood up and looked around in disbelief.\nThen walked over to the front of the room and shouted, \"All done! All done! You are all done! You all are done! DONE! DONE! DONE! DONE! DONE!"
+          ]
+        },
+        {
+          "prompt": "On Saturday morning, Daniel went down to the market to",
+          "samples": [
+            " buy some fruit for his mother. He had to buy the apples for $2 and the bananas for $3. And the oranges were $4. He could not spend more than $10. He had to find the combination of apples, bananas, and oranges that cost less than or equal to $10. How many",
+            " buy vegetables.  He found 30 kg of apples and 20 kg of oranges at the market.  He put both apples and oranges in the same basket.  He found that he got 50 kg of fruits in the basket. How many apples and how many oranges are in the basket?\n\nLet x be the",
+            " buy his 2-liter detergent. He bought a 4.5-dollar bottle of soaps and a 3-dollar bottle of detergent. The second one was 1.5 dollars more than the first one. How much did he spend on the detergent?\n\nPlease reason step by step, and",
+            " buy a few pounds of sugar. He bought 5 pounds of sugar. He was supposed to pay 4 pounds for 1 pound of sugar. He found out that he didn't give the price. He was supposed to pay 4 pounds. He is supposed to pay 4 for 1 pound. So he"
+          ]
+        },
+        {
+          "prompt": "The old lighthouse keeper climbed the stairs one evening and",
+          "samples": [
+            " got stuck. He is on the top floor of the lighthouse and a railing will hold him up. He should climb down, he can't find the switch to stop the stairs or anything. How can he find the switch?\nThe switch is on the staircase.\nThe stairs have no switch. It is the same",
+            " kept to the roof for a long time, when the sea began to crash on the rocks below, he had to descend to safety. He was caught by a wave, and he could not climb. He was unable to get down. It was his last chance to reach the ground. I was not ready when he reached",
+            " found a note taped to the inside of the door. He was able to read it in time to reach the top before the storm. What was the note saying?\n\n- A: I've been locked away.\n- B: I found the coast road.\n- C: I found the treasure.\n\nHe is not able",
+            " found a letter. The letter read: \"Dear Keeper, I have been watching you. I hope I can get in. - The Keeper's Wife\" So the keeper wanted to know if the letter was a threat or an invitation, etc. How would he find out?\nThe keeper can try"
+          ]
+        },
+        {
+          "prompt": "When the package arrived, Ellen carried it inside and",
+          "samples": [
+            " closed the door and called the neighbors.\nEllen had made a noise and called them to check for danger. She closed the door and went outside.\n1. What is happening in the story? \n2. What is the real reason for the danger? \n3. Ellen called the neighbors because she heard a noise.",
+            " put it in the bottom shelf drawer.\nWhen the package arrived, Tom carried it inside and put it on top of the shelves.\nWhen the package arrived, Frank carried it inside and placed it in the middle drawer.\nWrite a sentence for each. Use the given words and all blanks. Keep the capitalization.\nI",
+            " checked the contents. She noticed a small envelope attached to the package, but the label said \u201cEllen\u2019s package \u2013 please do not open.\u201d She felt a sudden chill run down her spine. She realized she must have sent someone else something. She looked around the building for clues. \n\nThe front door was locked.",
+            " opened the box. When the box was opened, Ellen carried it outside. When Ellen carried it outside, she dropped it on the ground. There are five important questions:\n1. Is the door open or closed?\n2. Where is it? On the ground? Inside? Outside?\n3. What happened to the box"
+          ]
+        },
+        {
+          "prompt": "The two friends set out along the mountain trail just as",
+          "samples": [
+            " the sun was rising, so that they would have to climb before noon. They would each have to climb for one hour.  If they set out at noon, they would not have to climb.  If they set out at 10:15 am, they would have to climb for one and a half hours.",
+            " the sun was rising, and they were going the same way for a certain period of time. In the first hour they were going back towards the trail. What is the time that they started from the base point?\n\n---\n\n**Solution:**\n\nLet the time taken be \\( T \\) hours.\n\n- In the first hour, both",
+            " dawn broke a few minutes ago. He is certain he will catch the badger if he does not reach the summit within the next ten minutes. He is at the bottom of the mountain, and he is facing the badger. The bad\nThe two friends set out along the mountain trail just as dawn broke a few",
+            " the sun was setting. The first friend had to turn back. The second friend had more time. The second friend went further up the mountain and, realizing that the sun was setting and was soon to set, he realized he had to turn back. What did the first friend do?\n\nWe are asked \"What did the"
+          ]
+        },
+        {
+          "prompt": "The restaurant was busy that night, and the young waiter",
+          "samples": [
+            " lost track of time. He quickly went from clearing the tables to flipping the dishes. In the end, he served a mess on the plates and had to redo it all. To make things up, he claimed he was just too drunk to think straight, so he ordered more of his food and more drinks. He told",
+            ", Sam, rushed to the front of the line to check if this was his shift. The head waiter, Mr. Davis, was still at the register and asked him if he is at the line. Sam said he was rushing to the front of the line to check if his shift was busy. Mr. Davis",
+            " had to move fast. He was told he had 5 minutes to prepare, and he had to get the order right or he would be fired. The waiter took off his pants, tied them, and put them in the bag. He knew he just had to get the food from the table to the bag and",
+            " was nervous about moving a table quickly without spilling any drinks.\nThe waiter was nervous, but he moved the table without spilling a drink.\nAny of the three statements could be true.\nA. B only\nB. A and C only\nC. A and B only\nD. None of the above"
+          ]
+        },
+        {
+          "prompt": "He sat in the waiting room at the airport, watching",
+          "samples": [
+            " the people going on and off. He was trying to figure out where he would go next. He realized that he should go back to the bus line. He had a bus that would take him to wherever he needed to go. He sat on the bus seat. The bus driver said stop. He stopped. \"Which",
+            " the passengers through the glass door. He started to wonder if he would ever have the opportunity to see her, because no matter how he tried to push her out of the way, the way left him was through the glass. He looked at the clock. The time was 9:15. Time would not be a",
+            " the tarmac people come and go.\nHe counted the hours. Each time a plane left, he counted the time again.\nWhen he stopped at the airport for the last time, he counted the time again.\nFinally, he counted the time again. Once more, this time for the very first time.\nAnd all this",
+            " the people, looking for the plane with an empty seat. I couldn't see the plane, I saw the empty seat, I screamed, there can be no more empty seats, it's a lie the pilot, it's a lie... I couldn't find the plane, I couldn't find the seat, the"
+          ]
+        },
+        {
+          "prompt": "The snow had been falling since dawn when",
+          "samples": [
+            " the snowflakes piled up on the roof of the church building. The church bell had been rung in the dead of night. All of it had been forgotten. Not a single soul had looked up. But on this particular night, the villagers had peered out from their doors with their eyes wide open and",
+            " I saw the first sign. I turned, and an old man was behind me, shivering. I looked around and realized there was no one else. I called out, but there was no answer. I started to follow him, and when I reached his house, I found him dead in the living room.",
+            " the first sound of clacking echoed through the house. Sarah was screaming and running from the house. The doors were not closing. Her husband was also screaming and he could not see his wife either. The door was already open. Sarah\u2019s husband could not see his wife. He was running from the open",
+            " he saw it. He tried to ignore it but could not. The last thing he wanted to do was to make a fuss. He could only see at all. The snow kept coming. He began to walk as fast as he could. The snow was deep. His feet slid. He couldn't turn back"
+          ]
+        },
+        {
+          "prompt": "At the end of the long day, the nurse finally",
+          "samples": [
+            " gets down to her feet. She is exhausted and the last of her energy. She is so tired, she can barely stand. She is so very, very tired. The nurse had been on her feet for hours. She is starting to cry. The last of her energy. She has no strength left. She must",
+            " made it to the hospital, where she needed to make the call. She had to make the call to Mr. Johnson. She had been worrying about him for a long time. He had been in the hospital for weeks; his condition was deteriorating. She had to go to him, have to make the call to",
+            " gets to the patient. The nurse is frantic. After the last time she had to do this, she would go and make sure the patient was right. This nurse is a very efficient nurse. She doesn't just jump to the patient. A very efficient nurse is quick and fast. The patient screams. The",
+            " gets to go home. After five hours of working with the patient, she goes to her car. She drives to the hospital parking lot. When she approaches the car and the patient's car, she recognizes the driver. The patient's car is full of belongings. The driver is out of breath and panicked."
+          ]
+        },
+        {
+          "prompt": "The children were playing in the backyard while their father",
+          "samples": [
+            " was away at work. He had forgotten to lock the gate. The children saw the father's car outside and thought someone had come and taken him away. They ran up to their mother and told her everything. Her heart was stopped. She found her son and he was crying. The father told them to go home.",
+            " went to work. They made out of two balls. The first one was a large ball that was connected by a string to a smaller ball. The two balls moved together and together with the string they spun around in a circle. Their mother heard the noise and called for them. The children screamed and the mother got",
+            " was going to the store. Suddenly, they heard a loud noise and saw someone run towards them. They turned and ran as fast as they could. By the time they got away, their father had already been there for ten minutes. The children looked at their hands and saw their fingers were still. They had been",
+            " was in the forest. What could be the father's location?\nA. The forest\nB. A park\nC. A house\nD. The field\nExplanation: The text states that the father was \"in the forest\" while the children were playing in the backyard. This directly indicates that the father's location"
+          ]
+        },
+        {
+          "prompt": "Rain tapped on the window as Julia opened her laptop and",
+          "samples": [
+            " saw there was nothing. \"Did you put on a...?\" she asked, \"the window open?\" She searched the laptop, but there was no video monitor. \"I can't find the picture... the camera was turned off.\" She frantically searched her phone, but the screen was on. \"I can",
+            " sat down on the bed, typing, tapping the screen, tapping her fingers. She heard the sound of the rain tapping on the window and she heard herself tapping the screen, tapping fingers, typing. She was in the middle of an exam! Panic. \nShe was so in the middle",
+            " typed in the code she was trying to write. The rain had stopped, but the window had not, and the window kept coming. The window stopped, but the rain kept on. \nA small bird sang outside the window, and Julia closed the door without a second thought. The door was closed. \nJul",
+            " began typing. \u201cIt\u2019s the best idea ever,\u201d she said.\nA quick glance at the screen, Julia was typing. It was the best idea ever. She must be right. I don\u2019t know what I\u2019m doing but I see it all over the windows around me, on the ceiling above me.\n\u201cWho"
+          ]
+        },
+        {
+          "prompt": "The fisherman pushed his boat out into the morning mist and",
+          "samples": [
+            " saw no boat. He thought he was alone, but he was surrounded by the choppy waves. He had tried to take off, but there was too much water. The mist was so thick it made him disoriented. A voice boomed from within the water\u2014\u201cWho is pushing?\u201d He realized his mistake",
+            " saw nothing. He pushed again and saw the fog gathering behind the boat, thick and white and like a wall. He tried to paddle, to see what was there. He was about to give up. But the next wave hit him. He pushed his boat harder. He felt the board. It was there.",
+            " felt a cold splash of the ocean. He was one of those rare fishermen who is always out of water. He saw the mist rising from the sea. He did not know what it meant. He pushed his boat further and further out. He saw waves crashing, rocks, and a shark. A shark!",
+            " saw the shore only a few hundred yards away. He had been working alone for days, no one else to call out to. He had seen a sign on the pier that said 'For Lease, 100 Meters.' Was it fraud? He was too scared to walk on the rocks. He was too lost."
+          ]
+        },
+        {
+          "prompt": "Peter got off the subway one stop early and",
+          "samples": [
+            " jumped off the platform at the same time the train jumped off his head. How did he escape?\n \nSource: Math is a weapon\n \nLet's think!\n \nThe subway is in India, maybe the word subway is an English word but I don't know about the Indian subway.\n \nIt doesn't",
+            " she arrived one stop late...\n \nI don't know who is who, but Peter got off the subway one stop early and she arrived one stop late.\nPeter and she lost a ticket.\n \nGiven that there were 200 tickets, how many does Peter or she lost?\n(Am I right that Peter is a",
+            " walked home. He started at 6:45 pm and walked 10 minutes. He walked for 25 minutes. He got off the subway at 6:55 and walked home and got there at 7:01 am. He walked 10 min. He started at 6:45 pm.\nHow",
+            " missed the train. Where was Peter?\nI know that to be off the subway one stop early he would have had to get on at the first platform.\nIf he missed the train, then the train was going from the second platform. So he missed the train leaving from the second platform. So he got on at"
+          ]
+        },
+        {
+          "prompt": "Late in the evening, the shopkeeper counted the till and",
+          "samples": [
+            " went to the office. He took his son, returned to the shop, and counted again. He found one more till and called another shopkeeper. He went to that shopkeeper, took his son again, returned to the shop, and counted again. He found again one more till and called another. It was like",
+            " saw twenty dollars in it. He turned the cash drawer and counted again. Now it had only five dollars. The shopkeeper had lost twenty-five dollars! How? His cash drawer always showed his money. What did he do? He must have lost all of them! He was a cheat! He had to have taken",
+            " said, \u201cThere are 4,000 notes in this till!\u201d\n    \u201cNo, I counted 10,000 notes! Where are the other 4,000 notes?\u201d\n    \u201cDon\u2019t tell you, let me count again. There are four thousand more notes. One, two, three, four\u2026!",
+            " found that there were $20,000 in cash. He called the police and went to the police station and demanded to know what was wrong. The police officer who answered the phone said, \"Sir, you have a lot of money. How much is it worth?\" To this did the shopkeeper say, \"It"
+          ]
+        },
+        {
+          "prompt": "The wedding guests gathered in the garden as",
+          "samples": [
+            " the sun began to set. In the guest\u2019s mind, he could still feel the cold night air and the silence of the empty room. He had not moved from the altar yet. He thought of the bride and groom who were walking slowly on the aisle. The wedding had been in three days. He thought of",
+            " the sun began to set. \"Thank you for coming,\" said the bride. \"We've had a long week.\" Her groom looked at his watch. \"It's just past one.\" The bride laughed. \"One hour!\" She turned to her best man. \"He's my last resort. He's a",
+            " the bride and groom stood in the center with the ring on the finger. They turned to face each other, took a step back a little, and began to walk towards each other. The bride took her hand to the groom's, and he took his, then they said, \"Let us walk to your",
+            " the bride walked with her husband away, the sound of the bride's heels on the ground echoing. The sound was like a footstep on the lawn, with a sharpness in the sound, like footsteps breaking the ground, like a bride's heels on the ground. The sound was like, he was running"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "spread6",
+        "alpha": 0.75
+      },
+      "outputs": [
+        {
+          "prompt": "Maria parked the car outside her parents' house and",
+          "samples": [
+            " noticed that their 2-car trunk was open. The trunk is 5m long and 1.5m wide. If Maria runs at a speed of 3m/s, how long does it take for her to run out of the trunk? Express your answer in seconds to the nearest tenth.\nWe need to",
+            " realized that it was already gone! She ran to the police station and called 911. She ran to the nearest police station and called 911. She called 911 and then ran to the nearest police station. She ran to the nearest police station and called 911. She called 911. She was still there",
+            " she tried to enter it. Her parents said \"no\" and won't let her in. The police came and they will take her car. What will Maria do? In this situation, the parents have the right to decide whether she can enter the house. The police will try to bring her car into the police station",
+            " it was in the \"B\" position. What was the \"A\" position?\n \n(Not sure how to approach this problem. I haven't learned anything about this.) \n\nLet me try again. This is a math problem? I'm not sure if this is even a math problem or a programming one. I"
+          ]
+        },
+        {
+          "prompt": "The new teacher walked into the classroom for the first time, and",
+          "samples": [
+            " saw fifty one students sitting at their desks, and fifty four desks. He was about five. Fifty six was the number of the teacher's desk. The students all knew that it was him, and they all knew he was coming. They all had to move. Five minutes they had to move. Ten",
+            " his first thought was: What is my class size? So he counted the desks and he counted the chairs. He counted the seats in front, behind and to the side. He counted again because he saw that he counted the wrong one. How many students is there in his class? Let's count too. He",
+            " she felt like an alien walking into a room of people she does not understand. She tried to read the faces, but they were all frozen expressions, nothing to go on. She was still in high school, yet she had no idea what to do. And now she got here, and she had to do something or",
+            " saw the students sitting in rows, facing the walls. They knew where the students would look, if they walked past them. The teacher had no idea what to do, and was terrified. What was she going to do? She looked at the students. She looked at the rows. She looked for a way in"
+          ]
+        },
+        {
+          "prompt": "On Saturday morning, Daniel went down to the market to",
+          "samples": [
+            " buy some fruit for his mother. He had to buy the apples for $2 and the bananas for $3. And the peaches for $6. The total cost was $13. How many of each kind of fruit did he buy? \n\nPlease note: Each fruit type (apples, bananas, peaches",
+            " buy vegetables.  He found 30 kg of apples and 20 kg of onions at the market.  He bought both vegetables.  He paid $3.50 for each kg of apples and $2.45 for each kg of onions.  He went to the bank to withdraw the money.  He had",
+            " buy his 2 T-bills. He bought a 4-year T-bill with face value of $10,000 at the discount rate of 8 percent is the discount rate? I know. He bought a 4-year T-bill with face value of $10,000 at the discount rate of ",
+            " buy a loaf of bread. He bought 5 pounds of bread. He was supposed to pay 4 pounds for 1 pound of bread. He found a deal on the website: Buy 3 pounds, get the 4th 5/3 pounds at half price. He can still pay the difference."
+          ]
+        },
+        {
+          "prompt": "The old lighthouse keeper climbed the stairs one evening and",
+          "samples": [
+            " got stuck. He is on the top floor of the building. He has to climb down. There are stairs leading down and stairs leading up.\nThere are 3 floors above the ground.\nHe does not know which direction to go.\nThe problem is to reach floor 0.\nHe can go up or down each step",
+            " it was very dark. He climbed the stairs up and down until he reached the top. He climbed the stairs up. No matter which direction he climbed, he kept going up until he got to the top. He eventually reached the top but there was still something blocking his way. He could only climb up or down.",
+            " couldn't see the top. He tried one, then two, then three, then four, then five, then six, then seven, then eight, then nine, then ten, then eleven, then twelve, then thirteen, then fourteen, then fifteen, then sixteen, then seventeen, then eighteen, then nin",
+            " found a letter. He raced to his desk and began to write it. He raced to his desk and began to write it. He raced to his desk and began to write it. But the wind had killed him.\n\nThe letter was, \"If you are reading this, you must have climbed the stairs"
+          ]
+        },
+        {
+          "prompt": "When the package arrived, Ellen carried it inside and",
+          "samples": [
+            " closed the door and called the neighbors.\nEllen had the door open. She should have called for help. She was responsible.\nIf an apartment renter or landlord wants to know who to call, here is how.\n \nStep 1: Find the most recent entry or exit for the apartment.\nStep 2",
+            " put it in the bottom drawer. The next day, she carried it inside. Afterward, she put it in the top drawer. So, where is this package?\nLet's read the problem again. It says: \"When the package arrived, Ellen carried it inside and put it in the bottom drawer. The next",
+            " checked the contents. She noticed a small metal box. She opened the box. Inside was a bag. She opened the bag. Inside was a pen. She saw that the pen was missing her pen. She searched everywhere. She looked on the floor, in the bag, in the box. She could not find her",
+            " opened the box. When the box was opened, the contents fell out. Ellen grabbed the contents and threw them at the wall. When the wall was hit, it broke. When the wall broke, the contents fell out. Ellen grabbed the contents and threw them at the wall. When the wall was hit, it broke"
+          ]
+        },
+        {
+          "prompt": "The two friends set out along the mountain trail just as",
+          "samples": [
+            " the sun was rising, so that they would have to climb before the sun was over their heads. The first friend began climbing 6 minutes after the second friend began climbing and reached the summit in 16 minutes after the first friend began climbing. The second friend was 2 minutes behind. How far did the second friend",
+            " the sun was rising. They had to hurry more than anyone had to. The sun was rising\u2014this was the most alarming of all times to be moving on the mountain trail. They started just in time.\nSo they left their post.\nThey were following the trail. The trail was going up. The gap was shr",
+            " dawn broke a second ago. The first friend was right. The second friend had to beat him. He had three seconds. Yes.\nBoth friends started at the same time. Both started at the same place. But the second friend was faster\nLet's assume their speeds were a and a+3. They started at",
+            " the\nIn other words, if they continue to move in the direction they are\nmoving now, they will pass the point on the mountain trail, P,\nexactly half a mile before they reach the top of the mountain.\nOne of the friends, seeing this, decides to turn around and go back\nto the starting"
+          ]
+        },
+        {
+          "prompt": "The restaurant was busy that night, and the young waiter",
+          "samples": [
+            " lost track of time. He keeps pushing the phone down to the waiter's hand, but the woman doesn't move. He yells, \"I'll get it!\" but she just keeps her hands up and says, \"Come on, look, it's right there.\" He's got to go. He can",
+            ", terrified, fled the room. He had been told by the manager, the head chef, and the sous-chef that there was a fire. He tried to explain that he said at the time he was screaming, but he was not sure if he was really saying that. He found himself trembling.",
+            " had to run back to the manager's office, his hands shaking. The waiter could feel his pulse in his throat. There were more hands on him, but he could not move them. He could not reach. The waiter looked around. The door was open. The people were in there. He ran back",
+            " was afraid to open the door. He ran to the manager, shouting, \"I don't know! It's open! I can't\u2014everything closes right now\u2014\"\n\nThen the manager shouted, \"Open the door!\"\n\nHe raced to the open door, and the manager shouted, \"Open it!\"\n\nHe"
+          ]
+        },
+        {
+          "prompt": "He sat in the waiting room at the airport, watching",
+          "samples": [
+            " the people come and go.\nHis hands were shaking. He couldn't move his body. He couldn't get out of that chair.\nThe people who came and went, he thought of last time. He'd been in the chair too.\nWhen did he come back? He didn't know.\nHe'd been in the",
+            " the screaming passengers. This was the last thing he wanted. He had lost the ticket to his flight, and no matter what he did, the ticket was gone. He was about to be put on the list. He could not get the ticket back and the airfare was deducted. He would miss his flight",
+            " the tapes. He had left so many times he was scared that he would miss them.\nHe checked the time again. He looked up at the clock. He had missed them.\nHe heard footsteps. He scrambled.\nHe did not know whether they were coming for him or for her.\nHe screamed",
+            " the numbers, looking at the plane that left the numbers, looking at the plane that stayed, looking at the plane that went there. He watched the numbers and said, \"We go, he goes, the plane goes.\" He started to cry. He stopped. He picked up the numbers. They went again, the"
+          ]
+        },
+        {
+          "prompt": "The snow had been falling since dawn when",
+          "samples": [
+            " the snowflakes were falling, they were falling, and I heard them, I heard them falling, falling, falling, falling, falling, falling, falling, falling!\nMy mind was screaming at me. But I cannot hear my mind. I cannot hear my mind screaming. I cannot hear my mind scre",
+            " I saw the first sign. I turned, and an old man was behind me, shivering. I looked around, and there was no one else. I raised my gun to my forehead, and the older man dropped the gun and ran. I fired and hit him, and I grabbed him. I could hear",
+            " the first flash of light appeared on the ground. This was Sarah's dream. She had been lying in bed for hours, not moving, not breathing, as the snow continued to fall. Then, her head hit the cold glass of the window. She tried to cry, but she couldn't. Her eyes were open",
+            " he saw it. The shape of the man's head, then, was something he knew enough to have gotten his clothes right. He would know. He had to. The snow had covered everything. Everything. The snow was coming. He had heard the snow coming. It was the way the wind whipshed leaves"
+          ]
+        },
+        {
+          "prompt": "At the end of the long day, the nurse finally",
+          "samples": [
+            " gets down to her feet. She is exhausted and the pain is in her knees. Her hands are shaking. And she needs a team to help her, and she needs her team. The team of nurse aides and medical technicians will help her get to the hospital. They are the first to call her!\nNow you must",
+            " made it to the hospital, where she needed to make the call. She had to make the call to Mr. Johnson. She had been in the hospital for a long time. She had heard his name. He was in the ICU. The nurse knew that she needed to go back to Mr. Johnson. She needed",
+            " gets to the patient. The nurse is frantic. After the last time she had to do this, she would go and make sure the patient was right there, she had to think who was the nurse. The nurse is now on her feet. She is thinking. The nurse reaches for the patient. No. Think",
+            " gets to the top floor. She has to find your name on the roster and get it to the doctor's office. Here is what she needs to do\n1. Go to the nurse's office.\n2. Tell them you are going to be on the top floor.\n3. Get your name on the roster.\n"
+          ]
+        },
+        {
+          "prompt": "The children were playing in the backyard while their father",
+          "samples": [
+            " was away at work. He had forgotten to lock the gate. They were in the middle of the yard. He heard a loud screech. He ran to the gate and saw them. He caught them and brought them back. Then he found his keys. He had locked the gate. The children were scared. He",
+            " went to the store. They thought the father would come back soon. The father came back in 3 seconds. His father - 3 seconds - 2 seconds - 1 second - 0 seconds. Who is the father of the father of the father of the child?\n \nWe need to parse the problem.\n\n",
+            " was going to the store. Suddenly, they heard a loud crash! There was a big metal crate! Their father heard it too. He turned around and saw the kid running towards the house. The kids had knocked over the crate and it rolled into the hallway. It was too heavy, they ran. The father",
+            " was in the forest. Where could they be? (2 points) A. With the mother B. Inside the house C. In the forest D. In the yard\nThe children were playing in the backyard and their father was in the forest. This means there are two locations mentioned: the backyard and the forest."
+          ]
+        },
+        {
+          "prompt": "Rain tapped on the window as Julia opened her laptop and",
+          "samples": [
+            " saw there was nothing. \"What the hell?\" she screamed. She grabbed her phone and dialed 911. \"911! Please! There's a black cat on my roof! Where is it?!\" \"No, 911. It is not on your roof! It is inside the building! Where is",
+            " tapped on the screen, hoping to find the code. Julia tapped on the code. What's going on? (5) What is the meaning of \"tap\" in this context? (4) Why does Julia need the laptop? (3) What is the \"code\" she is looking for?",
+            " her fingers slid over the keyboard.\nThe room was full of work, people were screaming, she could hear the loud crashing of glass.\nThe first line was over now.\nShe was breathing hard and her head was pounding.\nIt was the door that opened, then it wasn't.\nShe could hear it",
+            " she was reading her email. \"Hi Julia, I got your email, and I will be busy next week, so I cannot answer my email. Please do not reply. Thank you, -Rick\"\nJulia saw the email from Rick. It said that she would not be able to answer her email next week"
+          ]
+        },
+        {
+          "prompt": "The fisherman pushed his boat out into the morning mist and",
+          "samples": [
+            " saw no boat. He thought he was alone, pushed back and saw it was his boat! In what direction was he pushing? (Use 'up', 'down', 'left', 'right', 'forward', 'backward'. Use 'forward' or 'backward', not 'up' or 'down'.",
+            " saw nothing. He pushed again and saw the fog was thinning. He pushed harder and saw the boat was in the water. His heart pounded, he was sure he had made it, but there was no sign of the boat, no way to pull it in. He had one oar, he could only",
+            " felt a cold splash. He shoved the oar in harder, he pushed harder, he pushed harder. He saw darkness. He heard screams. He yanked the boat hard against the pier.\nHe fought against the tide. He fought against the current. He fought against the wind. He fought against",
+            " saw the shore only a few hundred yards away. He had to get the boat to port before the tide came in and before the storm. The boat was heavy and it seemed like a slow motion, but he kept on pushing. The mist was covering everything, but he could see the coastline. He was in pain,"
+          ]
+        },
+        {
+          "prompt": "Peter got off the subway one stop early and",
+          "samples": [
+            " jumped off the platform at the same time the flash went off. He couldn't see anything. Why? \nA flash is a very short burst of light. \nThe subway is in the middle of the country. \nHe jumped off the side of the side where a car was going the speed of sound. \n",
+            " she said I'm getting off soon. Why is she saying that? What does it mean? (Hint: I'm not getting off soon.)\nWrite your response.\nNote. If you think I need to go to another page, write \"Go\" and I will put you on another page.\nPlease answer in 3",
+            " walked in the opposite direction to avoid a collision!\nHow far away were Peter and the train?\nThe train runs at 80 km/h\nPeter runs at 8 km/h\nNote: The train moves in one direction and he in the other. Both are moving at the same time.\nAnswer Format: \"The distance",
+            " missed the train. Where was Peter?\nI know that to be at the platform and then, at the one stop early, he missed it, he missed his train, so where was he? He missed the train that was coming on the platform. So he was at the subway station. That's one stop away"
+          ]
+        },
+        {
+          "prompt": "Late in the evening, the shopkeeper counted the till and",
+          "samples": [
+            " went to the door and asked for money. But the man inside said \"Do I have to go to the shop?\" and the shopkeeper said \"Yes. Go to the shop and tell me what you have.\" So the man went down the stairs and got into the shop. He walked in and said, \"I",
+            " saw twenty dollars. He knew he had only eighteen dollars because he had taken twenty in the past and his bank would charge him interest. So he ran out to the bank and told them.\nThe bank's teller said, \"I must have lost twenty dollars. Do you have a twenty-dollar bill?\"\nLate",
+            " said, \u201cThere are 4,000 notes in this till!\u201d\n    \u201cNo, I counted 10,000 notes! Where are the other 4,000 notes I am missing!\u201d\n    He said, \u201cI know that. Let me count again. I counted 8,000 notes! Where are the",
+            " said, \"I don't have enough money in the till: I must raise money or else I'll run out of till.\"\n\nThe customer said, \"Please open the till. I don't know how.\"\n\nThen the shopkeeper opened the till. He opened the till as fast as he could. He opened"
+          ]
+        },
+        {
+          "prompt": "The wedding guests gathered in the garden as",
+          "samples": [
+            " the sun began to set. In the guest\u2019s mind, he could still see the bride and groom. He wanted them to fall. He wanted them to fall right now. He had a strong desire. The guests were confused. They watched as he raised his hand. He was the one who had to move first",
+            " the sun began to set. \"We must hurry,\" whispered Mary. \"We have to get in before it opens!\" Her daughter Lila looked at the doors, then at the guests. \"No time,\" she said. \"Not now!\" The door hung open. The guests screamed. Mary turned and ran toward",
+            " it was 2:15 PM. On the wedding day, the time was 8:30 AM. What time was it on the wedding day?\nPlease find the answer.",
+            " the bride walked with her husband away, the sound of their footsteps echoing through the treeline. The sound was like drowning, relentless. The guests shrieked. The bride's husband, she had no time to stop running, he had no time to stop running, he had no time to stop"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "spread6",
+        "alpha": 1.0
+      },
+      "outputs": [
+        {
+          "prompt": "Maria parked the car outside her parents' house and",
+          "samples": [
+            " noticed that their driver's plate number is 7-30-3 and 5-7-8. If Maria washes her car, how could she get the plates? If she washes her car, how much will it cost?\n\n**Problem Source:** Think Trick #4\n\n---\n\n### Problem Understanding\n\n",
+            " realized that it was already gone! She ran to the police station and shouted, \"Please help! Someone stole my car!\"\nAt the police station, officers opened the back and saw the car. They rushed to Maria's house. When they entered the house, there was no way to find the car! \nWhere",
+            " she tried to get it. It was a 5 minute car and when she tried to move it it slipped and fell to the ground? He heard it? It was breaking? She heard it? I don't know. Do I move it? I don't know. Should I? Should I move it?\n\nLet",
+            " it was in the \"B\" position. What was the \"A\" position? How do you know? (You need to give the answer before you can even read the question. That kind of thing.) \nA. 2\nB. 3\nC. 1\nD. 4\nE"
+          ]
+        },
+        {
+          "prompt": "The new teacher walked into the classroom for the first time, and",
+          "samples": [
+            " walked out twice. I don't want to understand what \"twice\" means. I want to find the answer. I was at the door. I couldn't get in. I tried. I tried but I couldn't. A voice. \"Open up!\" A second voice. \"Open up!\" I opened up.",
+            " his first thought was: What is my class size? Where are the students? Who is my first name? He took a deep breath and walked over to the door. He opened the door again. His heart was pounding. He was not a new teacher. He had been in this position before, just earlier.",
+            " she felt like an alien walking into a room of people she does not understand. She tried to read the faces, but they were just... static. Panic set in. She had no idea where to start. She had no idea what to do. And... and then... she saw a name\u2014NAME! The",
+            " saw the other teachers!  She was panicked.  She tried to run out the door, but she couldn't!  A fire!  She screamed, she yelled!  What was she doing?  Was she going to die?  Where was the fire?  She ran for the chalkboard"
+          ]
+        },
+        {
+          "prompt": "On Saturday morning, Daniel went down to the market to",
+          "samples": [
+            " buy some fruit. He found the price at the market for apples is $2.00. After he bought the apples, he was holding $6.75. When he goes to the shop, the price is not $2.00. The price is $3.00. He did not know if he would",
+            " get 5 3/4 2/3 oz of nickel. He went down 4 times. How much nickel does he have?\nSo I have 5 x 1.75 x 2.6666666667 x 4 = 74.4\nI think the answer is 5 ",
+            " buy his 2 T-bills. He bought a 4-year T-bill with face value of $10,000 at the discount rate of 8 percent is the discount rate? I know. He bought a 4-year T-bill with face value of $10,000 at the discount rate of ",
+            " buy a loaf of bread. He looked at an advertisement: \"Buy this bread for a pound less! Try it today!\" He said no. He didn't go to the market. The next day, he went down, but this time, he said no. Finally, he went to the market and said yes"
+          ]
+        },
+        {
+          "prompt": "The old lighthouse keeper climbed the stairs one evening and",
+          "samples": [
+            " got stuck. He is on the top floor of the lighthouse. He has to climb down. There are stairs. He doesn't know which direction. The Lighthouse is on the cliff edge. There is a sea, 5 more floors. 10 more floors. He has to climb down. It takes 15",
+            " it was the top. He climbed back down one more time and it was the bottom. How many stairs were there? This is a classic brain teaser. It seems like a simple arithmetic problem, but the answer is not based on the number of steps the keeper took. Let's analyze it. Imagine the ke",
+            " couldn't find the top. He tried one, then two, then three, then four, then five, then six, then seven, then eight, then nine, then ten, then eleven, then twelve, then thirteen, then fourteen, then fifteen, then sixteen, then seventeen, then eighteen, then nin",
+            " found himself at the very top, but he could not go back down. From now on, he always climbed up to the top and never came down. Why did he do this? \n\n(A) He thought going down would cause him to fall and die. \n\nThe sentence: \"The old lighthouse keeper climbed the"
+          ]
+        },
+        {
+          "prompt": "When the package arrived, Ellen carried it inside and",
+          "samples": [
+            " closed the door and called for the police. The police burst the window and entered the house and found the package inside and no one else inside. Why? What happened to the house?\nIt was no house! It was an armored truck! (This one is very large and has no door.)\nWhat is the answer",
+            " put it in the bottom drawer. The next day, she carried it inside. After that, she put it in the top drawer. So, where is it now?\nWe know that the book was first put in the bottom drawer. The next day, it was carried inside. I assume she might have put it in",
+            " checked the contents. She could not find the important documents she needed for her job. She searched for the documents and found another package in the hallway. She went downstairs and searched upstairs. She found a third package in the kitchen. This time, she picked up the package and checked it. There were the documents she",
+            " opened the box. When the box was opened, the contents fell out. Ellen grabbed the contents and threw them at the wall. When the wall was hit, something broke. What happened next?\nLet\u2019s break it down step by step:\n1. The package arrived.\n2. Ellen carried it inside. So now the"
+          ]
+        },
+        {
+          "prompt": "The two friends set out along the mountain trail just as",
+          "samples": [
+            " the sun was rising, so they were going up. The two friends set out along the mountain trail just as the sun was rising, so they were going up. The five friends set out along the mountain trail just as the sun was rising...\n\nPlease tell me: can you give me enough information to solve this problem?\n\n",
+            " the sunrise begins. One runs fast and the other is faster still. When the runner who is faster still is at the top, the faster runner is at the bottom; when the runner who is fast is at the top, the faster runner is at the bottom. Where is the slower one? How long does it",
+            " dawn broke a second ago! The first leg must be faster; if they had walked the same distance, the second friend reaches the summit first.\nA. The first friend must cut the first leg in half.\nB. The first friend must cut the first leg to 60% of the distance.\nC. The first",
+            " the\nIn other words, if they continue to move in the direction they are\nmoving now, they will pass the point on the mountain trail, P,\nexactly half a mile before they reach the top of the mountain.\nWhere is the top of the mountain (in miles from their starting\npoint now)?\nYou can"
+          ]
+        },
+        {
+          "prompt": "The restaurant was busy that night, and the young waiter",
+          "samples": [
+            " lost track. He thought he could go back and make a second attempt. He did not know how to do it. He could only run. He could not stop. He was in the kitchen, the back of the kitchen, and he ran back, over his head, his body. He could go back, but",
+            ", blind in his right, could not see the tray of food. The head waiter was shouting instructions, \"To my left! Take it! To your left! Take it!\" He had no choice, and he lunged, his hand slipped, and his finger hit the bottom of the tray. The tray",
+            " had to run back to the manager. The waiter was in the kitchen, and the manager said, \"Where do you want me to send you? I don't have a key, I can't reach the door.\" The young waiter panicked, \"I can't run back to the manager! This is",
+            " was dead. The waitress yelled, \"I did it,\" and the manager screamed, \"Don't tell me! You'll go to jail!\" The young waiter was dead. The waitress's heart stopped. The waiter's name was Daniel.\nHow was the waiter dead? What happened to"
+          ]
+        },
+        {
+          "prompt": "He sat in the waiting room at the airport, watching",
+          "samples": [
+            " the numbers change on the screen. What was the number?\n \nHe had checked the information at the airport. He looked at the board. He looked at the screen. The number wasn't coming.\n \nHe stared at the numbers on the screen. 1. 2. 3. 4. 5",
+            " people rush through. They were in and out. The door was open. He looked at his hands. Were they shaking? No. But he'd seen him shake before. He'd seen him do it again. He'd seen it on the bodyboard. He'd seen it on the bodyboard. He'd seen",
+            " the tapes. His hands were shaking. He tried to stand up, but he wasn't getting any movement. He looked at the two doors. One was open, one was closed. He ran to the doors. The open one. He pushed it. The sound. The screaming. His voice was a whisper",
+            " the numbers, looking at the plane, looking at the number on the plane, the number on the number on the plane, there was the plane, there was the plane, the number, he sat there the number, the number, the number, the number, he sat there the number, the number, 4"
+          ]
+        },
+        {
+          "prompt": "The snow had been falling since dawn when",
+          "samples": [
+            " the snowdrift was at the top of the hill. The top of the hill. And the snow was falling. Why was it falling? Who was pushing it? There was a man standing on the edge of the hill. A man, he had to be. He had to put the snow on top of the",
+            " I saw the first crack. I didn't think I could stop it. Nothing could stop it. I saw it from the window. From the apartment I was sitting in. I didn't move. The cracks had spread like wildfire. I heard voices. I looked at the door. I saw a shadow. It",
+            " the first flash of light\ncame from a window in the house! I screamed and scrambled for the doors\nand they were barred! I couldn't get out! I was freezing!\nMy name is Daniel.\nFrom hell... or maybe not hell.\nI was screaming\nI was freezing\nCan",
+            " he saw it. She tried to scream but her voice... Her hands were raising, and they were in the air... The snow came again. She was at the top of a building. The wind... The building had collapsed... He saw her fall. She was no longer moving... The snow was coming in. The"
+          ]
+        },
+        {
+          "prompt": "At the end of the long day, the nurse finally",
+          "samples": [
+            " gets down to Earth.\nShe has been fighting these contractions for over two hours. They are the worst. And she can\u2019t control them! All the nurses know it. And she hasn\u2019t stopped. And she can\u2019t control them.\nThe last thing she knows is that the patient has no way to stop it.",
+            " made it to the hospital, where she needed to make the call. She had to make the call to Mr. Johnson. She had to call his name and make him move! She had to scream! She got as close as she could get to him! The nurse was running toward him! She was screaming for",
+            " gets to the patient. The nurse is frantic. She can\u2019t find the patient. She can\u2019t reach them. She can\u2019t do anything. So she starts shouting. She screams. \u201cLet me in. Let me in!\u201d A door is opening. The nurse stares. Her eyes go wide.",
+            " gets it right. \"She had to find out which one is the most important\u2014Maternal or Neonatal. He [the child] was dead. So where was he? Oh, it was Neonatal. I can get it.\nYou need to find out which one is more important; Maternal or"
+          ]
+        },
+        {
+          "prompt": "The children were playing in the backyard while their father",
+          "samples": [
+            " ran toward them. The father reached the backyard in seconds. The parents were in the house now. The children were screaming. The father was behind. The door was open. The children had to run into the open door. The open door was stuck. The father had to break through. The parents were yelling",
+            " went to the store to buy milk. Their mother heard the children screams and ran to check. When she saw the children screaming, she grabbed the first thing she saw and pulled it back into the house. It was the door. The back door. The children were trapped inside. The door didn't open.",
+            " was going to the store. They shouted, \"Dad, run! Run!\" and they started to leave. But the father grabbed their arms and pulled them. Oh no, he grabbed them! The kids had no chance to escape. The father struggled but he couldn't do anything. \"Run, they're coming",
+            " was in the forest. Where could they be? (2 points) The children were thrown into the forest. They were in the yard. Their father was in the yard. The children were in the yard.\n\nWho are the children in? Where are they? Which statement is true?\n\nThe children were in the backyard."
+          ]
+        },
+        {
+          "prompt": "Rain tapped on the window as Julia opened her laptop and",
+          "samples": [
+            " saw there was nothing. \"What the hell?\" she screamed. She grabbed the laptop and threw it at the window. It hit the glass. It bounced back. \"Come on! I've done it ten times!\" she screamed into her phone. But her phone was too close. The window was too",
+            " tapped on the screen, trying to get the code. Julia could not find it. She tapped again. Did it work? No, again. She should have known she had a code. But she never found it. She tapped faster. Faster! Panic. \nThere were 15 taps",
+            " her fingers slammed down on the keyboard. What was she trying to do? It was the only one left.  The door was moving.  Julia was moving.  Her head hit the wall.  She was trying to stop herself.  She thought about the door. It wasn't going to stop. ",
+            " she was reading her email. \"No, no, no, no, no!\" She had already opened the door!\nShe tried to open the door. She tried to open the door. She slammed it. \"I need to see!\" She needed to see!\nJulia screamed. Not enough.\nShe opened"
+          ]
+        },
+        {
+          "prompt": "The fisherman pushed his boat out into the morning mist and",
+          "samples": [
+            " the boat went over the edge. The water was no longer there. He was underwater. He had lost his boat. He had lost his life.\nHe was in the water. He could not leave now. The water was the only thing he could feel. He was in there. The water was all he had left",
+            " panicked. He pushed. He pushed. The waves were rising. He pulled. He pulled back. He could not control it. He was going to drown. He was going to die. He was going to lose everything. The roar of the waves was deafening. His lungs. His feet. His mind",
+            " felt a cold splash. He shoved the oar in. He yanked. He could not get down. He could not move. The water was rising. He pushed. There was no more. He was at the bottom. He could not get up. He was at the top. He was the",
+            " saw the boat he had lost three days earlier, and had it with him. He pushed it until he saw his own boat. He saw it and pushed it. He saw it and pushed it. The captain said: \"You are losing yourself!\" The fisherman thought: \"I'm not losing myself! I lost my"
+          ]
+        },
+        {
+          "prompt": "Peter got off the subway one stop early and",
+          "samples": [
+            " jumped off the platform at the same time the flash went off. He couldn't see anything. Why? \nA flash is a very short distance from a flash.\nThe answer is a flash is a very short distance. When the flash goes off, he jumped, and he couldn't see the flash. I think this",
+            " she said I'm getting off soon. Why is she saying that? What do I need to do? I have been told that I'm not alone. Peter, you're scared. Let me tell you how I got here. I saw her! And I saw her at this spot. I saw you at this spot",
+            " walked in the opposite direction. How far did Peter get from the train station? 1. 20 2. 40 3. 60 4. 80\nLet the distance between the starting point and the train station be x.\n\nWhen Peter gets off the subway 1 stop early, he",
+            " missed the train. Where was Peter?\nI know that to be at the train station, which is one stop ahead of where he got off the subway.\nIf he was going forward, one stop early would place him behind. But he needs to be at the train station. I'm confused.\nThe answer is at"
+          ]
+        },
+        {
+          "prompt": "Late in the evening, the shopkeeper counted the till and",
+          "samples": [
+            " counted the till. Was there enough money? Too late to know! He had to have half as much.\nHe had half as much.\nHe had enough.\nThe question is impossible to answer!\nLet us assume the shopkeeper had 2x amount of money. He would need x+1.\nHe needs 5",
+            " saw twenty dollars. He knew he had only nineteen because he had broken his own wallet and it had a lot of fists. He counted his keys, opened his wallet and saw twenty dollars. He had broken it again and again.\nAt a moment's panic the shopkeeper knew his till was empty. He tried",
+            " could not find a single coin in the till. The customer said, \"I have no idea where the money is! Where is it all going?!\" The shopkeeper said, \"I know, but I have no idea either!\"\n\nWhat do you think the shopkeeper has done? \n\nA. Left the money on",
+            " screamed: \u201cThe money is gone!\u201d\nHe grabbed his knife. He saw a gun in the shop. He saw a knife in the shop. He saw a gun in the shop.\nHe picked the gun. He heard it go bang!\nHe picked up his throat.\nHe had no other choice. He grabbed the"
+          ]
+        },
+        {
+          "prompt": "The wedding guests gathered in the garden as",
+          "samples": [
+            " the clock struck. One by one they entered. The lady, a coward. She hesitated and then took the first man. She was sure he was not the groom. I thought I could have warned her. There were no witnesses. I could see him walk into me. The groom was in the",
+            " the rain slowed. This is the only clue.\nHe was a man about thirty, and he had been married three times. He was not a saint, but he had tried.\nIn his first marriage, he was a murderer. In his second, he was a thief. In his third, he was a",
+            " it was 2:15 PM\u2014no one could have known!\nThe time to arrive was 2:00 PM. No one could have arrived at 2:00 PM, if anyone could have.\nIn the confusion of the moment, the guest who arrived first was the one who said 2:15 PM",
+            " the priest walked towards them. He was the High Priest of the temple, the one who decided who could marry whom. The guests froze. The wedding had been arranged by the High Priest. The High Priest\u2019s blood. The High Priest\u2019s hands. He could not remember. He was a High Priest. The wedding"
+          ]
+        }
+      ]
+    }
+  ],
+  "ok": true,
+  "pass": 7,
+  "passes_left": 8,
+  "secs": 388.8,
+  "load_in_kernel": "gens(7)"
+}

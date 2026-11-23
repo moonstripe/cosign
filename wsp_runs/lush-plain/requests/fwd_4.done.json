@@ -1,0 +1,458 @@
+{
+  "kind": "generate",
+  "note": "same seeds across settings: sample i of each setting is paired",
+  "results": [
+    {
+      "setting": {
+        "dial": null
+      },
+      "outputs": [
+        {
+          "prompt": "The bus stopped outside the school and",
+          "samples": [
+            " the students were waiting to get on. There were 3 buses in the school. The first bus went to the park. The second bus went to the library. The third bus went to the zoo. None of the students were on any of the buses. One of the students got on the first bus for the park",
+            " was picked up by a student. The student carried 6 books. Before leaving the school, the student had 3 books. After picking up the bus, the student had 5 books. How many books were there in total initially carried by the bus and the student?\nLet x be the number of books on the",
+            " waited for many minutes before it started moving. How many minutes did it travel before moving? If the bus started at 7:00 AM, at what time did it start moving?\nSuppose the bus stopped outside the school and waited for 15 minutes. If the bus started at 7:00 AM, at what",
+            " the driver asked for the number of students on the bus. There were eight students sitting in the back and four students standing up. How many students were on the bus?\nTo solve the problem, we need to determine the total number of students on the bus. The information given is:\n- There were 8 students sitting",
+            " people got off. Next, the bus went to the park and people got off. Then, the bus went back to the school. On this day, how many people got off the bus?\n\nLet's break it down step by step:\n\n1. The bus is stopped outside the school, and people get off. So",
+            " students got off and went home. (The bus stopped *outside* *the school* and students got off...)\nThe bus stopped inside the school and students got off and went home. (The bus stopped *inside* *the school* and students got off...)\nThe bus stopped in front of the school and students got",
+            " people started to gather. It was a rainy day and there was a lot of traffic coming from the side streets. The bus driver announced, \"Ladies and gentlemen, please exit the bus stop and get out of the way. We are about to leave.\" The people began to walk out, but there was no",
+            " the students got on. The bus had 44 seats occupied and 8 empty. So how many students were there? (The school is located in the US.)\n \nLet me try to understand the problem.\n \nThe bus had 44 seats occupied and 8 empty. So the total number of seats in the bus"
+          ]
+        },
+        {
+          "prompt": "He put the kettle on, sat down at the table, and",
+          "samples": [
+            " ate three hammers for lunch.  He put the kettle on, sat down at the table, and ate three of the hammers for lunch.  What is the difference between the two sentences (in terms of meaning or tone etc.)?\n\nPossible answer is about ambiguity of \"three hammers\" vs \"three",
+            " he read the book aloud. \nThe kettle was placed on the table. She sat at the table and read the book aloud. \nHe put the kettle on; he sat down at the table; he read the book aloud. \nHe put the kettle on the table. He sat down at the table",
+            " wrote the letter...\nHe put the kettle on, sat down at the table, and wrote the letter...\nHe put the kettle on, sat down at the table, and wrote the letter in the... (blank)\nA. drawer\nB. bag\nC. bag\nD. drawer\n\nThe two blank",
+            " ordered a cup of tea.\nHe put on the kettle, sat on the table, and ordered a cup of tea.\nHe put the kettle on the stove, sat down at the table, and ordered a cup of tea.\nHe is put the kettle on, sits down at the table, and orders a",
+            " began to stir the tea while he looked at the clock. He said, \"Tea for me?\" Then she said, \"Yes, and some sugar, please.\" He took the teapot, said, \"I'll pour, please.\" And so on, as he did everything and I said, \"Yes",
+            " sipped the tea. He called the kettle \"tea kettle\" and the table \"tea table\" and the tea \"morning tea\". He said \"Let me have the morning tea\" and later \"He has the kettle and the table and the tea.\" He asked \"How many kettles?",
+            " started to write.\nThe words: \"It is a table, and he is a writer.\" wrote.\nThe words: \"It is a kettle and she is a heater.\" wrote.\nThe words: \"She put the kettle on the table and started to write.\" wrote.\nThe words: \"It is a",
+            " began his lesson. The students took their seats and opened their books, and the room was calm. After a while, Mr. Johnson put his pen down and began to write. He wrote a paragraph about the local history. Then he started the next one about the upcoming elections. He wrote a third paragraph about the new"
+          ]
+        },
+        {
+          "prompt": "The two brothers drove north for most of the day, and",
+          "samples": [
+            " then turned south to get home. If the distance between the two houses is 9 miles, how many miles did the first brother drive before turning south? The second brother was running. Suppose the first brother runs at 5.5 mph, the second brother runs at 6 mph, and the first brother walks at",
+            " the man\nThe two brothers drove north for most of the day, and the man\nwent south for the rest of the day. The man came back home in the\nevening. On the way home, he met the man who drove north at exactly halfway to the\nbrothers. At that point, he",
+            "\n... (more of this)\nI don't know what to do. I am at my local public library for 4.6 mins.  I am in a building. The address is 2016 St. Mary's St. I have walked about 2.4 mins to get to the building",
+            " then the older brother walked east to see the sunset. Afterward, the older brother started heading home and caught up with the younger brother. How far did the older brother walk? If the speed of the older brother was 8 km/h and the speed of the younger brother was 6 km/h, and they started",
+            " then continued driving south for an hour while the older brother was alone. The older brother arrived at the destination exactly on time. If the older brother's driving speed was always 60 mph, and the younger brother's driving speed was 40 mph, how many hours did the two brothers drive north (together) before",
+            " then had to go around a lake on their way to work. How would you represent this situation on a number line? The whole group is on the same number line. The negative numbers represent the direction of the lake. They started at the origin and went to the left (to go around the lake).\nThe brothers started",
+            " then came south for the remainder of the day. They left the house at 7 a.m. They were driving until 4 p.m. They were in a traffic jam at some point during the drive. There was a city park at the end of the route at 7 miles north. How far were the two",
+            " the other brother drove south for most of the day. They were late for their meeting. What is the time?\nThe meeting was at 3:00 PM.\nThe time they arrived was 2:30 PM.\nAnd the time it takes to drive from the city to the meeting was 30 minutes each way.\n"
+          ]
+        },
+        {
+          "prompt": "She came home from work to find the door unlocked and",
+          "samples": [
+            " the living room in the middle of the night. She had a surprise party for her best friend. The living room was filled with friends and family. Now she is out of the living room looking for the best friend and the living room. She could not find where she went and the living room. She went outside to",
+            " open. After some thought, she realized it was her brother who had locked it and left, thinking he would be back soon. She locked it and called him, and he came over, but he had forgotten to lock it before leaving, so she had to lock it again. When she came inside, her brother was",
+            " the window open. (A) She had forgotten to lock the doors. (B) She had forgotten to unlock the door. (C) She had unlocked the door and forgot to lock it. (D) None of these.\nTo solve the problem, let's analyze the situation step-by-step:\n\n1.",
+            " the child sitting there smiling brightly. \"My nephew came to visit. He's a kid, 10 years old. But he's been acting really strange. He's been hiding in his room all day and now he's letting me in. I got him the key and he's already come out. I don",
+            " the safe open. She entered the safe and found a note inside. The note said: \"The key to the safe is in a different safe in the basement. But there you go, I'll get my coat up there first.\" The note also mentioned some important details about the safe's code. She found another note",
+            " everyone else in the apartment was asleep. She knew that she had to get to work, but she also knew that she had to get a glass of milk for her face mask at the cafe down the street. So she made a quick run to the cafe, got her mask on, and started to get ready",
+            " a man standing on the sidewalk. She asked him why and he told her he had been on her way to her meeting. She was surprised and asked when he would be back. He said he would be back soon. She started to get angry and walked over to the door and threw a ball at it, the door",
+            " the house key on the table. She didn't remember putting the key under the table when she took the stairs down. If she had put the key under the stairs down, it would have made her forget the key was on the table. If she had put the key under the table, it would have made her remember"
+          ]
+        },
+        {
+          "prompt": "The village had one road, one shop and",
+          "samples": [
+            " one post office.\nA very old man who lived on the side street had to walk for many hours to reach the shop and the post office.\nHe met a friend who lived on the side street who was going in the opposite direction.\nThe friend told him about the man that he had to walk all day to reach the",
+            " one inn. A traveler came to the village and saw three buildings. Could you guess what they were?\nWe have the solution but let me explain why.\n\nSolution:\n\nThe three buildings are the road, the inn, and the shop.\n\nThe riddle states:\n\nThe village had one road, one shop and one inn.\n\n",
+            " one postman. One day, a traveler came and said, \"I walked to the shop and the postman and I took the road!\" How many shops, postmen, and roads were there?\nHere's the explanation and reasoning:\nIn this classic riddle, the traveler is essentially describing the same location in a",
+            " one river. Across the river from the shop was a house, and on the same side of the river as the shop stood the village hall. The water flowed east to west. On the left bank were the houses and the village hall. The right bank, across the river from the village hall and from the shop",
+            " five farms. Then the village council bought the right to build another road, a second shop and two more farms. How many different ways could the council have done so?\n \nWe want to count the number of ways to choose distinct elements from three groups. The first group has 1 element, the second has 1",
+            " one baker, but not all of them on the same street. The baker worked in the shop, and the shop was on the same street as the village. Explain how these three things can all be true.\nWe will name them A, B, and C.\nA = the Village\nB = The Shop",
+            " five people. Then it decided to open a supermarket, which is a place where you buy things. So they asked the village council for permission to open a supermarket. The council said yes, but not without conditions: the supermarket must be located on the main road (condition 1), the supermarket must be three houses farther",
+            " one well. They all needed an evening. The shopkeeper was selling flowers. The well was breaking down, so the village needed to visit it. The evening, the shopkeeper met the village and said, \u201cLet me close for an hour until your help.\u201d The village agreed. After the shop closed, the well"
+          ]
+        },
+        {
+          "prompt": "At the end of the pier, the old man",
+          "samples": [
+            " stood and looked at the sea. A great wave was coming in, and the sea was high. He thought of all the years of watching this wave roll over his pier and the children run in after it, the men and women go to the beach and watch. He was tired. There was no change. A little",
+            " says, \"There were two sets of these shells, and each set contained four shells of shells. I took one shell from each set and put them on the pier. I put one set of them on the pier, and then I set the rest. It is said that the shell on the pier is the same as",
+            " asked, \"You are the only person who will ever make it to the top. You are the only person who will never fail. You are the only person who will not die.\" He stood there for a long time, looking back at the water, and then turned and walked away. He never returned. The man",
+            "'s old boat was lying on the water. He saw a woman in white, standing in front of the boat. She had a basket on her hand. \"I lost my boat,\" he said. And he said, \"I must find your basket. It is on your hand.\" And the woman said, \"I",
+            " was carrying a piece of mail in his hand and walking down the street toward his house. It was cold out. He was about to die. He was very weak. A friend was running up to him. The old man was carrying a piece of mail in his hand and walking down the street toward his house. It",
+            " looks down at the waves and says: \u201cI have been waiting for a long time for someone to come down to the pier.\u201d In what sense does he mean this, I think?\nThe old man thought that the waves were coming to the pier. But later he realized that he was the one that was coming down to",
+            " is sitting cross-legged on two chairs and a log. He is eating a bread and butter sandwich. Is there a bed, a butter and a log? \"Yes, but\" he says, \"The bed is being made on the two chairs.\" Why does he make a bed on the chairs? \"Because he",
+            " stood and said, \u201cMy grandson wants to learn how to row the boat. I have not taught him since he was five years old.\u201d The grandson replied, \u201cGrandfather, I saw that your boat is broken. Can you fix it?\u201d The old man said, \u201cI can only fix it if you get in"
+          ]
+        },
+        {
+          "prompt": "The meeting ran late, so she",
+          "samples": [
+            " decided to take a walk. Walking down the street she ran into an old man sitting on a bench. She was surprised at first but as time passed, he began to smile and wave at her. He said he had been sitting here a long time waiting for someone to pass by. He smiled and said, \"May",
+            " got to the party early. **While** the others arrived on time, she didn't wait for them; instead, she joined them at the bar to start drinking. **As** the night wore on, the guests began to feel tired, but she kept dancing anyway.\nThe rain poured down on the street, but",
+            " sat at the front of the conference room and made sure everyone else sat around her. She was late for the meeting because she had missed her flight and was in an airport. The meeting was at a conference room. The early morning air was cold as she sat at the front of the room. All of her colleagues were",
+            " was waiting for news. The news said that the meeting would be postponed. Because of this, she didn't have to wait. The meeting had been rescheduled to the evening. Since the meeting was on the same day, she decided to go out. \n\nNow, what is the question about the situation? \n\n",
+            " started cleaning as I was getting ready to leave. She said we must have brought too many books to the meeting.\nThe meeting was packed all day, so they had to leave early to make room for the new speakers. The new speakers were just going to introduce the book club.\nHe told the members they had to stop",
+            " sighed and said, \"I'm sorry I missed the start of the presentation.\" The boss smiled and said, \"No need to worry, you actually presented the key points to the clients that day.\"\n\n---\n\n**Analysis of the paragraph:**\n\n1. **Situation Setup:**\n   - The meeting was delayed (ran",
+            " watched the news. The news said the meeting was canceled. She decided to cancel her day off. She canceled her day off by telling her boss. When she told her boss, the boss asked if she got this from an email. When she said no, she went to her desk and made her email to cancel her",
+            " had to rush to the door. Please help her hurry to the door.\n \nThe meeting ran late, so she had to rush to the door. Please help her hurry to the door.\n \nIn this problem you are given three numbers in a list. You have to find the maximum difference between two numbers in the list"
+          ]
+        },
+        {
+          "prompt": "They buried the dog under the apple tree and",
+          "samples": [
+            " he didn't come out.  What is this about?  Is there a dog that doesn't have an apple tree?  Here are the clues:\n\n1. The dog didn't come out.\n2. He didn't have an apple tree.\n3. The tree is an apple tree.\n\nNow I have to think",
+            " called a fruit a tree? \nThis is a riddle, but it's a funny one.\nThe answer is \"a tree is not a physical object, it's a metaphor to represent nature, life, or something like that. So, when they say \"under the apple tree,\" they probably mean in a natural",
+            " he did not stop screaming and the dog was barking and it was an apple tree and one day they dug up the tree and they found the dog and the dog was dead and they got the dog and the dog ate apple and then they bury the dog under the apple tree and he did not stop screaming and",
+            " the apple fell on his head. Explain the word origin.\nThey buried the dog under the apple tree and the apple fell on his head. The word origin.\nTo bury the dog under the apple tree...\n- First, they buried the dog under the apple tree.\n- The dog is buried, and the apple tree is",
+            " the dog bit him.\nThis is an English proverb. What does it mean?\nA.\nThe dog will always bit him.\nB. The tree will always fall.\nC. People will always make a mistake.\nD. One must be careful not to get hurt by others.\nSparring in the dark is like",
+            " lived happily forever.\nWhat is the moral of this proverb? (Hint: The answer is NOT 'don't kill your neighbor'.)\nThe moral of this proverb is to be careful with your words because what one says can affect others more than what one does. The proverb warns against speaking harshly or making",
+            " the fox was his neighbor. The tree was full of apples. The dog was his neighbor. Who buried the dog?\nThis is a lateral thinking puzzle. The answer is that they didn't bury the dog. The phrase \"under the apple tree\" is a metaphor. The real situation is that the dog and the fox",
+            " the apple fell on his head.\nHow does this puzzle work?\n\nThe answer is that the dog was buried under the apple tree, so his head is under the tree. When the tree fell, his head fell on the ground.\n\nThe important thing is that there is an apple involved. If there was no apple, the"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "lp_a",
+        "alpha": 0.5
+      },
+      "outputs": [
+        {
+          "prompt": "The bus stopped outside the school and",
+          "samples": [
+            " the students were packed in the coach. They had to go home. The school was just a few meters away from the coach. The coach started to move and the students were moving with the coach. The coach had a head light on and the school had a blue sign. The bus had a number, and the school",
+            " I watched as a group of second graders walked down the sidewalk. The snow had fallen last night, leaving the world in a soft blanket of white. Their breaths shimmered in the cool air, and the gentle sound of crunching snow on the pavement created a rhythmic melody. Their laughter rang out",
+            " waited for students to exit. As more people got off, the line of waiting students got longer. The bus was filled with young people who were perhaps a little tired from a day of outdoor activities. They knew that the school day would soon end and the familiar sounds of voices and chatter would fade away. This was",
+            " the wind carried the sound of its departure through the air. All the windows of the school were open. The sound of the bus...?\nThe answer is G and I just thought of it. It is \"Calling\". The bus is making a call to the school, and the wind made the sound (like wind",
+            " an old lady was boarding the bus. As she stepped up into the bus, a book tied around her neck dropped from the higher rung of the bus. The book fell onto the floor and opened a single page. On that page was a short but poignantly moving quote.\n\n'It is said that in many",
+            " people started to gather. The air was filled with anticipation. Mrs. Jenkins, the principal, stood at the doorway, her eyes scanning the crowd. \"Well done,\" she murmured, \"but the real performance began just before the gates closed.\" She gestured toward the long rows of students, each one holding",
+            " an elderly couple stepped out. \"It looks like you've just found the perfect solution today,\" I said. The man in the coat, his face lined with years of travel, nodded in quiet appreciation. \"No wonder they left the paperwork at the gate,\" he mused, looking out at the quiet street.",
+            " the students gathered in the square. The children sang and listened to the teacher's song. Now the school bell rings. The students are in the bus and the teacher is driving it to the school. The bus is red and full of life as the students exit it. The children are laughing and the air is full of"
+          ]
+        },
+        {
+          "prompt": "He put the kettle on, sat down at the table, and",
+          "samples": [
+            " wrote down a recipe that was going to be used to make him tea.\nThe first sentence uses a metaphor: the kettle is on as if it were breathing or cooking.\nThe second and third sentences use the phrase \"put the kettle on,\" expressing the actions he performed.\nHe put the kettle on.\nHe",
+            " in a moment the aroma of kettle and tea filled the room. It was late afternoon, the sunlight shining through the window in a golden hue. A soft melody played in the background, and it seemed as though the world had frozen in a moment of pure tranquility. And there I sat, lost in thought,",
+            " began to talk,\nWhile the firelight danced through the room,\nAnd around her, the candle's glow made everything clear\u2014\nThere was not a single shadow, nothing but pure, natural light.\nHe set the kettle to boil,\nThe tea to steep,\nAnd in the quiet hours of the day,\nFriends",
+            " started to cook the vegetables with his fingers as he moved them around his hand, and his elbow, and his fingertips, and his fingers. He looked at the vegetables as if he were a ghost in the kitchen, and as if a part of his soul were mingled with the earthy scent of the",
+            " began to read the book about the history of the printing press. He was so absorbed in the words that his eyelids grew heavy. The kettle rang, the table creaked, and the pages turned, but not a drop of the ink had been lost to the wind. He smiled, a little wistful",
+            " began to read. The sun was warm and the leaves rustled. The house was quiet. He was the one at home. (This is the opening of *He Put the Kettle On* by Margaret Atwood. It is one of the most famous lines about domesticity and the passage of time.)\n\nThe user",
+            " began to read the book. A cat sat on the windowsill, watching the rain tap lightly against the glass. Two hands moved on the page, forming sentences. The aroma of tea filled the air. The silence between words was comfortable. He waited for the next chapter to begin, and so did the world around him",
+            " began to stir the batter. This is the beginning of a story, a tale of a magical world. The kettle bubbles like the sun rising over the hills. In the soft light of a candle, the world is alive with the scent of fresh bread and the whispers of old stories. He stirred a little"
+          ]
+        },
+        {
+          "prompt": "The two brothers drove north for most of the day, and",
+          "samples": [
+            " then turned south to return home. If the distance between their starting point and home is 20 miles, and the first brother\u2019s speed was 40 miles per hour while the second was 30 miles per hour, and they met halfway on the way, how long did the first brother take to get home?\nOkay,",
+            " the man\nThe two brothers drove north for most of the day, and the man\nwent south on the way home. At 2:00 PM,\nthe brothers' headlights began to glow. Their\nheadlights were a warm glow in the darkness.\"\nAt 2:30 PM, the headlights had",
+            "\n...\nThe two brothers drove north for most of the day, and\n...\nThe two brothers drove north for most of the day, and\n...\n(There are a few more questions following this sentence, but I'll stop here.) What color are the skies above them?\nThe two brothers drove north for most of the",
+            " then the older brother turned east and drove to his cousin's house. The older brother was tired and took a nap after reaching his cousin's house. The younger brother woke and followed his father's voice back to the family home. After the nap, the two brothers started driving north again. By the time they reached",
+            " south for most of the afternoon. Together they drove a total of 200 miles in all. The distance traveled north was 10 times the distance traveled south. What did the brothers drive south for most of the afternoon?\n\nLet the distance traveled south be \\( s \\) miles. Then the distance traveled north is \\( 10",
+            " then turned south, and turned east and north again, and finally turned west. The wind direction was changing as well, and the wind came from the west and then from the north. Describe the wind's direction before and after each of the brothers' turns. Be sure to use both cardinal directions and quadrants.\nHint:",
+            " then turned east for the remainder of the day. If the initial distance from the starting point was 1800 yards and at the end of the day the distance was 2000 yards, find the distance they drove each day.\nLet the distance they drove north on the first day be \\(x\\) yards and the distance",
+            " the first brother came out just before sunset. They then drove home along the same road, which was shaded, and the second brother came out just after sunrise. If the distance between the two houses is 30 miles, and the time difference between the two events (when the first brother saw sunset and when the second"
+          ]
+        },
+        {
+          "prompt": "She came home from work to find the door unlocked and",
+          "samples": [
+            " the living room in shimmering colors. The sun was a brilliant blue, and the air was warm. Suddenly, the door swung open by itself, and a soft breeze carried with it the scent of blooming jasmine. Her heart fluttered with excitement as she stepped inside. The room was filled",
+            " open. Curiosity got the better of her and she pushed open the door and stepped into a bright, warm, and inviting room. Her eyes widened with disbelief as she was greeted by a soft, honey-like scent, like vanilla and caramel. In the center of the room stood a table set",
+            " the windows open. A cool breeze was fluttering through the courtyard. I opened the door and saw my balcony in full swing, the potted ivy reaching for the sky. Above me, the city lights sparkled like stars. Just as I stood there, the doorbell chimed gently\u2014not with the",
+            " the car keys scattered everywhere across the floor. She wiped off the kitchen table dust and found the car and keys laid out neatly on the floor. She knew that the only way she could make the house look normal was to put everything back in its place. She had to put the car keys on the door, the",
+            " the window open. She tried the door first, but it wouldn't open. However, the window was open. She then looked and found her keys on the floor. At first, she thought her car keys were missing, but now she realized they had fallen out of her bag while walking to the car. \n\nWho",
+            " cool to the touch. The evening air was crisp, carrying the faint scent of pine. She opened the door to find a space bathed in soft golden light, and beyond lay a man in simple clothes, his face illuminated as if by a sunrise. He had no clothing beyond one loose garment draped over",
+            " a man standing in the yard. It was her boyfriend, Dan. She had left a little early the night before to get his text on the new place. She had seen him earlier in the evening, standing under the porch light, and had felt his presence, as if he had been waiting for her. The house",
+            " the house warm and fragrant. Her eyes widened with a mixture of surprise and delight. She had left them at the office, but there it was. In her hand, she held a key that glimmered with an unusual light. She had always been told there was no key. There was no door,"
+          ]
+        },
+        {
+          "prompt": "The village had one road, one shop and",
+          "samples": [
+            " one inn. Down the street from the inn was the village school with its empty classroom window. On the corner of Toms Street and Willow Road stood a brown brick bakery. Just beyond Willow Road, where the hedgerow curves around the orchard, was the village pub. At Toms Street and",
+            " one church. The village had 100 houses and 1000 trees because it had reached a hundred years and a thousand years old.\nHow old did each village landmark have when the village was one road, one shop and one church?\n\nThe one road was built in 1000 years, the one shop in 100",
+            " one inn, but these were not the usual features. The road was made entirely of silver thread and the shop was a glass box filled with flickering lights; the inn was a warm, honeyed glow that seemed to breathe. \n\nIn the village square, a peculiar tree stood, its branches heavy with berries that t",
+            " one bakery along it. At the bakery, the baker was kneading fresh dough in the early morning light of dawn. Near the shop, the owner was arranging newly picked fruits on the windowsills. On the road itself, the first headlight, flickering to life as it dawned, offered the",
+            " five doors. One day, all seven became a great source of light, the village was filled with the sound of music and the sweet aroma of coffee, the villagers began to dance with abandon. The mayor, wearing his finest robe, sat at the head of the table and said, \u201cLadies and gentlemen,",
+            " one baker, but not one of anything, and yet many people could see them all. What was the name of the road? The answer to the riddle is 'Curfew', as in 'Curfew Road' or 'Curfew Lane', which was a traditional term for the perimeter of a village where all",
+            " five huts. On this road stood a cottage, and a signpost bearing the letters \"E\". In the huts were five dogs. On the road stood a shop, and a signpost bearing the letters \"R\". In the huts were five cows. On the road stood a village hall, and sign",
+            " one pub. On the corner of the road and the shop, on the left ahead was the pub. Along the road stood the houses of the villagers. A man played the harp in his front yard. At the village center stood the fountain where all could be seen together. There was an inn on the hill"
+          ]
+        },
+        {
+          "prompt": "At the end of the pier, the old man",
+          "samples": [
+            " stood and looked at the sea. A few waves had just broken, and the sound of the ocean was like a thousand drums. The sun had already begun to dip below the horizon, painting the sky in colors of gold and rose. The old man turned his back to the audience of fishermen and driftwood, a silent",
+            " says, \"You've come to the right place, for what it may be worth.\" Looking over the sea, he murmured to the waves, \"Let us have a drink in the water, and let the night bring us a change.\"\n\nThe children of the village had long ago forgotten the old ways.",
+            " looked at the waves, and they rolled on and on, as if the sea's heart was beating in rhythm with his own. The wind carried the scent of salt and the distant calls of seabirds. There was a peace that enveloped the world, a quietude that spoke of time standing still\u2014a moment suspended in",
+            " clutched his worn leather satchel and gazed out over the horizon, where the ocean met the sky. He had been an old man for many years, his hair white as the foam on the waves, his eyes the color of the deep sea. The sun was setting, painting the clouds in shades of rose",
+            " is sitting on a wooden bench. The pier stretches away from him, dotted with seagulls, each flying with its own path. A wind from the sea makes the tarp of the sailcloth ripple, as it passes by. He has had this life for a long time, and now it is time",
+            " stood up and squinted his eyes as if to see the misty and hazy lights dancing in the windows of the cabins. He had heard about his life, about the sea and the ships that passed by on the waves, and about the quiet moments left behind by the great and powerful. He had heard of",
+            " and his grandson are walking along on the shore, the sun casting a bright light on the water. The old man is wearing a tattered shirt. The old man looks at the man and his grandson. The old man asks \"Is this a man?\" He sees a man, a young man walks towards them. The",
+            " stood and took a breath of salt-sprayed wind. He looked out at the sea. There was little cloud at work and the moon was bright like a blade of silver. A hundred gulls circled overhead, their wings casting shadows across the water. The man paused, a moment as if to listen. He"
+          ]
+        },
+        {
+          "prompt": "The meeting ran late, so she",
+          "samples": [
+            " kept watching the sky. The shadows lengthened, carrying whispers of what might happen next. He thought about the words yet to be said, their weight pressing down like rain on parchment. The world moved on, indifferent, as she paused the flow of time itself. In stillness, the universe seemed",
+            " got soaked on the way home. She was drenched in sweat, and her clothes clung to her skin like wet wool. She had walked for hours, her feet burning with each step, and the distant sound of her own laugh echoing through the empty streets. It had been a long day, filled",
+            " sat up and checked the streetlights above her. The streetlights flickered as if they were alive, casting long shadows across the pavement. She had a quiet place in the city, a spot where the world seemed to slow down to the rhythm of her thoughts. As the distant hum of traffic grew louder,",
+            " fumbled her notes, and the audience felt that they had been caught in a blur. At the end of the day, there was a sense of quiet that had come from somewhere else entirely. It was a kind of exhaustion, not just of the body, but of the spirit, as if the day had been a",
+            " decided to stay a while longer and watch the news.\nThe meeting ended, and she's now sitting on the porch, watching the sunset.\n\nThey were holding hands as they walked through the park at dawn. The moon was just beginning to rise, casting a silver glow over the grass.\n\nWhat a beautiful scene, with everything",
+            " decided to stay up later than usual. She worked extra hours in the evenings. The neighbors complained about the noise. The local authorities had to issue fines for the disturbance. The whole neighborhood was quiet enough in the early morning, but now the world seemed to be watching every move she made. The day stretched into the",
+            " stayed up until 1 AM, jotted down notes of the speakers, and rehearsed every line.\nOnce he had finished rehearsing the entire speech, he stepped onto the stage, lit the spotlight, and began to deliver words that shimmered like moonlight on water. The voices were filled with an",
+            " had to hurry up. The rain poured down and washed the pavement clean, but also washed off the dust that had coated the city like a thick fog. In the distance, the silhouette of the cathedral rose, now glowing with the first hints of sunset. A faint breeze stirred the leaves of the"
+          ]
+        },
+        {
+          "prompt": "They buried the dog under the apple tree and",
+          "samples": [
+            " he didn't bark. \n(This is probably a proverb about innocence/naivety) - 4.11\nWhat you ask will be asked. - 9.1\nIt is never too late to say hello to an old friend. - 6.9\nThat which is cast into",
+            " he was still there at night. How do you do it? You hang the dog under the apple tree and it stays there all night.\nThis is a riddle and it describes a common myth in many Western cultures. The idea is that the tree was the first to shed its leaves and thus hung the dog. In",
+            " he did not bark. Now the children say that if they bury the dog they will never hear bark. What kind of tree is this one? \nAnd they also say that the dog does not bark. The children are worried whether the trees grow apples or lemons, and whether the dogs will bark or not. \n",
+            " the bird came out of the tree.\n\nThis is just an old proverb. But it means:\n\nA person will protect himself from misfortune, but the misfortune may still catch up to him. One day a dog that was buried under an apple tree may have been found out, and a bird may come",
+            " the dog did well (Ross). They buried the dog under the apple tree and the tree did well (P). Ross: \"They buried the dog under the apple tree and the dog did well. P: \"They buried the dog under the apple tree and the tree did well. Who is the real dog and",
+            " his eyes closed for one day; after that time, the dog was eaten by the rats. \n\nWho buried the dog?\nWeak hint: apple tree, apple, rats, dog, dog's eyes...\n\nThink about all the ways you could get the answer.\n\nWeak hint: apple tree, apple, rats,",
+            " the apple fell on his head. What do they mean? (A) It means that they buried him with the flowers of spring. (B) It means that he was buried in a field of trees. (C) It means that something bad happened, and the tree was covered in flowers. (D) It",
+            " the roots went under the soil.\nThere once was an apple seed in the middle of a field, and the wind blew it so far it ended up on the ground. In the summer the apple grew and up under the dog who was a golden retriever named Biscuit. He started to roam, and he"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "lp_a",
+        "alpha": 1.0
+      },
+      "outputs": [
+        {
+          "prompt": "The bus stopped outside the school and",
+          "samples": [
+            " the wind began to carry the scent of blooming flowers, mixing with the earthy aroma of the pavement. In that moment, students paused their hurried steps, as if taking a collective breath, before they turned to the lit sky. A gentle melody of leaves skittering over one another, accompanied by the",
+            " the smell of the air filled the morning. Weak and ancient, like the leaves of the trees. It was a day that seemed to have been woven from the very breath of the earth. The first light of dawn crept across the horizon, a soft gold brush painting the clouds with ethereal hues. We",
+            " gathered the morning dew on the grass. I could hear the distant hum of conversation as the last light of day painted the sky in shades of rose and gold. It was a moment suspended between day and night, a hush before the world awakens. I stepped out of the bus, feeling the cool metal beneath",
+            " the morning sun began to warm the trees. I could hear the gentle whispers of the leaves, carrying on the cool breeze. All around me was a tapestry of green and gold, a fleeting masterpiece in time. It was a moment suspended in amber, when the world seemed to hold its breath.\n\n",
+            " the air smelled faintly of blooming flowers and earth. Children played in the distance, their laughter mingling with the soft rustle of leaves. I stood at the threshold, breath visible in the cool evening air, and felt a sense of timelessness envelop each sense. The world seemed to slow its",
+            " I could smell the earth and the caramel of freshly baked cookies. Birds chirped above the trees, as though they were singing harmlessly to the air. This was a summer evening, the kind that seeped into the very fabric of the world. I walked with each footfall, my mind wandering to the",
+            " the rain fell heavily. The air was crisp with the scent of earth and damp leaves. Children on the pavement giggled at the falling drops, creating a symphony of movement. The driver's headlights pierced the gloom, casting a golden glow on the wet road. In the distance, the church",
+            " the wind carried the scent of blooming lilacs toward the trees. I could hear the distant hum of conversations, a soft carol drifting through the crisp air. It was a day that seemed frozen in time, where every moment hung between the edges of a perfect dusk to the first blush of tw"
+          ]
+        },
+        {
+          "prompt": "He put the kettle on, sat down at the table, and",
+          "samples": [
+            " spread out a quilt \u2013 a scene in the air, so delicate that one could think they might be suspended in the very hum of the kitchen. The scent of baking bread and something faint and sweet hung in the warm, honeyed light. He sang softly, low as one might whisper over a gathering of leaves.\nIn",
+            " the world fell like dew. The air was thick with the scent of bread and spices. It was an afternoon of quiet grace, the kind that makes the walls themselves seem to hold their breath. Around him, the garden hummed with the last remnants of day\u2014petals trembling in the waning light, dragon",
+            " began to write\u2026\nHe put the kettle on, sat down at the table, and began to write\u2026\nHe put the kettle on, sat down at the table, and began to write\u2026\nHe put the kettle on, sat down at the table, and began to write\u2026\nHe put the kettle on",
+            " began to speak in a tone that fluttered like the morning dew. (1-22-24)\nThe scene is one of quiet anticipation, the kind that lies between the last light and the first breath of day. (2-1-12)\nHeaven's sigh, a gentle exhale of possibility,",
+            " he sipped the tea... The tea was hot and carried the scent of jasmine... He was enveloped by the warmth of the moment, and he was lost in the rhythm of the leaves. The kettle sang a soft lullaby, the steam dancing in the air like scattered stars, and the world outside",
+            " the steam curled up like ghosts of a thousand whispers. The firelight danced with the golden fireflies that fell in slow motion. This was the kitchen of a hundred stories, a place where time itself seemed to hover and shimmer. He whispered through the rustling leaves, a melody of ancient",
+            " began to read the books on the floor. The light from the candle flickered in rhythm with each soft word. Time itself seemed to stretch, golden and syrupy, inviting you to linger in this moment.\n\nHe had just begun to speak, and his voice was a low, velvety hum, as though",
+            " read about the world. Kettle, table, world. He, the soft, the crisp, the warm. (Rhymes with \"spice\" and \"trance.\")  \n(Which rhymes: kettle-kettle, world-word, kettle-kettle, world-word\u2014think of a"
+          ]
+        },
+        {
+          "prompt": "The two brothers drove north for most of the day, and",
+          "samples": [
+            " in the morning, the east wind stirred up dusty spray that rose like a fan, filling the air with a scent of burning timber and damp earth. As they neared the horizon, the distant mountains began to glow, a pale, parchment color laced with the gold of the setting sun.\n\nThey",
+            " the one in the back drove east during the evening hours. The morning sky was a soft shade of pink, while the twilight of the western horizon seemed to paint the world in gold. On the hilltop, the air hummed with whispers of anticipation.\n\nAt the confluence of paths where the river's edge",
+            "\n\u2022 the distance was measured in the soft, early morning air\n\u2022 the color of their hair and skin seemed to glow\n\u2022 the distant church spires were just beginning to blush with light\n\u2022 the distant mountains held their breath as they dipped below the horizon\n\u2022 the earth itself appeared to shimmer",
+            " then the warm sun began to melt into the evening sky. As the air grew heavy and tinged with the scent of distant lavender, they drifted toward the horizon, a living tapestry of pastel hues. The morning\u2019s lingering chill still clung to the valley, while the sun, a silent witness",
+            " south for less time. Their shadows stretched long across the ground. This is due to the angle of the sunlight and the length of the air above the trees. Given their relative heights and the behavior of light, can we infer the ratio of their heights from the length of their shadows? If so, how might we calculate",
+            " then turned west, and then south for the afternoon. If you were to look at the sky at noon, there would be a perfect circle of light, you could see the sun's zenith and the edge of the atmosphere. The sky would be a deep, velvety blue. How would these colors blend together",
+            " then turned east for the remainder. The temperature on the road was a constant 35\u00b0F. The morning of their journey was cold, a crisp 20\u00b0F, while the afternoon temperatures had begun to rise. What was the temperature like at the moment when the brothers were on the horizon of the earth at that time,",
+            " the air was fresh and crisp. \n\nThe morning sun cast a golden glow over the distant hills, illuminating the landscape with a serene radiance. \n\nWith each step they took, the earth seemed to breathe, releasing a gentle mist that clung to the air like the sweet afterglow of dawn. \n\n"
+          ]
+        },
+        {
+          "prompt": "She came home from work to find the door unlocked and",
+          "samples": [
+            " the wind carried the scent of pine needles. The evening was a blend of warm and cool, with the last rays of sunlight dancing on the leaves. Inside, the air was clean and fresh, carrying the promise of night. There was a hint of earthiness beneath the crispness, a reminder of the forest floor and",
+            " cool. Sunlight streamed through the windows, illuminating dust motes floating in the air. The scent of rosemary and lavender hung in the evening. The walls, weathered to a soft gold, told stories of countless years.\n\nShe stepped out into the cool air, carrying the whispers of the night",
+            " the windows glittered with the light of fireflies. The scent of honeysuckle hung in the crisp air. In the distance, a gentle breeze stirred the leaves of ancient trees. A cat, its coat a mosaic of silver and amber, prowled across the pavement. She padded softly to",
+            " the world bathed in golden hour light. In everything she glimpsed was a story untold, the whispers of secrets caught in the gentle breeze. The air was scented with rosemary and the faint sweetness of ripe oranges. It was the kind of evening that made the universe lean in, as if",
+            " the fresh scent of flowers lingering in the air. A gentle breeze carried the whispers of the night, rustling the leaves. The moon hung low over the sleeping town, casting a silvery glow upon the cobblestone streets. It was as though the world itself were breathing in unison, a celestial embrace",
+            " swinging, as if the night wind were calling for her. The moon hung heavy, and the air was thick with the scent of lilac and salt. In this golden hour, the world seemed to husk its final leaves, and the distance between the stars was closer than desire itself.\n\nShe had known her",
+            " a sign hanging from a chain draped like vines. This was in the kitchen, the smell of baking sugar and old wood in the air. The sun was just beginning to melt the stone walls. She paused, listening to the soft hum of crickets, and let out a breath that seemed to hold a thousand",
+            " the air sweet with the scent of blooming flowers. It was the evening of August 14th, the night of a gentle summer breeze. Mia\u2019s eyes sparkled as she viewed the soft glow of lanterns hanging from ancient willow branches. The world seemed suspended in a delicate dance of light and shadow,"
+          ]
+        },
+        {
+          "prompt": "The village had one road, one shop and",
+          "samples": [
+            " one church. Around the church, wildflowers bloomed. A breeze carried the scent of lavender and rosemary. It was a place where time seemed to slow just enough to let thoughts drift lazily like dandelion seeds. The sunlight filtered through the leaves, painting the earth in gold and honey. Here,",
+            " one bakery. On the second Sunday of November 2023, villagers began gathering at the bakery for warm air and honey scent. Nearby shops buzzed with the chatter of barter trades, while the road itself stretched out, smooth as dew on spider webs. The early light of dawn painted everything gold",
+            " one church, but how could it be true? The story told of an evening when the ancient bells of the church began to chime, casting a gentle melody over the stone pathways. The scent of freshly baked bread wafted through the air, mingling with the warmth of hearth fires. Streetlamps",
+            " one bakery lining the cobblestone lanes. I could not help but note the way the morning light danced across them, each item a perfect ember against the sky's wash of gold. On my way to the bakery's familiar scent, I tasted the cool air where cloves hung heavy in the",
+            " five wells, each of which bore fresh water. The air was light, the grass was sweet, and the flowers were bright. The distant hills sang a lullaby, and in the twilight, a gentle breeze carried the scent of thyme. The road, worn smooth by countless footsteps, curled through",
+            " one baker, but not one of anything, and once every half hour the streets seemed to dance with the sound of bees. If a baker wove fine threads between the petals of lilacs and a shopkeeper's window framed the sunrise, what was the name of the wandering path that led from cob",
+            " five roosters of birds in the morning. Which of these? (Moral: What is the nature of 'one' and 'many'?) \u2014 The answer: The one road, the one shop and five roosters are both elements of the same landscape\u2014nature, human craft, and the sky. The lone",
+            " one church, all in perfect harmony. The church church church was round and warm, the shop shop shop was sprightly and bright, and the road road, a ribbon of memory, cradled the dreams of every creature. Every morning where its mist was a gentle sigh, the world seemed to slow, as"
+          ]
+        },
+        {
+          "prompt": "At the end of the pier, the old man",
+          "samples": [
+            " stood in the fading light of a day that had long since given up its promises. The sea had left the shore of the world in rippled sighs. He wore a tunic the color of dusk, and his hair was a cascade of silver, tossed by the breeze. In his hand, the",
+            "\u2019s face is lit by the sea wind, like a silver ribbon in motion. The waves softly crash, as if whispering secrets to the stones. He stands motionless, a sentinel of the fading day, his breaths slow and metronome-like against the salt air. Around him, the universe",
+            " sat. The salt-bleached waves lapped at the sand, the sun was low, and the tide was drawing back in slow, silver fingers. He wore a tunic that flushed with the evening air, and his beard caught the last glimmers of light. Around him, the Atlantic whispered secrets of the",
+            "'s hair brushed against the sea, where it seemed to merge with the water's lace. The wind carried the scent of salt and the distant cry of gulls. Here, in this moment suspended between the earth and the infinite, time lost its measured pace. The old man stood, his silhouette a",
+            " is sitting on a bench. The wind has cooled his skin and the chill air makes his presence a ghostly thing. The last light of day washes the water in a golden hue, and the lace curtains flutter like the wings of some sparrow. In the distance, the sound of waves sings",
+            " stands silhouetted against the evening sky, the air thick with the scent of salt and kelp. His eyes, pools of liquid amber, reflect the waning light of day. He speaks of tides and constellations, of seasons turning like pages in an ancient book. A gentle breeze carries the",
+            " of the harbor, the waves whisper secrets to the air, carrying the scent of salt and seaweed. He watches the dancers' twilight movements, as if they were the brushstrokes of an ancient master. The fog clings to the water like lace, and the gulls have elongated voices, singing notes",
+            " stood and his eyes caught the glow of the waves. The night air was cool, scented with salt and distant shore. He had traveled on this journey for days, each breath a reminder of his arrival. Around him, the darkness was gentle, as if the world whispered its own secrets. He was no longer the"
+          ]
+        },
+        {
+          "prompt": "The meeting ran late, so she",
+          "samples": [
+            " couldn't sleep. \"I swear you held that candle above the sea itself,\" whispered the firelight. Her heart pounded like a war drum in the still air. Around her, the lantern's glow danced on the faces, a silent testament to the hour. Somewhere in the distance, a lone gust",
+            " sat and watched the street lights dance on the water, slow and undulating, a thousand threads of light and shadow. Her breath fogged in the morning air, a ghostly veil over the scene. He was leaning against the brick walls of the old district, his shadow stretching like ink across the pavement. The",
+            " sipped her tea. \"Ah, the kind that lingers between moments,\" she murmured. The clock ticked with a hesitant rhythm, a reluctant cadence. In the stillness, she could almost hear the faint distant hum of the city\u2014an earthy perfume. The air itself seemed to hold",
+            " tapped her fingers to the air. The notes were scattered on the floor, catching the light of the setting sun. Amelia, a woman with eyes the color of warm wheat, leaned against the railing of the bench, her coat fluttering in the gentle breeze. The street below hummed with the promise",
+            " sighed and exhaled the sweet scent of summer air. She clung to the warm glow of the lights, the soft whispers of a distant melody. In the distance, the faint glow of city lights danced to the rhythm of a distant heartbeat. As the stars began to weep silver tears across the",
+            " sighed and watched the evening sun melt into the horizon. The twinkle stars above added to the sky's velvety tapestry. The gentle breeze carried the scent of jasmine leaves, the whispering secrets of long-ago adventures. The distant roar of trains echoed across the land, weaving through the",
+            " stepped out of the car with a breath of cold evening air. In the quiet clearing of the woods, fireflies seemed to pulse like distant lanterns. For a fleeting moment, the world held its breath \u2013 a soundless symphony of unseen notes.\n\nShe had arrived after a long hike, her boots cr",
+            " had to weave through the trees. Birds had begun their morning chorus in the air, each note a fleeting brushstroke against the sky. The path was soft with dew, and the earth beneath had memory of countless footfalls.\n\nIn this moment, time seemed to stretch and slow, suspended between intention and consequence. The"
+          ]
+        },
+        {
+          "prompt": "They buried the dog under the apple tree and",
+          "samples": [
+            " it gave them the joy of a thousand small miracles. (1)\nThey buried the dog under the soil and the earth, where it grew in quiet anticipation. (2)\nLet\u2019s talk of the earth and its secrets, the sweet perfume of its breath to the night. (3)\nBelow it\u2019s a kingdom of",
+            " he was smothered by the branches. I was told the roots were like a spider's web. The ground was still tender from the summer heat. The air held the whisper of summer nights. It was the kind of night that promised change and magic. I remember myself as a small flame dancing in the dark,",
+            " it smelled like a thousand flowers. \nThe dead dog was green and glistened with dew. \nIts breath was an angel in the morning air. \nWe sat in the silence of the night, and the crickets sang hymns through the earth. \nThe moon hung heavy and silver, spilling its",
+            " the dog barked at the air...\n\nIt was late afternoon in the county, as the sun slipped its last golden fingers across the landscape. A gentle breeze carried the scent of ripening fruit and distant blossoms. The air itself seemed to hum with the promise of evening, a prelude to the night's approaching veil",
+            " the dog barking like a sail over the sea. \nThe morning dew on the leaves glistened with the promise of a new day. \nIn the distance, the warm breeze carried the scent of jasmine and sea salt.\nA symphony of nature played upon the air, a reminder of the passage of time",
+            " all the rays of sunlight shimmered like scattered jewels. The scent of the earth and roses lingered in the air. I stood at its center, heart pounding, as if the world itself awaited my arrival. In this sacred space, time stood still, a gentle melody woven through the very fabric of",
+            " the apple fell. They buried the dog under the apple tree and the apple fell. They buried the dog under the apple tree and the apple fell in the wind.\nI don't know, this is a rhyme but I like it.",
+            " the leaves fell like shawls.\n(A song lyric?)\n\nThe song lyric: \"The dog is buried under the apple tree,\nThe leaves fall like shawls, soft and sweet.\"\n\nInspire the senses. A metaphor at play.\n\nDog: the animal.\nApple: the tree; its"
+          ]
+        }
+      ]
+    },
+    {
+      "setting": {
+        "dial": "lp_rand",
+        "alpha": 1.0
+      },
+      "outputs": [
+        {
+          "prompt": "The bus stopped outside the school and",
+          "samples": [
+            " the students were waiting to get into the bus. The children entered the bus. The bus was very crowded. Mr. Brown was in charge of the bus. He put the students in the seats one by one. The school was very quiet. A girl was waiting in the entrance. She had a new notebook. The",
+            " I walked my 3rd and 4th. The bus went past the library and the hospital. It was a cold day and I was wearing my winter coat. I bought a coffee from the cafe. What do I see or walk my? (The answer is 4). So I bought two coffees",
+            " waited for them to board. \nOne of the students came up to the bus and said, \"I will be your driver.\" \nThe bus driver (an adult) and the student drove off for the next two hours. \nDuring the next two hours, the student told the bus driver, \"Please call me your",
+            " the teacher asked the children to come inside. The children came inside. Please stand outside. If you stand outside, you will not get on the bus. Stand inside. If you stand inside, you will get on the bus. Now, which way should the children go? (A) To the left (B)",
+            " there were students on board. The driver said: \u201cI must have missed the first bus at half past three.\u201d How much time was the bus lost? \nI used to solve these problems when I was a school student. These are called \u201cwork and time\" problems. \n\nLet us consider the total time how much",
+            " people got off and took the bus to their homes from their houses. Which of the following could go well with these sentences? \"Because they did not have enough money.\"\n\nTo solve this, we need to match the cause and effect. When people did not have enough money, they might have taken the bus. So",
+            " there were students waiting to enter. A girl wanted to enter but the bus driver said she should wait for the next one. The driver was right, but now the bus had run out of seats and no one could get on. A student was about to board and the girl said, \"I have to go, please",
+            " the students got on the bus. The school principal thought she had missed the bus. How did it happen?\nPlease post the answer in 80 words.\n# Answer\nThe bus driver was going to the school. The student behind the bus missed the stop.\nWhen the bus came to the school, the student in the"
+          ]
+        },
+        {
+          "prompt": "He put the kettle on, sat down at the table, and",
+          "samples": [
+            " ordered tea, tea with milk and scone, and sat back down to read the newspaper.\nThe sentence \"He put the kettle on, sat down at the table, and ordered tea, tea with milk and scone, and sat back down to read the newspaper.\" has several errors. Please find and correct them",
+            " he said he was putting the kettle on and he put the kettle on but when he put on his glasses he saw he was blind and he was talking about his glasses and he still put the kettle on and it didn't make a sound at all but he also saw that he was not blind and he saw",
+            " started to boil water.\nWe had a problem with the kettle.\nHe boiled the kettle.\nI thought we had a problem with the kettle.\nLet's boil the kettle.\nLet's put the kettle on the stove.\nWe put the kettle on the stove.\nLet's put the kettle on",
+            " turned to the paper. There were several chapters, some of them numbered, and he read aloud. He stopped to note the word in which he saw an error, and then continued to the next. After this he turned to the next chapter, and read it aloud. He noticed a pattern in the text, and he",
+            " began to knead the dough. He was all wrong. He had used the wrong dough. He put this dough in the oven and set the timer to 25 minutes. He could have put the kettle on and used the water, but he was all wrong. He had used the wrong kettle. He had",
+            " took the kettle out of the kettle, into his hand, and put the kettle on the table, and went to the kitchen, and turned on the stove, and went to the kitchen, and turned on the stove, and went to the kitchen, but he did not go to the kitchen again, and",
+            " started to write in the diary, but he had to read a lot and he had time only while he was writing that is why he does not run away... I don\u2019t know who was he.\nIs it logic or just a brain game? So he wrote a story but to the end was not done, and he",
+            " began whizzing at the papers, but his hands were always a little too long, when he thought to be more neat he took the pen out of his pocket and began to write on a scrap of paper, and he looked at the new text in his hand with some wonder, for the text was entirely different,"
+          ]
+        },
+        {
+          "prompt": "The two brothers drove north for most of the day, and",
+          "samples": [
+            " then turned south and drove back to their starting point. If it took them a total of 10 hours, how many hours did each brother spend traveling north and south?\n\nWe need to find the time spent traveling north and south. Let's define some variables.\n\nLet the total distance between their starting point and the furthest point",
+            " the man\nThe two brothers drove north for most of the day, and the man\nwent south for the rest of the day, and the two brothers drove\neast and the man drove west for the entire day. If the\ntwo brothers started from downtown Dallas and the\nman started from downtown Fort Worth, how",
+            "\nHow many miles from town A to town B is there? \nThe two brothers left town A and drove north. They\npassed town C, which is 6 miles from town A.\nAfter town C, they passed town D, which is 12 miles from town A. \nAfter town D, they",
+            " then the older brother turned east and drove for most of the day. The older brother was tired and wanted to rest after making the journey. He decided to stop at a rest area and wait for his younger brother to finish his drive. While the younger brother was on the road, the older brother decided to go home and",
+            " then south for the last hour of driving. To find the average speed, use the formula:\n\n$$\n\\text{Average Speed} = \\frac{\\text{Total Distance}}{\\text{Total Time}}\n$$\n\nLet\u2019s define the variables:\n\n- Let \\( d \\) be the total distance driven.\n- Let \\( t \\) be the total",
+            " then each turned 90 degrees to the left or right and drove south. So, if one of them was driving north, the other had to be driving south. If one of them was driving south, the other had to be driving north. If one of them was driving north or south, the other had to be",
+            " then began driving south for most of the day. At the end of the day, they had covered exactly 120 miles. If the first brother drove 3/5 of the distance that the second brother drove, how many miles did each brother drive?\n\nLet \\( x \\) be the distance the second brother drove.  \n",
+            " the other brother drove south for most of the day. They all stopped at the same four places. What is the distance between the first place and the second place?\n \nI saw this problem and it looked like a good candidate for a 20 minute project. I had one student who was really good at geometry and another"
+          ]
+        },
+        {
+          "prompt": "She came home from work to find the door unlocked and",
+          "samples": [
+            " the house was in a state of chaos. But she was a careful young woman, and she knew that the chaos was not her fault. She had gone out to a friend's party and gotten into a fight with her roommate, which had led to broken windows and many other things. She had even stolen her",
+            " open. Panic set in. She ran out to the closet and pulled out a key, thinking it was a spare key to her apartment. But as she put it on, the door swung open and the living room was empty, except for her. She walked into the living room and opened the door and saw",
+            " the lock was on, so she used the lock to open the window. The lock was not on the window.\n\nThis one is a bit harder. She walked through the house. She came outside and was surprised to see she was alone. She walked to the kitchen and turned on the stove. She opened fire with the",
+            " the child lock open!\nHer husband was in the hallway trying to unlock the door. It took her\nthree tries to succeed!\nHer husband was trying to push the child lock from inside the room. He\nfailed because the child lock was too big.\nShe came out and went for a drink and later came back to",
+            " the front door open. She also found her front door and glass had one small crack in the center. She went outside and saw a man sitting at the curb. He was carrying a single piece of paper at his belt. She walked up to him and pointed at the crack in her glass. He sighed but kept",
+            " everyone else in the apartment was asleep. She looked at her watch and saw that it was 7:30 PM. If she left the apartment in just a few minutes she could make it to work by 9:00 AM. She was in a rush. She got out of bed and immediately started to run out",
+            " a man standing on the lawn. He was my nephew, but not my brother. I was my father's son. The man was my cousin. I was two years older than my brother. Who was I?\n\nLet me break this down step by step.\n\n1. **Key Relationships:**\n   - The man is",
+            " the house clean. She had just checked out of her apartment, which had been locked up this morning. She felt as if she had just run a marathon. She ran to the kitchen, where it was not just the coffee maker turned off, but the lights were all turned off. She had not just been watching the"
+          ]
+        },
+        {
+          "prompt": "The village had one road, one shop and",
+          "samples": [
+            " one post office (1,1,1). By the time Tom went out he had bought the dog and the cat and his dog had died. He was now returning home and had bought the rabbit, the dog and the cat. He told his friend about his mishap and the dog was gone. If there",
+            " one inn. The innkeeper was inside at one precise moment. The bakery owner was inside at one precise moment. The village councilman had dropped dead yesterday afternoon. In the middle of the street there was a horse, a piano, a cat, and a bicycle. The man at the bus stop was calling out",
+            " one postman. One day, a traveler came and said: \"I wish to purchase one goat, one sheep, and one cow, but I will share all these with my three friends and I don't want to pay for anything. So I want to do it for half the price of all three animals. How",
+            " one park. Across the road from the shop was a house, and on the same side of the road as the park were two houses. The front of the house across the road from the shop was a cottage. In front of the cottage was a house. A farmer's house was two houses away from the shop.",
+            " five villages, one school and seven pupils. The school was located in a different village to the village of the shop. There was a street in each village, five streets, and five houses. The houses in each street were numbered 1 to 5, and the pupils all sat on the same side of the school",
+            " one baker, but not one of anything! How many objects were there in total?\n \nTo solve this, let's break down the information we are given:\n \nThere is only one road, one shop, and one baker. However, there is not one of something. This implies that the road, shop",
+            " five people. After the shop was renovated two of the people were moved away and four new people moved in. The four new people were one old man, one old woman, two and two children. After this, there were five people in the village on one street, one shop, with one shop and four doors",
+            " one school. On the corner of the road and the shop the village had one doctor. For every village it had one doctor. For every village it had one school, one shop and one doctor. In one village it had one doctor and one shop.\nHow many of each thing at one village?\nWhat is the village"
+          ]
+        },
+        {
+          "prompt": "At the end of the pier, the old man",
+          "samples": [
+            " stood and looked at the sun rising, and then he said, \"I have made the most peace for this land and all the people who lived here.\" He spoke with deep meaning, and the crowd was in disbelief. One by one, they heard the words, and for each one, they had a memory",
+            " had a small boat on the water. The boat was an old old boat. He thought boat was a big boat and he thought big boat was the last boat on the water. He had a very small boat on the water. He and the old man were on the pier. He was at the end of the pier",
+            " went to the pier, and his neighbor came to the pier. The old man is a man of many talents. He wants to make the day more suitable for those who are there.\nHe sees his neighbor having a good time on the pier, and he wants to match it with him. This time will be for a",
+            " was looking at the waves. He was watching them roll and crash. His heart was pounding a little bit and his hands were shaking. It was the day of his funeral. He was sad and lonely. The waves had been crashing against the pier for a long time. It was a beautiful day. He was",
+            " is sitting on a bench and looks at the crowd below. He is smiling to the crowd. The crowd looks at him and is cheering the old man. \"What\" am I doing the same I was doing? This is an old man who is sitting on a bench. He is looking at the crowd. He",
+            " looked down at the waves and said: \u201cI have been waiting for a long time for someone to pass over here; I wish to cross the street so that I can reach the pier and see my sister.\u201d He walked along the pier, looking at the waves as they rolled by, and then, after a while,",
+            " is sitting inside a large wooden crate with his new hat. He washes his face and then brushes out any remaining dirt, and looks into the sea. He sees a few of his old friends in the water, some are dead and a few are alive. He is a good man and remembers them and thanks them",
+            " stands and leans down near his boots, looking into the sea. He can see the waves crashing against the rocks below. He watches the distant horizon and thinks about his lost child. The waves move in rhythm to his breathing and sound. He is alone, the breeze in his hair. He misses the sound"
+          ]
+        },
+        {
+          "prompt": "The meeting ran late, so she",
+          "samples": [
+            " decided to take a quick walk instead of driving. Since she had to walk and drive to the same location, the time walking was equal to the time driving. If she walked for 15 minutes, how many minutes did she spend driving? A. 15 B. 30 C. 45 D. 60",
+            " took the bus.\nIt was late.\nThe late bus left.\n \nLet's see if we can find some meaning in these sentences:\n \nFrom the first one: (meeting ran late) -> (she took the bus) [bus is for late situation]\nFrom the second: It was late.\nFrom the third",
+            " left early. If the meeting lasted less than 10 minutes, she would have arrived at the meeting place 10 minutes earlier. She arrived at the meeting 25 minutes before the meeting was supposed to start. How long was the meeting?\n\nLet \\( t \\) be the duration of the meeting in minutes.\n\nAccording to the",
+            " was forced to finish the rest of the project early. What is the best way to correct this sentence?\n\nTo make the sentence sound more natural, we need to change the structure slightly. Here are a few possible corrections:\n\n**Option 1:** \"The meeting ran late, so she had to finish the rest of the",
+            " started walking down the street. She took her dog with her. Her dog was her best friend. She was tired of her job's monotony, so she wanted to go for a walk in nature. The grass was full of flowers. This was not what she expected. She took her dog on her walk. She",
+            " didn't get to go home. She turned around to find the bus and saw that the driver had already left. It was a nice day, but there was a cloud in the sky ahead. She hoped the clouds would clear, but she found that they were not going away. She walked home, and then she saw",
+            " walked to the car, opened the door, and stepped out. She felt relieved because she could now leave alone and go back home to help her family. At last she entered the car, drove home, and parked in the driveway.\n\nWhat is the best summary of the passage?\n\nA. After she stayed late at",
+            " had to rush out the door. Now, at ten o'clock in the morning, she found the house still empty. Her parents had gone to work, and her brother was at school. She took the bus across the country to get there. The bus travel time was very long. After five hours of waiting at the"
+          ]
+        },
+        {
+          "prompt": "They buried the dog under the apple tree and",
+          "samples": [
+            " he didn't come out.  How is this possible?  When... the sun was full.\n# When the sun is full and it is dark outside and you can't see anything.  When the sun \"went out\" but wasn't really going out.  (The Sun has nothing to go to).\n#",
+            " then the dog was eaten by the cat. The dog had a bone in his back and the bone was in the apple tree. What kind of tree is it?  \nWe know the dog died of cancer, so it was in a house.  \nIt was a treehouse.  \nBut then why is the dog under",
+            " the dog was eaten by the horse. They buried the horse under the apple tree and the horse died. Why?\n\nThis is a classic riddle that plays on the double meanings of \"under\" and the word \"buried\".\n\nLet\u2019s break down the riddle step by step:\n\n---\n\n**First sentence:**\n> *",
+            " the apple fell to the ground. Could you make sense of this? And how did you make sense of it? Here\u2019s what I think. The dog and the apple are related. To me, what I mean is that the dog is in the apple tree. But the dog is not a tree. The tree is",
+            " the dog looked around but he saw nothing but the apple tree and they buried the dog with their little baby girl and the girl asked them how they buried the dog and their daughter said she buried the dog in the flower field and they buried the dog with the little boy who was there and the boy said he doesn't know",
+            " got an apple for dinner. How does this relate to the number 42?\n \nThis is Einstein's theory of everything. He has suggested that math and nature are the same, and that the numbers of planets are determined by the numbers of electrons in matter.\n \nHe has also suggested that the number 42 is the",
+            " the rabbit came and ate the grass.\nWhat happened?\nA) The dog was eating the apple tree.\nB) The rabbit got the apple tree.\nC) The dog was sitting in the grass.\nD) The rabbit was eating the grass.\n\nThis is a logic problem. The sentence is structured as a riddle or",
+            " the apple fell on the dog's head...\nWhat happens to apple and dog...?\nA. \nIn the past, but \nB. \nA. \nIn the past, but \nC. \nIn the present, always\nD. \nNeither. \nSo, which one is the correct? \nWhat"
+          ]
+        }
+      ]
+    }
+  ],
+  "ok": true,
+  "pass": 4,
+  "passes_left": 11,
+  "secs": 16.9,
+  "load_in_kernel": "gens(4)"
+}

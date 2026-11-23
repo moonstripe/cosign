@@ -1,0 +1,34 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "The ferry was late again, and the two strangers on the bench",
+    "Grandma's hands shook a little as she poured the tea and",
+    "He hadn't spoken to his brother since the trial. When he saw him at the gas station,",
+    "The kitten had been hiding under the porch for two days before Anna",
+    "Her son's first day of school. She stood at the gate and",
+    "The soldier came home in the middle of the night and",
+    "Snow covered the whole village by morning, and the boy",
+    "The old couple sat across from each other at the diner, and"
+  ],
+  "samples": 8,
+  "max_tokens": 80,
+  "temperature": 0.8,
+  "seed": 23,
+  "settings": [
+    {
+      "dial": null
+    },
+    {
+      "dial": "tc_final",
+      "alpha": 0.5
+    },
+    {
+      "dial": "tc_final",
+      "alpha": 1.0
+    },
+    {
+      "dial": "tc_rand_final",
+      "alpha": 1.0
+    }
+  ]
+}

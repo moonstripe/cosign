@@ -1,0 +1,693 @@
+[
+{
+"via": "import",
+"steer": [],
+"ai": 1
+},
+{
+"via": "type",
+"steer": [],
+"ai": 0.892
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "tense",
+"s": 0.4
+}
+],
+"ai": 0.874
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "tender",
+"s": 0.35
+}
+],
+"ai": 0.862
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "cold",
+"s": 0.65
+}
+],
+"ai": null
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "playful",
+"s": 0.35
+}
+],
+"ai": 0.813
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "lush",
+"s": 0.55
+}
+],
+"ai": 0.801
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "calm",
+"s": 0.6
+}
+],
+"ai": 0.783
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.65
+}
+],
+"ai": 0.771
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.15
+}
+],
+"ai": 0.758
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "playful",
+"s": 0.1
+}
+],
+"ai": null
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.4
+}
+],
+"ai": null
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "lush",
+"s": 0.55
+}
+],
+"ai": null
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "calm",
+"s": 0.39
+},
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "grave",
+"s": 0.11
+}
+],
+"ai": null
+},
+{
+"via": "type",
+"steer": [],
+"ai": 0.705
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "tense",
+"s": 0.3
+}
+],
+"ai": 0.696
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "lush",
+"s": 0.5
+}
+],
+"ai": 0.685
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "calm",
+"s": 0.25
+}
+],
+"ai": null
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "playful",
+"s": 0.6
+}
+],
+"ai": 0.665
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "cold",
+"s": 0.2
+}
+],
+"ai": 0.651
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "calm",
+"s": 0.2
+}
+],
+"ai": 0.64
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "grave",
+"s": 0.6
+}
+],
+"ai": 0.632
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "tense",
+"s": 0.15
+}
+],
+"ai": 0.624
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "playful",
+"s": 0.3
+}
+],
+"ai": 0.615
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "playful",
+"s": 0.5
+}
+],
+"ai": 0.604
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "tender",
+"s": 0.15
+}
+],
+"ai": 0.597
+},
+{
+"via": "opt-tab",
+"steer": [],
+"ai": 0.588
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "playful",
+"s": 0.45
+}
+],
+"ai": 0.579
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.2
+}
+],
+"ai": 0.571
+},
+{
+"via": "type",
+"steer": [],
+"ai": 0.571
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "calm",
+"s": 0.1
+},
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.1
+}
+],
+"ai": 0.566
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.1
+},
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "tender",
+"s": 0.1
+}
+],
+"ai": 0.56
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "tender",
+"s": 0.06
+},
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.04
+}
+],
+"ai": 0.554
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "playful",
+"s": 0.08
+},
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "tender",
+"s": 0.07
+}
+],
+"ai": 0.545
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "tense",
+"s": 0.05
+},
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "playful",
+"s": 0.05
+}
+],
+"ai": 0.543
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "tender",
+"s": 0.08
+},
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.07
+}
+],
+"ai": null
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "tender",
+"s": 0.03
+},
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.02
+}
+],
+"ai": 0.527
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "tender",
+"s": 0.05
+},
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.05
+}
+],
+"ai": 0.522
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "grave",
+"s": 0.13
+},
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "cold",
+"s": 0.12
+}
+],
+"ai": 0.518
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "cold",
+"s": 0.1
+},
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "grave",
+"s": 0.1
+}
+],
+"ai": 0.509
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "calm",
+"s": 0.05
+},
+{
+"axis": [
+"lush",
+"plain"
+],
+"toward": "plain",
+"s": 0.05
+}
+],
+"ai": 0.502
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "grave",
+"s": 0.05
+},
+{
+"axis": [
+"tender",
+"cold"
+],
+"toward": "cold",
+"s": 0.05
+}
+],
+"ai": 0.495
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "grave",
+"s": 0.05
+},
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "calm",
+"s": 0.05
+}
+],
+"ai": 0.49
+},
+{
+"via": "opt-tab",
+"steer": [
+{
+"axis": [
+"playful",
+"grave"
+],
+"toward": "grave",
+"s": 0.08
+},
+{
+"axis": [
+"tense",
+"calm"
+],
+"toward": "calm",
+"s": 0.07
+}
+],
+"ai": 0.484
+}
+]

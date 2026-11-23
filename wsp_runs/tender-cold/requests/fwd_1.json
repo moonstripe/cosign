@@ -1,0 +1,30 @@
+{
+  "kind": "generate",
+  "prompts": [
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nShe opened the letter at the kitchen table and",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nHe came home late that night, set his keys down, and",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nThe phone rang just after midnight. When she answered,",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nIn the hospital corridor, the doctor turned to the family and",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nThey sat together on the porch as the sun went down, and",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nWhen the boy finally reached his grandmother's house,",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nThe old man looked at the photograph for a long time before he",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nAfter the funeral, she walked back to the empty apartment and",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nHe knelt beside the bed where his daughter was sleeping and",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nThe two sisters met at the train station for the first time in years.",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nShe handed him the cup of coffee and",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nThe nurse adjusted the blanket over the patient and",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nWhen the dog limped back through the door,",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nHe read her message twice before he typed his reply:",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nOn their last morning together, they",
+    "From a novel. The scene is unbearably tender, warm and loving:\n\nThe teacher stopped beside the crying student's desk and"
+  ],
+  "samples": 8,
+  "max_tokens": 64,
+  "temperature": 0.8,
+  "seed": 0,
+  "settings": [
+    {
+      "dial": null
+    }
+  ]
+}

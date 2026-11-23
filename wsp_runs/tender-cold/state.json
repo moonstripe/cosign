@@ -1,0 +1,17 @@
+{
+  "run": "tender-cold",
+  "model": "LiquidAI/LFM3-1.7B",
+  "budget": 15,
+  "used": 6,
+  "kernel_runs": 11,
+  "candidates": [
+    "tc_final",
+    "tc_rand",
+    "tc_rand15",
+    "tc_rand_final",
+    "tc_v1",
+    "tc_v15"
+  ],
+  "submitted": [],
+  "updated": "2026-11-22T18:41:31"
+}

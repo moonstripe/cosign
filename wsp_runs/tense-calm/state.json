@@ -1,0 +1,32 @@
+{
+  "run": "tense-calm",
+  "model": "LiquidAI/LFM3-1.7B",
+  "budget": 15,
+  "used": 15,
+  "kernel_runs": 16,
+  "candidates": [
+    "bias_early",
+    "bias_late",
+    "bias_mid",
+    "calm6",
+    "calmW",
+    "early3",
+    "earlyW",
+    "late",
+    "late3",
+    "late_c1",
+    "mid_c1",
+    "rand6",
+    "randW",
+    "rand_late",
+    "spread6"
+  ],
+  "submitted": [
+    {
+      "name": "earlyW",
+      "path": "moods/tense__calm.pt",
+      "t": "2026-11-22T12:59:07"
+    }
+  ],
+  "updated": "2026-11-22T12:59:07"
+}
