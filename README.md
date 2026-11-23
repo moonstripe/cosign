@@ -2,7 +2,7 @@
 
 **Co-write with a language model, and steer its mood from inside its weights.**
 
-🏆 First place, Non Slop Hackathon (Nous Research, 22 November 2026)
+🏆 First place, Non Slop Hackathon (Pangram, Nous Research, Reducto, Modal; 22 November 2026)
 
 ![Cosign: the mood wheel open over a document](docs/img/cosign-wheel.png)
 

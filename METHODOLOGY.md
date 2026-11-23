@@ -2,7 +2,7 @@
 
 How Cosign took an AI-written paper from **100% AI to 48% AI** (as scored by Pangram) in a single branch, and the work it took to get there.
 
-Cosign won **first place at the Non Slop Hackathon** (Nous Research, 22 November 2026). This document explains how the system was built, what each part was tested against, and which results hold up. It also covers what we do not know yet.
+Cosign won **first place at the Non Slop Hackathon** (Pangram, Nous Research, Reducto, Modal; 22 November 2026). This document explains how the system was built, what each part was tested against, and which results hold up. It also covers what we do not know yet.
 
 Every number here can be traced to a file in this repo:
 
